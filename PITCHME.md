@@ -84,7 +84,7 @@ Format: \[Placeholder\](url) OR just paste the link
 with http and it automatically turns into link
 ```
 
-\[Medium\](http://medium.com)
+\[Medium\]\(http://medium.com\)
 
 @snapend
 
