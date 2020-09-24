@@ -183,7 +183,7 @@ _You **can** combine them_
 
 ---
 
-@snap[north]
+@snap[north text-06]
 
 #### backslash escapes
 
@@ -194,7 +194,7 @@ To tell markdown too not rendered the character after backslash
 
 @snapend
 
-@snap[south]
+@snap[south text-04 fragment]
 
 #### backslash escapes - table
 
@@ -278,7 +278,7 @@ Format: ![Alt text](url)
 
 @snapend
 
-@snap[midpoint]
+@snap[midpoint fragment]
 
 ```markdown
 Unordered list
