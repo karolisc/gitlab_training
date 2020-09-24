@@ -47,9 +47,13 @@ reference by - !, #, @
 
 ---
 
+@snap[north span-50]
+
 ### task lists
 
-@snap[west span-45]
+@snapend
+
+@snap[west span-45 text-center]
 
 ```bash
 - [x] this is complete item
@@ -58,7 +62,7 @@ reference by - !, #, @
 
 @snapend
 
-@snap[east span-50]
+@snap[east span-50 text-center]
 
 - [x] this is complete item
 - [ ] this is incomplete item
