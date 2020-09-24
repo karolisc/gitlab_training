@@ -264,6 +264,8 @@ Code above will be converted into code block with javascript syntax highlighting
 
 ```markdown
 Format: ![Alt text](url)
+
+\![Medium Logo](https://cdn-images-1.medium.com/max/400/1*QnlI8nTg-t9G3pLrxbX9-w.png)
 ```
 
 ![Medium Logo](https://cdn-images-1.medium.com/max/400/1*QnlI8nTg-t9G3pLrxbX9-w.png)
@@ -276,7 +278,7 @@ Format: ![Alt text](url)
 
 @snapend
 
-@snap[midpoint text-04]
+@snap[midpoint]
 
 ```markdown
 Unordered list
@@ -289,8 +291,8 @@ Unordered list
 Ordered list
 
 1. one
-1. two
-1. three
+2. two
+3. three
    - Also yes, you can combine unordered with ordered list
    - Just give three spaces and your list will be nested
    - How cool and easy
@@ -298,7 +300,7 @@ Ordered list
 
 @snapend
 
-@snap[south fragment text-04]
+@snap[midpoint fragment]
 
 Unordered list
 
@@ -310,8 +312,8 @@ Unordered list
 Ordered list
 
 1. one
-1. two
-1. three
+2. two
+3. three
    - Also yes, you can combine unordered with ordered list
    - Just give three spaces and your list will be nested
    - How cool and easy
