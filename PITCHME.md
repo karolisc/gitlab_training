@@ -34,7 +34,7 @@ generate (convert)
 
 @snap[north]
 
-#### MD elements - basic
+#### MD elements - @color[green](basic)
 
 @snapend
 
@@ -54,7 +54,7 @@ reference by - !, #, @
 
 @snap[north]
 
-#### MD elements - advanced
+#### MD elements - @color[red](advanced)
 
 @snapend
 
