@@ -163,10 +163,8 @@ Like he said:
 
 ```markdown
 _Italic text_
-_Italic text too_
 
 **Bold text**
-**Bold text too**
 
 _You **can** combine them_
 ```
@@ -175,11 +173,9 @@ _You **can** combine them_
 
 @snap[east bg-blue text-left fragment text-06]
 
-_Italic text_  
-_Italic text too_
+_Italic text_
 
-**Bold text**  
-**Bold text too**
+**Bold text**
 
 _You **can** combine them_
 
