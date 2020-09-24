@@ -292,8 +292,8 @@ Unordered list
 Ordered list
 
 1. one
-2. two
-3. three
+1. two
+1. three
    - Also yes, you can combine unordered with ordered list
    - Just give three spaces and your list will be nested
    - How cool and easy
