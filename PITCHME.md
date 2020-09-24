@@ -97,10 +97,11 @@ __Bold text too__
 ```bash
 To tell markdown too not rendered the character after backslash
 \*Just asterisks, not italic\* => *Just asterisks, not italic*
-
-
-Some char that can be escaped:
 ```
+
+---
+
+### backslash escapes - char escape table
 
 | symbol | name             |
 | :----: | :--------------- |
