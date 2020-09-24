@@ -6,7 +6,7 @@
 
 @snap[midpoint fragment]
 
-@box[bg-grey text-orange span-80 ](Markdown is a lightweight markup language with plain-text-formatting syntax)
+@box[bg-grey text-orange](Markdown is a lightweight markup language with plain-text-formatting syntax)
 
 @snapend
 
