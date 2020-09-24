@@ -328,7 +328,7 @@ Ordered list
 
 @snapend
 
-@snap[west text-center]
+@snap[west text-right]
 
 ```markdown
 | No  | Name        |
@@ -339,7 +339,7 @@ Ordered list
 
 @snapend
 
-@snap[east text-center fragment text-06]
+@snap[east text-left fragment text-06]
 
 | No  | Name        |
 | --- | ----------- |
@@ -356,19 +356,19 @@ limited - simple one row tables
 
 #### Resources
 
-full MD element reference list
-https://docs.gitlab.com/ce/user/markdown.html
+1. full MD element reference list
+   https://docs.gitlab.com/ce/user/markdown.html
 
-self paced git learning
-https://www.markdowntutorial.com/
+1. self paced git learning
+   https://www.markdowntutorial.com/
 
-https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
-https://docs.gitlab.com/ce/user/markdown.html
+1. https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+1. https://docs.gitlab.com/ce/user/markdown.html
 
 ---
 
 #### references
 
-https://github.com/commonmark/commonmark-spec/wiki/markdown-flavors
-https://docs.gitlab.com/ce/user/markdown.html
-https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+1. https://github.com/commonmark/commonmark-spec/wiki/markdown-flavors
+1. https://docs.gitlab.com/ce/user/markdown.html
+1. https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
