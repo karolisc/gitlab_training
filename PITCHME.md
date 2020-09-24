@@ -80,8 +80,9 @@ reference by - !, #, @
 @snap[west text-06]
 
 ```markdown
-Format: \[Placeholder\](url) OR just paste the link
-with http and it automatically turns into link
+Format: \[Placeholder\](url) OR
+just paste the link with http and
+it automatically turns into link
 
 \[Medium\](http://medium.com)
 ```
@@ -109,8 +110,10 @@ Format: > Words you quotes
 
 Like he said:
 
-> Happiness can be found even in the darkest of times,
-> if one only remembers to turn on the light.
+> Happiness can be found even
+> in the darkest of times,
+> if one only remembers
+> to turn on the light.
 ```
 
 @snapend
@@ -119,8 +122,10 @@ Like he said:
 
 Like he said:
 
-> Happiness can be found even in the darkest of times,
-> if one only remembers to turn on the light.
+> Happiness can be found even
+> in the darkest of times,
+> if one only remembers
+> to turn on the light.
 
 @snapend
 
@@ -141,7 +146,7 @@ _Italic text too_
 **Bold text**
 **Bold text too**
 
-_Of course you **can** combine them_
+_You **can** combine them_
 ```
 
 @snapend
@@ -154,11 +159,13 @@ _Italic text too_
 **Bold text**  
 **Bold text too**
 
-_Of course you **can** combine them_
+_You **can** combine them_
 
 @snapend
 
 ---
+
+@snap[north]
 
 ### backslash escapes
 
@@ -167,7 +174,9 @@ To tell markdown too not rendered the character after backslash
 \*Just asterisks, not italic\* => _Just asterisks, not italic_
 ```
 
----
+@snapend
+
+@snap[south]
 
 ### backslash escapes - table
 
@@ -185,6 +194,8 @@ To tell markdown too not rendered the character after backslash
 |   -    | minus sign       |
 |   .    | dot              |
 |   !    | exclamation mark |
+
+@snapend
 
 ---
 
@@ -323,12 +334,10 @@ limited - simple one row tables
 
 ---
 
+### Resources
+
 full MD element reference list:
 https://docs.gitlab.com/ce/user/markdown.html
-
----
-
-### Resources
 
 self paced git learning
 https://www.markdowntutorial.com/
