@@ -77,18 +77,18 @@ reference by - !, #, @
 
 @snapend
 
-@snap[west span-45 text-08]
+@snap[west text-08]
 
-```bash
+```markdown
 Format: \[Placeholder\](url) OR just paste the link
 with http and it automatically turns into link
-```
 
-\[Medium\]\(http://medium.com\)
+\[Medium\](http://medium.com)
+```
 
 @snapend
 
-@snap[east span-45]
+@snap[east fragment]
 
 [Medium](http://medium.com)
 
@@ -102,19 +102,20 @@ with http and it automatically turns into link
 
 @snapend
 
-@snap[west span-50]
+@snap[west]
 
-```bash
+```markdown
 Format: > Words you quotes
 
 Like he said:
+
 > Happiness can be found even in the darkest of times,
 > if one only remembers to turn on the light.
 ```
 
 @snapend
 
-@snap[east span-50]
+@snap[east fragment]
 
 Like he said:
 
@@ -125,17 +126,27 @@ Like he said:
 
 ---
 
+@snap[north]
+
 ### emphasis
 
-```bash
-*Italic text*
+@snapend
+
+@snap[west]
+
+```markdown
+_Italic text_
 _Italic text too_
 
 **Bold text**
-__Bold text too__
+**Bold text too**
 
-*Of course you **can** combine them*
+_Of course you **can** combine them_
 ```
+
+@snapend
+
+@snap[east fragment]
 
 _Italic text_  
 _Italic text too_
@@ -145,13 +156,15 @@ _Italic text too_
 
 _Of course you **can** combine them_
 
+@snapend
+
 ---
 
 ### backslash escapes
 
-```bash
+```markdown
 To tell markdown too not rendered the character after backslash
-\*Just asterisks, not italic\* => *Just asterisks, not italic*
+\*Just asterisks, not italic\* => _Just asterisks, not italic_
 ```
 
 ---
@@ -190,9 +203,11 @@ Code above will be converted into code block with javascript syntax highlighting
 
 ### headers
 
-```bash
+```markdown
 # This is header 1
+
 ## This is header 2
+
 ###### This in header 6, the smallest header as you know in HTML syntax as <h6>
 ```
 
@@ -206,7 +221,7 @@ Code above will be converted into code block with javascript syntax highlighting
 
 ### images
 
-```bash
+```markdown
 Format: ![Alt text](url)
 ![Medium Logo](https://cdn-images-1.medium.com/max/400/1*QnlI8nTg-t9G3pLrxbX9-w.png)
 ```
@@ -215,20 +230,22 @@ Format: ![Alt text](url)
 
 ### lists
 
-```bash
+```markdown
 Unordered list
-* first
-* second
-   * first in second, yes you can make nested list
-   * second in second
+
+- first
+- second
+  - first in second, yes you can make nested list
+  - second in second
 
 Ordered list
+
 1. one
 1. two
 1. three
-   * Also yes, you can combine unordered with ordered list
-   * Just give three spaces and your list will be nested
-   * How cool and easy
+   - Also yes, you can combine unordered with ordered list
+   - Just give three spaces and your list will be nested
+   - How cool and easy
 ```
 
 Unordered list
@@ -251,11 +268,11 @@ Ordered list
 
 ### tables
 
-```bash
-|No | Name       |
-|---|------------|
-|1  | Jundi Alwan|
-|2  | John Doe   |
+```markdown
+| No  | Name        |
+| --- | ----------- |
+| 1   | Jundi Alwan |
+| 2   | John Doe    |
 ```
 
 | No  | Name        |
