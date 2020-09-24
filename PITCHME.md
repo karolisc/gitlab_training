@@ -58,7 +58,7 @@ reference by - !, #, @
 
 @divend
 
-@div[right-50 fragment text-08]
+@div[right-50 fragment text-05]
 
 - [x] this is complete item
 - [ ] this is incomplete item
