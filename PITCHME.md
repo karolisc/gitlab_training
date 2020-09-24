@@ -4,7 +4,7 @@
 
 @snapend
 
-@snap[midpoint fragment]
+@snap[midpoint text-06 fragment]
 
 @color[orange](Markdown is a lightweight markup language with plain-text-formatting syntax)
 
