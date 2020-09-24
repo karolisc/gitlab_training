@@ -183,7 +183,7 @@ _You **can** combine them_
 
 ---
 
-@snap[north text-06]
+@snap[north text-08]
 
 #### backslash escapes
 
@@ -194,7 +194,7 @@ To tell markdown too not rendered the character after backslash
 
 @snapend
 
-@snap[south text-04 fragment]
+@snap[south text-06 fragment]
 
 #### backslash escapes - table
 
