@@ -71,7 +71,7 @@ reference by - !, #, @
 
 @snap[north]
 
-### task lists
+#### task lists
 
 @snapend
 
@@ -95,7 +95,7 @@ reference by - !, #, @
 
 @snap[north]
 
-### links
+#### links
 
 @snapend
 
@@ -121,7 +121,7 @@ it automatically turns into link
 
 @snap[north]
 
-### blockquotes
+#### blockquotes
 
 @snapend
 
@@ -140,7 +140,7 @@ Like he said:
 
 @snapend
 
-@snap[east bg-blue fragment text-06]
+@snap[east bg-blue text-left fragment text-06]
 
 Like he said:
 
@@ -155,7 +155,7 @@ Like he said:
 
 @snap[north]
 
-### emphasis
+#### emphasis
 
 @snapend
 
@@ -185,7 +185,7 @@ _You **can** combine them_
 
 @snap[north]
 
-### backslash escapes
+#### backslash escapes
 
 ```markdown
 To tell markdown too not rendered the character after backslash
@@ -196,7 +196,7 @@ To tell markdown too not rendered the character after backslash
 
 @snap[south]
 
-### backslash escapes - table
+#### backslash escapes - table
 
 | symbol | name             |
 | :----: | :--------------- |
@@ -217,7 +217,7 @@ To tell markdown too not rendered the character after backslash
 
 ---
 
-### fence code blocks
+#### fence code blocks
 
 ```javascript
 const store = createStore(reducer);
@@ -232,7 +232,7 @@ Code above will be converted into code block with javascript syntax highlighting
 
 @snap[north]
 
-### headers
+#### headers
 
 @snapend
 
@@ -248,7 +248,7 @@ Code above will be converted into code block with javascript syntax highlighting
 
 @snapend
 
-@snap[east fragment text-06]
+@snap[east text-left fragment text-06]
 
 #### This is header 4
 
@@ -260,7 +260,7 @@ Code above will be converted into code block with javascript syntax highlighting
 
 ---
 
-### images
+#### images
 
 ```markdown
 Format: ![Alt text](url)
@@ -272,7 +272,7 @@ Format: ![Alt text](url)
 
 @snap[north]
 
-### lists
+#### lists
 
 @snapend
 
@@ -322,7 +322,7 @@ Ordered list
 
 @snap[north]
 
-### tables
+#### tables
 
 @snapend
 
@@ -352,7 +352,7 @@ limited - simple one row tables
 
 ---
 
-### Resources
+#### Resources
 
 full MD element reference list:
 https://docs.gitlab.com/ce/user/markdown.html
@@ -365,7 +365,7 @@ https://docs.gitlab.com/ce/user/markdown.html
 
 ---
 
-### references
+#### references
 
 https://github.com/commonmark/commonmark-spec/wiki/markdown-flavors
 https://docs.gitlab.com/ce/user/markdown.html
