@@ -1,4 +1,4 @@
----?color=#1561AD
+---?color=#09868B
 
 @snap[north]
 
@@ -17,7 +17,7 @@ Note:
 text power  
 generate (convert)
 
----
+---?color=#09868B
 
 @snap[north]
 
@@ -32,7 +32,7 @@ generate (convert)
 5. Pandoc
 6. ...
 
----
+---?color=#09868B
 
 @snap[north]
 
@@ -52,7 +52,7 @@ Note:
 
 reference by - !, #, @
 
----
+---?color=#09868B
 
 @snap[north]
 
@@ -65,11 +65,11 @@ reference by - !, #, @
 - diagrams and flowcharts
 - inline HTML
 
----
+---?color=#09868B
 
 #### @color[orange](MD element) examples
 
----
+---?color=#09868B
 
 @snap[north]
 
@@ -93,7 +93,7 @@ reference by - !, #, @
 
 @snapend
 
----
+---?color=#09868B
 
 @snap[north]
 
@@ -119,7 +119,7 @@ it automatically turns into link
 
 @snapend
 
----
+---?color=#09868B
 
 @snap[north]
 
@@ -153,7 +153,7 @@ Like he said:
 
 @snapend
 
----
+---?color=#09868B
 
 @snap[north]
 
@@ -183,7 +183,7 @@ _You **can** combine them_
 
 @snapend
 
----
+---?color=#09868B
 
 @snap[north]
 
@@ -200,24 +200,24 @@ Markdown will not rendered the character after backslash
 
 <br><br><br>
 
-| symbol | name             |
-| :----: | :--------------- |
-|   \    | backslash        |
-|   `    | back tick        |
-|   \*   | asterisks        |
-|   \_   | underscore       |
-|   {}   | curly braces     |
-|   []   | square brackets  |
-|   ()   | parentheses      |
-|   \#   | hash mark        |
-|   +    | plus sign        |
-|   -    | minus sign       |
-|   .    | dot              |
-|   !    | exclamation mark |
+| symbol | name |
+| :---?color=#09868B-: | :---?color=#09868B---?color=#09868B---?color=#09868B---?color=#09868B---?color=#09868B |
+| \ | backslash |
+| ` | back tick |
+| \* | asterisks |
+| \_ | underscore |
+| {} | curly braces |
+| [] | square brackets |
+| () | parentheses |
+| \# | hash mark |
+| + | plus sign |
+| - | minus sign |
+| . | dot |
+| ! | exclamation mark |
 
 @snapend
 
----
+---?color=#09868B
 
 #### fence code blocks
 
@@ -231,7 +231,7 @@ with javascript syntax highlighting
 
 ```
 
----
+---?color=#09868B
 
 @snap[north]
 
@@ -261,7 +261,7 @@ with javascript syntax highlighting
 
 @snapend
 
----
+---?color=#09868B
 
 #### images
 
@@ -273,7 +273,7 @@ Format: ![Alt text](url)
 
 ![Medium Logo](https://cdn-images-1.medium.com/max/400/1*QnlI8nTg-t9G3pLrxbX9-w.png)
 
----
+---?color=#09868B
 
 @snap[north]
 
@@ -323,7 +323,7 @@ Ordered list
 
 @snapend
 
----
+---?color=#09868B
 
 @snap[north]
 
@@ -334,20 +334,20 @@ Ordered list
 @snap[west text-right]
 
 ```markdown
-| No  | Name        |
-| --- | ----------- |
-| 1   | Jundi Alwan |
-| 2   | John Doe    |
+| No | Name |
+| ---?color=#09868B | ---?color=#09868B---?color=#09868B---?color=#09868B-- |
+| 1 | Jundi Alwan |
+| 2 | John Doe |
 ```
 
 @snapend
 
 @snap[east text-left fragment text-06]
 
-| No  | Name        |
-| --- | ----------- |
-| 1   | Jundi Alwan |
-| 2   | John Doe    |
+| No | Name |
+| ---?color=#09868B | ---?color=#09868B---?color=#09868B---?color=#09868B-- |
+| 1 | Jundi Alwan |
+| 2 | John Doe |
 
 @snapend
 
@@ -355,7 +355,7 @@ Note:
 
 limited - simple one row tables
 
----
+---?color=#09868B
 
 #### Resources
 
@@ -368,7 +368,7 @@ limited - simple one row tables
 1. https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 1. https://docs.gitlab.com/ce/user/markdown.html
 
----
+---?color=#09868B
 
 #### references
 
