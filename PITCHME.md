@@ -344,10 +344,10 @@ Ordered list
 
 @snap[east text-left fragment text-06]
 
-| No | Name |
-| ---?color=#09868B | ---?color=#09868B---?color=#09868B---?color=#09868B-- |
-| 1 | Jundi Alwan |
-| 2 | John Doe |
+| No  | Name        |
+| --- | ----------- |
+| 1   | Jundi Alwan |
+| 2   | John Doe    |
 
 @snapend
 
