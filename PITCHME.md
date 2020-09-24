@@ -17,7 +17,11 @@ generate (convert)
 
 ---
 
-### MD flavors
+@snap[north]
+
+#### MD flavors
+
+@snapend
 
 1. Markdown
 2. Markdown 2
@@ -28,7 +32,11 @@ generate (convert)
 
 ---
 
+@snap[north]
+
 ### MD elements - basic
+
+@snapend
 
 - table of contents - TOC
 - superscripts / subscripts
@@ -44,7 +52,11 @@ reference by - !, #, @
 
 ---
 
+@snap[north]
+
 ### MD elements - advanced
+
+@snapend
 
 - footnotes
 - math
