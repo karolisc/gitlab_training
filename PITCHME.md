@@ -243,9 +243,9 @@ Code above will be converted into code block with javascript syntax highlighting
 @snap[west]
 
 ```markdown
-# This is header 4
+#### This is header 4
 
-## This is header 5
+##### This is header 5
 
 ###### This in header 6, in HTML <h6>
 ```
@@ -254,9 +254,9 @@ Code above will be converted into code block with javascript syntax highlighting
 
 @snap[east fragment text-06]
 
-# This is header 4
+#### This is header 4
 
-## This is header 5
+##### This is header 5
 
 ###### This in header 6
 
