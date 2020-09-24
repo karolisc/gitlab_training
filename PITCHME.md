@@ -1,4 +1,4 @@
-### why gitlab, features, compare
+### Why gitlab, features, compare
 
 - framework
 - collaboration
