@@ -1,13 +1,13 @@
 @snap[north]
 
-### What is markdown(MD)
+### What is markdown (MD)
 
 @snapend
 
 @snap[midpoint fragment]
 
-> Markdown is a lightweight markup language
-> with plain-text-formatting syntax
+@box[text-orange](Markdown is a lightweight markup language
+with plain-text-formatting syntax)
 
 @snapend
 
