@@ -49,13 +49,21 @@ reference by - !, #, @
 
 ### task lists
 
+@snap[west span-50]
+
 ```bash
 - [x] this is complete item
 - [ ] this is incomplete item
 ```
 
+@snapend
+
+@snap[east span-50]
+
 - [x] this is complete item
 - [ ] this is incomplete item
+
+@snapend
 
 ---
 
@@ -82,6 +90,11 @@ Like he said:
 > if one only remembers to turn on the light.
 ```
 
+Like he said:
+
+> Happiness can be found even in the darkest of times,
+> if one only remembers to turn on the light.
+
 ---
 
 ### emphasis
@@ -96,10 +109,10 @@ __Bold text too__
 *Of course you **can** combine them*
 ```
 
-_Italic text_
+_Italic text_  
 _Italic text too_
 
-**Bold text**
+**Bold text**  
 **Bold text too**
 
 _Of course you **can** combine them_
