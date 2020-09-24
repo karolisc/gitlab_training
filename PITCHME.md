@@ -49,7 +49,6 @@ reference by - !, #, @
 
 ### task lists
 
-@ul
 @div[left-50]
 
 ```markdown
@@ -59,13 +58,12 @@ reference by - !, #, @
 
 @divend
 
-@div[right-50]
+@div[right-50 fragment text-08]
 
 - [x] this is complete item
 - [ ] this is incomplete item
 
 @divend
-@ulend
 
 ---
 
