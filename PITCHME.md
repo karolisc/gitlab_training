@@ -62,7 +62,7 @@ reference by - !, #, @
 
 @snapend
 
-@snap[east fragment]
+@snap[east fragment text-06]
 
 - [x] this is complete item
 - [ ] this is incomplete item
@@ -77,7 +77,7 @@ reference by - !, #, @
 
 @snapend
 
-@snap[west text-08]
+@snap[west text-06]
 
 ```markdown
 Format: \[Placeholder\](url) OR just paste the link
@@ -88,7 +88,7 @@ with http and it automatically turns into link
 
 @snapend
 
-@snap[east fragment]
+@snap[east fragment text-06]
 
 [Medium](http://medium.com)
 
@@ -115,7 +115,7 @@ Like he said:
 
 @snapend
 
-@snap[east fragment]
+@snap[east fragment text-06]
 
 Like he said:
 
@@ -146,7 +146,7 @@ _Of course you **can** combine them_
 
 @snapend
 
-@snap[east fragment]
+@snap[east fragment text-06]
 
 _Italic text_  
 _Italic text too_
@@ -201,7 +201,13 @@ Code above will be converted into code block with javascript syntax highlighting
 
 ---
 
+@snap[north]
+
 ### headers
+
+@snapend
+
+@snap[west]
 
 ```markdown
 # This is header 1
@@ -211,11 +217,17 @@ Code above will be converted into code block with javascript syntax highlighting
 ###### This in header 6, the smallest header as you know in HTML syntax as <h6>
 ```
 
+@snapend
+
+@snap[east fragment text-06]
+
 # This is header 1
 
 ## This is header 2
 
 ###### This in header 6
+
+@snapend
 
 ---
 
@@ -223,12 +235,19 @@ Code above will be converted into code block with javascript syntax highlighting
 
 ```markdown
 Format: ![Alt text](url)
+
 ![Medium Logo](https://cdn-images-1.medium.com/max/400/1*QnlI8nTg-t9G3pLrxbX9-w.png)
 ```
 
 ---
 
+@snap[north]
+
 ### lists
+
+@snapend
+
+@snap[west]
 
 ```markdown
 Unordered list
@@ -248,6 +267,10 @@ Ordered list
    - How cool and easy
 ```
 
+@snapend
+
+@snap[east fragment text-06]
+
 Unordered list
 
 - first
@@ -263,10 +286,18 @@ Ordered list
    - Also yes, you can combine unordered with ordered list
    - Just give three spaces and your list will be nested
    - How cool and easy
+
+@snapend
 
 ---
 
+@snap[north]
+
 ### tables
+
+@snapend
+
+@snap[west]
 
 ```markdown
 | No  | Name        |
@@ -275,10 +306,16 @@ Ordered list
 | 2   | John Doe    |
 ```
 
+@snapend
+
+@snap[east fragment text-06]
+
 | No  | Name        |
 | --- | ----------- |
 | 1   | Jundi Alwan |
 | 2   | John Doe    |
+
+@snapend
 
 Note:
 
