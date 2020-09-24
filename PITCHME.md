@@ -222,7 +222,8 @@ const store = createStore(reducer);
 function reducer(state = [], action)
 { return 'x' };
 
-Code above will be converted into code block with javascript syntax highlighting
+Code above will be converted into code block
+with javascript syntax highlighting
 
 ```
 
