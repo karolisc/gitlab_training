@@ -47,23 +47,27 @@ reference by - !, #, @
 
 ---
 
+@snap[north]
+
 ### task lists
 
-@div[left-50]
+@snapend
+
+@snap[west]
 
 ```markdown
 - [x] this is complete item
 - [ ] this is incomplete item
 ```
 
-@divend
+@snapend
 
-@div[right-50 fragment text-05]
+@snap[east fragment]
 
 - [x] this is complete item
 - [ ] this is incomplete item
 
-@divend
+@snapend
 
 ---
 
