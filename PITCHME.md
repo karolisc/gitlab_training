@@ -54,6 +54,9 @@ reference by - !, #, @
 - [ ] this is incomplete item
 ```
 
+- [x] this is complete item
+- [ ] this is incomplete item
+
 ---
 
 ### links
@@ -61,8 +64,11 @@ reference by - !, #, @
 ```bash
 Format: [Placeholder](url) OR just paste the link with http
 and it automatically turns into link
+
 [Medium](http://medium.com)
 ```
+
+[Medium](http://medium.com)
 
 ---
 
@@ -89,6 +95,14 @@ __Bold text too__
 
 *Of course you **can** combine them*
 ```
+
+_Italic text_
+_Italic text too_
+
+**Bold text**
+**Bold text too**
+
+_Of course you **can** combine them_
 
 ---
 
@@ -141,6 +155,12 @@ Code above will be converted into code block with javascript syntax highlighting
 ###### This in header 6, the smallest header as you know in HTML syntax as <h6>
 ```
 
+# This is header 1
+
+## This is header 2
+
+###### This in header 6
+
 ---
 
 ### images
@@ -169,6 +189,22 @@ Ordered list
    * Just give three spaces and your list will be nested
    * How cool and easy
 ```
+
+Unordered list
+
+- first
+- second
+  - first in second, yes you can make nested list
+  - second in second
+
+Ordered list
+
+1. one
+1. two
+1. three
+   - Also yes, you can combine unordered with ordered list
+   - Just give three spaces and your list will be nested
+   - How cool and easy
 
 ---
 
