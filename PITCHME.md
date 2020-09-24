@@ -200,20 +200,20 @@ Markdown will not rendered the character after backslash
 
 <br><br><br>
 
-| symbol | name |
-| :---?color=#09868B-: | :---?color=#09868B---?color=#09868B---?color=#09868B---?color=#09868B---?color=#09868B |
-| \ | backslash |
-| ` | back tick |
-| \* | asterisks |
-| \_ | underscore |
-| {} | curly braces |
-| [] | square brackets |
-| () | parentheses |
-| \# | hash mark |
-| + | plus sign |
-| - | minus sign |
-| . | dot |
-| ! | exclamation mark |
+| symbol | name             |
+| :----: | :--------------- |
+|   \    | backslash        |
+|   `    | back tick        |
+|   \*   | asterisks        |
+|   \_   | underscore       |
+|   {}   | curly braces     |
+|   []   | square brackets  |
+|   ()   | parentheses      |
+|   \#   | hash mark        |
+|   +    | plus sign        |
+|   -    | minus sign       |
+|   .    | dot              |
+|   !    | exclamation mark |
 
 @snapend
 
@@ -334,10 +334,10 @@ Ordered list
 @snap[west text-right]
 
 ```markdown
-| No | Name |
-| ---?color=#09868B | ---?color=#09868B---?color=#09868B---?color=#09868B-- |
-| 1 | Jundi Alwan |
-| 2 | John Doe |
+| No  | Name        |
+| --- | ----------- |
+| 1   | Jundi Alwan |
+| 2   | John Doe    |
 ```
 
 @snapend
