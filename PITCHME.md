@@ -47,7 +47,7 @@ reference by - !, #, @
 
 ---
 
-@snap[north span-50]
+@snap[north]
 
 ### task lists
 
@@ -71,7 +71,11 @@ reference by - !, #, @
 
 ---
 
+@snap[north]
+
 ### links
+
+@snapend
 
 @snap[west span-50]
 
