@@ -196,8 +196,6 @@ To tell markdown too not rendered the character after backslash
 
 @snap[south text-06 fragment]
 
-#### backslash escapes - table
-
 | symbol | name             |
 | :----: | :--------------- |
 |   \    | backslash        |
