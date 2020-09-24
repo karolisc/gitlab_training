@@ -100,9 +100,22 @@ To tell markdown too not rendered the character after backslash
 
 
 Some char that can be escaped:
-\ backslash, ` back tick, * asterisks, _ underscore, {} curly braces,
-[] square brackets, () parentheses, # hash mark, + plus sign, - minus sign,
-. dot, ! exclamation mark
+
+|symbol|name|
+|---|---|
+|\ |backslash|
+|` |back tick|
+|* |asterisks|
+|_ |underscore|
+|{}|curly braces|
+|[]|square brackets|
+|()| parentheses|
+|\#|hash mark|
+|+ |plus sign|
+|-|minus sign|
+|. |dot|
+|! |exclamation mark|
+
 ```
 
 ---
