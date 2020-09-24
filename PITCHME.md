@@ -49,7 +49,7 @@ reference by - !, #, @
 
 ### task lists
 
-@snap[west span-50]
+@snap[west span-45]
 
 ```bash
 - [x] this is complete item
@@ -69,6 +69,8 @@ reference by - !, #, @
 
 ### links
 
+@snap[west span-50]
+
 ```bash
 Format: [Placeholder](url) OR just paste the link with http
 and it automatically turns into link
@@ -76,7 +78,13 @@ and it automatically turns into link
 [Medium](http://medium.com)
 ```
 
+@snapend
+
+@snap[east span-50]
+
 [Medium](http://medium.com)
+
+@snapend
 
 ---
 
