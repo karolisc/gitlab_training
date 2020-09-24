@@ -96,6 +96,8 @@ with http and it automatically turns into link
 
 ### blockquotes
 
+@snap[west span-50]
+
 ```bash
 Format: > Words you quotes
 
@@ -104,10 +106,16 @@ Like he said:
 > if one only remembers to turn on the light.
 ```
 
+@snapend
+
+@snap[east span-50]
+
 Like he said:
 
 > Happiness can be found even in the darkest of times,
 > if one only remembers to turn on the light.
+
+@snapend
 
 ---
 
