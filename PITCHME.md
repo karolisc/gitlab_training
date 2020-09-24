@@ -6,11 +6,9 @@
 
 @snap[midpoint fragment]
 
-aasdsa
+@box[bg-grey text-orange span-80 ](Markdown is a lightweight markup language with plain-text-formatting syntax)
 
 @snapend
-
-@box[text-orange midpoint span-80 ](Markdown is a lightweight markup language with plain-text-formatting syntax)
 
 Note:
 
