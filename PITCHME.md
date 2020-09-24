@@ -173,7 +173,7 @@ _You **can** combine them_
 
 @snapend
 
-@snap[east bg-blue text-right fragment text-06]
+@snap[east bg-blue text-left fragment text-06]
 
 _Italic text_  
 _Italic text too_
