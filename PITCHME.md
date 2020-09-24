@@ -1,220 +1,182 @@
-### Why gitlab, features, compare
+### What is markdown(MD)
 
-- framework
-- collaboration
-- integrated devops tool chain
-- complete devops cycle tool stack
+> Markdown is a lightweight markup language with plain-text-formatting syntax
 
----
-
-### Feature coverage
-
-Gitlab vs others
-
-![](pictures/gitlab_devops_tools.PNG)
+text power
+generate (covert)
 
 ---
 
-### @color[green](Key) features - Manage
+### MD flavors
 
-- Granular user roles and flexible permissions
-- multiple 3rd party integrations
-- branch, tag protection
-- Value Stream Analytics
-- user involvement statistics
-
----
-
-### @color[green](Key) features - Plan
-
-- projects
-- project status visibility
-- issue tracking
-- templates
-- task lists
-- GFM
-- labels
-- label prioritization
-- Boards (project, group)
-- milestones
-- assignee
-- todos
+1. Markdown
+2. Markdown 2
+3. GitHub Flavored Markdown
+4. GitLab Flavored Markdown (GFM)
+5. Pandoc
+6. ...
 
 ---
 
-### Features - Plan
+### MD elements - basic
 
-- issue due dates - show in calendar
-- related issues
-- auto closing (patterns)
-- file attachments
-- threaded discussions
-- create, search and view issues from mattermost
-- time tracking (estimated, spent)
-- move issues around the projects
-- quick actions (e.g /spend...)
-- custom notifications
+- table of contents - TOC
+- Superscripts / Subscripts
+- bold
+- italic
+- inline code
+- reference by e.g. username, issue, MR, ...
+- videos
+- audio
+- ....
 
----
+Note:
 
-### @color[green](Key) features - Create
-
-- MR status - WIP, draft
-- commit graph & reporting
-- file search
-- squash and merge
-- Merge requests
-- Merge conflict resolution
-- branching
-- MR request reviews
-- MR approvals
-- new branch from issues
+reference by - !, #, @
 
 ---
 
-### Features - Create
+### MD elements - advanced
 
-- Merge when pipeline succeeds
-- GPG Signed Commits
-- S/MIME Signed Commits
-- User activity stream
-- Custom Git Hooks
-- Git LFS 2.0
-- Git v2
-- web IDE
-- Design Management
+- footnotes
+- Math
+- Diagrams and flowcharts
+- inline HTML - advanced
 
 ---
 
-### @color[green](Key) features - Verify
+### task lists
 
-- Built-in CI/CD
-- git hooks - policy enforcer
-- Directed acylic graph mode for pipelines
-- Matrix builds
-
----
-
-### @color[green](Key) features - Package
-
-- Built-in Container Registry
+```bash
+- [x] this is complete item
+- [ ] this is incomplete item
+```
 
 ---
 
-### @color[green](Key) features - Secure
+### links
 
-- Static Application Security Testing (SAST)
-- HashiCorp Vault Integration
-
----
-
-### @color[green](Key) features - Release
-
-- Built-in CI/CD
-- Parent-child pipelines
-- Publish static websites - GitLab Pages
+```bash
+Format: [Placeholder](url) OR just paste the link with http and it automatically turns into link
+[Medium](http://medium.com)
+```
 
 ---
 
-### @color[green](Key) features - Configure
+### blockquotes
 
-- Auto DevOps
-- Kubernetes clusters
-- ChatOps
-- Serverless
-
----
-
-### @color[green](Key) features - Monitor
-
-- applications
-- gitlab related services
-- alerts
-- Embedded Metrics
-- Automatic Incident Creation
+```bash
+Format: > Words you quotes
+Like he said:
+> Happiness can be found even in the darkest of times,
+> if one only remembers to turn on the light.
+```
 
 ---
 
-### @color[green](Key) features - Defend
+### emphasis
 
-- Web Application Firewall (WAF)
-- Container Host Monitoring and Blocking
+```bash
+*Italic text*
+_Italic text too_
+**Bold text**
+__Bold text too__
+*Of course you **can** combine them*
+```
+
+---
+
+### Backslash Escapes
+
+```bash
+To tell markdown too not rendered the character after backslash
+\*Just asterisks, not italic\* => *Just asterisks, not italic*
+Some char that can be escaped:
+\ backslash, ` back tick, * asterisks, _ underscore, {} curly braces, [] square brackets, () parentheses, # hash mark, + plus sign, - minus sign, . dot, ! exclamation mark
+```
 
 ---
 
-### Workflow
+### Fence code blocks
 
-todos feature mark jobs you have interest but not assigned to you
+````bash
+```javascript
+const store = createStore(reducer);
+function reducer(state = [], action)
+{ return 'x' };
 
-Create an Issue
-Milestones - group of issues
+Code above will be converted into code block with javascript syntax highlighting
 
-allways start from an Isssue
-one-to-one link to issues
-one owner and only one per issue
-
-labels
-easy way to categorize the issues or merge requests
-
-Merge requests (MR)
-When you want feedback create a merge request.
-Target is the ‘default’ branch (usually master).
-Assign or mention the person you would like to review.
-Add [Draft] to the title if it’s a work in progress.
-When accepting, always delete the branch.
-Anyone can comment, not just the assignee.
-Push corrections to the same branch.
-
-Merge requests steps
-Create your first merge request:
-
-Use the blue button in the activity feed.
-View the diff (changes) and leave a comment.
-Push a new commit to the same branch.
-Review the changes again and notice the update.
-
-Merge conflicts
-two people at the same time are modifying same file in similar area
-merge conflicts are annoying
-can feel complicated
-Happen all the time
-Need to fix conflicts one by one
-
-Feedback and Collaboration
-Merge requests are a time for feedback and collaboration.
-Giving feedback is hard.
-Be as kind as possible.
-Receiving feedback is hard.
-Be as receptive as possible.
-Feedback is about the best work, not the person. You are not your work
-
-work review
-https://github.com/thoughtbot/guides/tree/master/code-review
-
-Explore GitLab projects
-
-Dashboard
-User Preferences
-README, Changelog, License shortcuts
-Issues
-Milestones and Labels
-Manage project members
-Project settings
+````
 
 ---
+
+### Headers
+
+```bash
+# This is header 1
+## This is header 2
+###### This in header 6, the smallest header as you know in HTML syntax as <h6>
+```
+
+---
+
+### images
+
+```bash
+Format: ![Alt text](url)
+![Medium Logo](https://cdn-images-1.medium.com/max/400/1*QnlI8nTg-t9G3pLrxbX9-w.png)
+```
+
+---
+
+### lists - ordered & unordered
+
+```bash
+Unordered list
+* first
+* second
+   * first in second, yes you can make nested list
+   * second in second
+Ordered list
+1. one
+1. two
+1. three
+   * Also yes, you can combine unordered with ordered list
+   * Just give three spaces and your list will be nested
+   * How cool and easy
+```
+
+---
+
+### Tables
+
+```bash
+|No | Name       |
+|---|------------|
+|1  | Jundi Alwan|
+|2  | John Doe   |
+```
+
+Note:
+
+limited - simple one row tables
+
+---
+
+full element reference list:
+https://docs.gitlab.com/ce/user/markdown.html
 
 #### Resources
 
-TODO tikrinti
-
 self paced git learning
-https://courses.platzi.com/
+https://www.markdowntutorial.com/
 
----
+https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+https://docs.gitlab.com/ce/user/markdown.html
 
-### References
+references
 
-https://docs.gitlab.com/ee/university/training/user_training.html
-https://github.com/thoughtbot/guides/tree/master/code-review
-https://about.gitlab.com/features/#compare
-https://about.gitlab.com/features/
+https://github.com/commonmark/commonmark-spec/wiki/markdown-flavors
+https://docs.gitlab.com/ce/user/markdown.html
+https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
