@@ -59,7 +59,8 @@ reference by - !, #, @
 ### links
 
 ```bash
-Format: [Placeholder](url) OR just paste the link with http and it automatically turns into link
+Format: [Placeholder](url) OR just paste the link with http
+and it automatically turns into link
 [Medium](http://medium.com)
 ```
 
@@ -69,6 +70,7 @@ Format: [Placeholder](url) OR just paste the link with http and it automatically
 
 ```bash
 Format: > Words you quotes
+
 Like he said:
 > Happiness can be found even in the darkest of times,
 > if one only remembers to turn on the light.
@@ -95,15 +97,17 @@ __Bold text too__
 ```bash
 To tell markdown too not rendered the character after backslash
 \*Just asterisks, not italic\* => *Just asterisks, not italic*
+
 Some char that can be escaped:
-\ backslash, ` back tick, * asterisks, _ underscore, {} curly braces, [] square brackets, () parentheses, # hash mark, + plus sign, - minus sign, . dot, ! exclamation mark
+\ backslash, ` back tick, * asterisks, _ underscore, {} curly braces,
+[] square brackets, () parentheses, # hash mark, + plus sign, - minus sign,
+. dot, ! exclamation mark
 ```
 
 ---
 
 ### fence code blocks
 
-````bash
 ```javascript
 const store = createStore(reducer);
 function reducer(state = [], action)
@@ -111,7 +115,7 @@ function reducer(state = [], action)
 
 Code above will be converted into code block with javascript syntax highlighting
 
-````
+```
 
 ---
 
