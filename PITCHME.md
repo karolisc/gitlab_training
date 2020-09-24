@@ -173,7 +173,7 @@ _You **can** combine them_
 
 @snapend
 
-@snap[east fragment text-06]
+@snap[east bg-blue fragment text-06]
 
 _Italic text_  
 _Italic text too_
@@ -243,20 +243,20 @@ Code above will be converted into code block with javascript syntax highlighting
 @snap[west]
 
 ```markdown
-# This is header 1
+# This is header 4
 
-## This is header 2
+## This is header 5
 
-###### This in header 6, the smallest header as you know in HTML syntax as <h6>
+###### This in header 6, in HTML <h6>
 ```
 
 @snapend
 
 @snap[east fragment text-06]
 
-# This is header 1
+# This is header 4
 
-## This is header 2
+## This is header 5
 
 ###### This in header 6
 
