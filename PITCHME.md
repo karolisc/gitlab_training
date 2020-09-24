@@ -276,7 +276,7 @@ Format: ![Alt text](url)
 
 @snapend
 
-@snap[midpoint]
+@snap[midpoint text-04]
 
 ```markdown
 Unordered list
@@ -298,7 +298,7 @@ Ordered list
 
 @snapend
 
-@snap[south fragment text-06]
+@snap[south fragment text-04]
 
 Unordered list
 
