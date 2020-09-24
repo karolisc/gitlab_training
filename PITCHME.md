@@ -3,7 +3,7 @@
 > Markdown is a lightweight markup language with plain-text-formatting syntax
 
 text power
-generate (covert)
+generate (convert)
 
 ---
 
@@ -55,7 +55,7 @@ reference by - !, #, @
 
 @snap[west span-45 text-center]
 
-```bash
+```markdown
 - [x] this is complete item
 - [ ] this is incomplete item
 ```
@@ -82,8 +82,6 @@ reference by - !, #, @
 ```bash
 Format: \[Placeholder\](url) OR just paste the link
 with http and it automatically turns into link
-
-[Medium](http://medium.com)
 ```
 
 @snapend
