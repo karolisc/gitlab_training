@@ -188,7 +188,7 @@ _You **can** combine them_
 #### backslash escapes
 
 ```markdown
-To tell markdown too not rendered the character after backslash
+Markdown will not rendered the character after backslash
 \*Just asterisks, not italic\* => _Just asterisks, not italic_
 ```
 
