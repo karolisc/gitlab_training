@@ -167,6 +167,11 @@ Ordered list
 |2  | John Doe   |
 ```
 
+| No  | Name        |
+| --- | ----------- |
+| 1   | Jundi Alwan |
+| 2   | John Doe    |
+
 Note:
 
 limited - simple one row tables
@@ -178,7 +183,7 @@ https://docs.gitlab.com/ce/user/markdown.html
 
 ---
 
-#### Resources
+### Resources
 
 self paced git learning
 https://www.markdowntutorial.com/
@@ -186,7 +191,9 @@ https://www.markdowntutorial.com/
 https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 https://docs.gitlab.com/ce/user/markdown.html
 
-references
+---
+
+### references
 
 https://github.com/commonmark/commonmark-spec/wiki/markdown-flavors
 https://docs.gitlab.com/ce/user/markdown.html
