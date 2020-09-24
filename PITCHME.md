@@ -13,7 +13,7 @@ Feature coverage: Gitlab vs others
 
 ---
 
-(<@color[green](Key)>) features - Manage
+@color[green](Key) features - Manage
 
 - Granular user roles and flexible permissions
 - multiple 3rd party integrations
@@ -23,7 +23,7 @@ Feature coverage: Gitlab vs others
 
 ---
 
-(<@color[green](Key)>) features - Plan
+@color[green](Key) features - Plan
 
 - projects
 - issue tracking
@@ -54,7 +54,7 @@ Features - Plan
 
 ---
 
-(<@color[green](Key)>) features - Create
+@color[green](Key) features - Create
 
 - MR status - WIP, draft
 - commit graph & reporting
@@ -83,7 +83,7 @@ Features - Create
 
 ---
 
-(<@color[green](Key)>) features - Verify
+@color[green](Key) features - Verify
 
 - Built-in CI/CD
 - Directed acylic graph mode for pipelines
@@ -91,20 +91,20 @@ Features - Create
 
 ---
 
-(<@color[green](Key)>) features - Package
+@color[green](Key) features - Package
 
 - Built-in Container Registry
 
 ---
 
-(<@color[green](Key)>) features - Secure
+@color[green](Key) features - Secure
 
 - Static Application Security Testing (SAST)
 - HashiCorp Vault Integration
 
 ---
 
-(<@color[green](Key)>) features - Release
+@color[green](Key) features - Release
 
 - Built-in CI/CD
 - Parent-child pipelines
@@ -112,7 +112,7 @@ Features - Create
 
 ---
 
-(<@color[green](Key)>) features - Configure
+@color[green](Key) features - Configure
 
 - Auto DevOps
 - Kubernetes clusters
@@ -121,7 +121,7 @@ Features - Create
 
 ---
 
-(<@color[green](Key)>) features - Monitor
+@color[green](Key) features - Monitor
 
 - applications
 - gitlab related services
@@ -131,7 +131,7 @@ Features - Create
 
 ---
 
-(<@color[green](Key)>) features - Defend
+@color[green](Key) features - Defend
 
 - Web Application Firewall (WAF)
 - Container Host Monitoring and Blocking
