@@ -62,7 +62,7 @@ reference by - !, #, @
 
 @snapend
 
-@snap[east span-50 text-center]
+@snap[east span-50 text-08]
 
 - [ x ] this is complete item
 - [ ] this is incomplete item
@@ -77,7 +77,7 @@ reference by - !, #, @
 
 @snapend
 
-@snap[west span-45]
+@snap[west span-45 text-08]
 
 ```bash
 Format: [Placeholder](url) OR just paste the link
