@@ -21,9 +21,7 @@ generate (covert)
 ### MD elements - basic
 
 - table of contents - TOC
-- Superscripts / Subscripts
-- bold
-- italic
+- superscripts / subscripts
 - inline code
 - reference by e.g. username, issue, MR, ...
 - videos
@@ -39,9 +37,13 @@ reference by - !, #, @
 ### MD elements - advanced
 
 - footnotes
-- Math
-- Diagrams and flowcharts
-- inline HTML - advanced
+- math
+- diagrams and flowcharts
+- inline HTML
+
+---
+
+### MD element @color[yellow](examples)
 
 ---
 
@@ -79,14 +81,16 @@ Like he said:
 ```bash
 *Italic text*
 _Italic text too_
+
 **Bold text**
 __Bold text too__
+
 *Of course you **can** combine them*
 ```
 
 ---
 
-### Backslash Escapes
+### backslash Escapes
 
 ```bash
 To tell markdown too not rendered the character after backslash
@@ -97,7 +101,7 @@ Some char that can be escaped:
 
 ---
 
-### Fence code blocks
+### fence code blocks
 
 ````bash
 ```javascript
@@ -111,7 +115,7 @@ Code above will be converted into code block with javascript syntax highlighting
 
 ---
 
-### Headers
+### headers
 
 ```bash
 # This is header 1
@@ -130,7 +134,7 @@ Format: ![Alt text](url)
 
 ---
 
-### lists - ordered & unordered
+### lists
 
 ```bash
 Unordered list
@@ -138,6 +142,7 @@ Unordered list
 * second
    * first in second, yes you can make nested list
    * second in second
+
 Ordered list
 1. one
 1. two
@@ -149,7 +154,7 @@ Ordered list
 
 ---
 
-### Tables
+### tables
 
 ```bash
 |No | Name       |
@@ -164,8 +169,10 @@ limited - simple one row tables
 
 ---
 
-full element reference list:
+full MD element reference list:
 https://docs.gitlab.com/ce/user/markdown.html
+
+---
 
 #### Resources
 
