@@ -183,7 +183,7 @@ _You **can** combine them_
 
 ---
 
-@snap[north text-06]
+@snap[north]
 
 #### backslash escapes
 
