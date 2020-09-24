@@ -34,7 +34,7 @@ generate (convert)
 
 @snap[north]
 
-### MD elements - basic
+#### MD elements - basic
 
 @snapend
 
@@ -54,7 +54,7 @@ reference by - !, #, @
 
 @snap[north]
 
-### MD elements - advanced
+#### MD elements - advanced
 
 @snapend
 
@@ -65,7 +65,7 @@ reference by - !, #, @
 
 ---
 
-### MD element @color[yellow](examples)
+#### @color[orange](MD element) examples
 
 ---
 
@@ -140,7 +140,7 @@ Like he said:
 
 @snapend
 
-@snap[east fragment text-06]
+@snap[east bg-blue fragment text-06]
 
 Like he said:
 
