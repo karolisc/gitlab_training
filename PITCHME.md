@@ -80,7 +80,7 @@ reference by - !, #, @
 @snap[west span-45 text-08]
 
 ```bash
-Format: [Placeholder](url) OR just paste the link
+Format: \[Placeholder\](url) OR just paste the link
 with http and it automatically turns into link
 
 [Medium](http://medium.com)
