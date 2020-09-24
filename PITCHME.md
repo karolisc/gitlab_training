@@ -77,18 +77,18 @@ reference by - !, #, @
 
 @snapend
 
-@snap[west span-50]
+@snap[west span-45]
 
 ```bash
-Format: [Placeholder](url) OR just paste the link with http
-and it automatically turns into link
+Format: [Placeholder](url) OR just paste the link
+with http and it automatically turns into link
 
 [Medium](http://medium.com)
 ```
 
 @snapend
 
-@snap[east span-50]
+@snap[east span-45]
 
 [Medium](http://medium.com)
 
