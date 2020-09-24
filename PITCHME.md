@@ -64,7 +64,7 @@ reference by - !, #, @
 
 @snap[east span-50 text-center]
 
-- [x] this is complete item
+- [ x ] this is complete item
 - [ ] this is incomplete item
 
 @snapend
