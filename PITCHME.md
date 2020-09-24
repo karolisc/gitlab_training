@@ -196,7 +196,8 @@ To tell markdown too not rendered the character after backslash
 
 @snap[south text-06 fragment]
 
-<br>
+<br><br><br>
+
 | symbol | name             |
 | :----: | :--------------- |
 |   \    | backslash        |
