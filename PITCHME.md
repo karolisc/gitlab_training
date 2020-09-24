@@ -248,7 +248,7 @@ Code above will be converted into code block with javascript syntax highlighting
 
 @snapend
 
-@snap[east text-left fragment text-06]
+@snap[east text-left fragment]
 
 #### This is header 4
 
@@ -264,9 +264,9 @@ Code above will be converted into code block with javascript syntax highlighting
 
 ```markdown
 Format: ![Alt text](url)
+```
 
 ![Medium Logo](https://cdn-images-1.medium.com/max/400/1*QnlI8nTg-t9G3pLrxbX9-w.png)
-```
 
 ---
 
@@ -276,7 +276,7 @@ Format: ![Alt text](url)
 
 @snapend
 
-@snap[west]
+@snap[midpoint]
 
 ```markdown
 Unordered list
@@ -298,7 +298,7 @@ Ordered list
 
 @snapend
 
-@snap[east fragment text-06]
+@snap[south fragment text-06]
 
 Unordered list
 
@@ -326,7 +326,7 @@ Ordered list
 
 @snapend
 
-@snap[west]
+@snap[west text-center]
 
 ```markdown
 | No  | Name        |
@@ -337,7 +337,7 @@ Ordered list
 
 @snapend
 
-@snap[east fragment text-06]
+@snap[east text-center fragment text-06]
 
 | No  | Name        |
 | --- | ----------- |
@@ -354,7 +354,7 @@ limited - simple one row tables
 
 #### Resources
 
-full MD element reference list:
+full MD element reference list
 https://docs.gitlab.com/ce/user/markdown.html
 
 self paced git learning
