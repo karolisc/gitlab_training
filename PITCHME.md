@@ -1,8 +1,17 @@
+@snap[north]
+
 ### What is markdown(MD)
 
-> Markdown is a lightweight markup language with plain-text-formatting syntax
+@snapend
 
-text power
+@snap[midpoint fragment]
+
+> Markdown is a lightweight markup language
+> with plain-text-formatting syntax
+
+@snapend
+
+text power  
 generate (convert)
 
 ---
