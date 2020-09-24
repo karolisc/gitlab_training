@@ -101,7 +101,7 @@ To tell markdown too not rendered the character after backslash
 
 ---
 
-### backslash escapes - char escape table
+### backslash escapes - table
 
 | symbol | name             |
 | :----: | :--------------- |
