@@ -1,3 +1,5 @@
+# gitlab training cource
+
 ---?include=training/topics/devops/PITCHME.md
 
 ---?include=training/topics/git/PITCHME.md
