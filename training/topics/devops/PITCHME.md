@@ -16,6 +16,10 @@ DevOps practices enable software development (@color[blue](Dev))
 and operations (@color[green](Ops)) teams to accelerate delivery  
 through:
 
+@snapend
+
+@snap[south span-100 text-center text-07]
+
 1. automation
 2. collaboration
 3. fast feedback
