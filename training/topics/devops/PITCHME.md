@@ -11,7 +11,7 @@ operations (@color[orange](Ops)) teams to accelerate delivery through:
 
 @snapend
 
-@snap[south]
+@snap[south fragment]
 
 @ol
 
