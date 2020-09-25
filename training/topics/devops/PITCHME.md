@@ -14,7 +14,10 @@ operations (@color[orange](Ops)) teams to accelerate delivery through:
 3. fast feedback
 4. iterative improvement
 
-@[5,6,7,8]
+@[5]
+@[6]
+@[7]
+@[8]
 @snapend
 
 Note:
