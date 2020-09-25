@@ -4,23 +4,35 @@ DevOps lifecycle
 
 ---
 
-what is devops
+#### What is devops
 
-DevOps practices enable software development (Dev) and operations (Ops) teams to accelerate delivery through automation, collaboration, fast feedback, and iterative improvement
+DevOps practices enable software development (Dev)  
+and operations (Ops) teams to accelerate delivery  
+through:
+
+1. automation
+2. collaboration
+3. fast feedback
+4. iterative improvement
 
 https://about.gitlab.com/topics/devops/
+
+Note:
 
 prince2 on steroids - paper vs automation
 
 ---
 
-why
+#### why
+
 breaking silos- Dev vs Ops - man veikia!!!!
+
 blend in all P's (planning, people, process, and policy)
 
 ---
 
-how
+#### how
+
 cultural, mindset change - crucial
 
 ---
