@@ -12,8 +12,8 @@ DevOps lifecycle
 
 @snap[midpoint span-100 text-left text-07]
 
-DevOps practices enable software development @color[blue](<(Dev)>)  
-and operations @color[green](<(Ops)>) teams to accelerate delivery  
+DevOps practices enable software development (@color[blue](Dev))  
+and operations (@color[green](Ops)) teams to accelerate delivery  
 through:
 
 1. automation
