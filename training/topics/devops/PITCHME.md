@@ -1,9 +1,3 @@
-DevOps lifecycle
-
-![](assets/img/devops-loop-and-spans-small.png)
-
----
-
 @snap[north]
 
 #### What is devops
@@ -30,17 +24,32 @@ prince2 on steroids - paper vs automation
 
 ---
 
+DevOps lifecycle
+
+![](assets/img/devops-loop-and-spans-small.png)
+
+---
+
 #### why
 
-breaking silos- Dev vs Ops - man veikia!!!!
+breaking silos - (@color[blue](Dev)) vs (@color[green](Ops))
 
-blend in all P's (planning, people, process, and policy)
+Note:
+
+vs it works on my pc!!!!
 
 ---
 
 #### how
 
-cultural, mindset change - crucial
+1. cultural, mindset change - (@color[pink](crucial)
+1. blend in all P's (planning, people, process, and policy)
+1. IT (tools) to the rescue
+
+Note:
+
+vs remember guys this and that
+do search, diff on paper
 
 ---
 
