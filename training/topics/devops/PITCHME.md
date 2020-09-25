@@ -46,7 +46,7 @@ Note:
 
 ![](assets/img/idea-to-production-10-steps-idea.png)
 
-1. @color[blue](Chat conversation)
+1. @color[blue](@size[1.5em](Chat conversation))
 2. Issue creation
 3. Planning board
 4. IDE
