@@ -1,11 +1,11 @@
----?include=gitlab_training/training/topics/devops/PITCHME.md
+---?include=training/topics/devops/PITCHME.md
 
----?include=gitlab_training/training/topics/git/PITCHME.md
+---?include=training/topics/git/PITCHME.md
 
----?include=gitlab_training/training/topics/gitlab/PITCHME.md
+---?include=training/topics/gitlab/PITCHME.md
 
----?include=gitlab_training/training/topics/markdown/PITCHME.md
+---?include=training/topics/markdown/PITCHME.md
 
----?include=gitlab_training/training/topics/vscode/PITCHME.md
+---?include=training/topics/vscode/PITCHME.md
 
----?include=gitlab_training/training/topics/workflow/PITCHME.md
+---?include=training/topics/workflow/PITCHME.md
