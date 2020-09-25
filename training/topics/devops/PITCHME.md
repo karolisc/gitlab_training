@@ -46,7 +46,7 @@ Note:
 
 ![](assets/img/idea-to-production-10-steps-idea.png)
 
-1. @color[green](Chat conversation)
+1. @color[blue](Chat conversation)
 2. Issue creation
 3. Planning board
 4. IDE
@@ -62,7 +62,7 @@ Note:
 ![](assets/img/idea-to-production-10-steps-issue.png)
 
 1. Chat conversation
-2. @color[green](Issue creation)
+2. @color[blue](Issue creation)
 3. Planning board
 4. IDE
 5. Version control
@@ -78,7 +78,7 @@ Note:
 
 1. Chat conversation
 2. Issue creation
-3. @color[green](Planning board)
+3. @color[blue](Planning board)
 4. IDE
 5. Version control
 6. Continuous Integration
@@ -94,7 +94,7 @@ Note:
 1. Chat conversation
 2. Issue creation
 3. Planning board
-4. @color[green](IDE)
+4. @color[blue](IDE)
 5. Version control
 6. Continuous Integration
 7. Code review
@@ -110,7 +110,7 @@ Note:
 2. Issue creation
 3. Planning board
 4. IDE
-5. @color[green](Version control)
+5. @color[blue](Version control)
 6. Continuous Integration
 7. Code review
 8. Continuous Delivery
@@ -126,7 +126,7 @@ Note:
 3. Planning board
 4. IDE
 5. Version control
-6. @color[green](Continuous Integration)
+6. @color[blue](Continuous Integration)
 7. Code review
 8. Continuous Delivery
 9. Chatops
@@ -142,7 +142,7 @@ Note:
 4. IDE
 5. Version control
 6. Continuous Integration
-7. @color[green](Code review)
+7. @color[blue](Code review)
 8. Continuous Delivery
 9. Chatops
 10. Feedback
@@ -158,7 +158,7 @@ Note:
 5. Version control
 6. Continuous Integration
 7. Code review
-8. @color[green](Continuous Delivery)
+8. @color[blue](Continuous Delivery)
 9. Chatops
 10. Feedback
 
@@ -174,7 +174,7 @@ Note:
 6. Continuous Integration
 7. Code review
 8. Continuous Delivery
-9. @color[green](Chatops)
+9. @color[blue](Chatops)
 10. Feedback
 
 ---
@@ -190,7 +190,7 @@ Note:
 7. Code review
 8. Continuous Delivery
 9. Chatops
-10. @color[green](Feedback)
+10. @color[blue](Feedback)
 
 ---
 
