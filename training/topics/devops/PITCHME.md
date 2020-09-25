@@ -9,6 +9,8 @@
 DevOps practices enable software development (@color[blue](Dev)) and  
 operations (@color[orange](Ops)) teams to accelerate delivery through:
 
+@snapend
+
 @ol
 
 1. automation
@@ -17,8 +19,6 @@ operations (@color[orange](Ops)) teams to accelerate delivery through:
 4. iterative improvement
 
 @olend
-
-@snapend
 
 Note:
 
