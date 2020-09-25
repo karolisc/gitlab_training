@@ -40,7 +40,7 @@ cultural, mindset change - crucial
 
 Note:
 
-10 steps
+10 steps from idea to productio
 
 ---
 
@@ -57,6 +57,8 @@ Note:
 9. Chatops
 10. Feedback
 
+Note:
+
 ---
 
 ![](assets/img/idea-to-production-10-steps-issue.png)
@@ -71,6 +73,8 @@ Note:
 8. Continuous Delivery
 9. Chatops
 10. Feedback
+
+Note:
 
 ---
 
@@ -87,6 +91,8 @@ Note:
 9. Chatops
 10. Feedback
 
+Note:
+
 ---
 
 ![](assets/img/idea-to-production-10-steps-code.png)
@@ -101,6 +107,8 @@ Note:
 8. Continuous Delivery
 9. Chatops
 10. Feedback
+
+Note:
 
 ---
 
@@ -117,6 +125,8 @@ Note:
 9. Chatops
 10. Feedback
 
+Note:
+
 ---
 
 ![](assets/img/idea-to-production-10-steps-test.png)
@@ -131,6 +141,8 @@ Note:
 8. Continuous Delivery
 9. Chatops
 10. Feedback
+
+Note:
 
 ---
 
@@ -147,6 +159,8 @@ Note:
 9. Chatops
 10. Feedback
 
+Note:
+
 ---
 
 ![](assets/img/idea-to-production-10-steps-staging.png)
@@ -161,6 +175,8 @@ Note:
 8. @color[blue](Continuous Delivery)
 9. Chatops
 10. Feedback
+
+Note:
 
 ---
 
@@ -177,6 +193,8 @@ Note:
 9. @color[blue](Chatops)
 10. Feedback
 
+Note:
+
 ---
 
 ![](assets/img/idea-to-production-10-steps-feedback.png)
@@ -192,10 +210,12 @@ Note:
 9. Chatops
 10. @color[blue](Feedback)
 
+Note:
+
 ---
 
-references
+References
 
-https://about.gitlab.com/stages-devops-lifecycle/
-https://about.gitlab.com/topics/devops/
-https://about.gitlab.com/features/
+1. https://about.gitlab.com/stages-devops-lifecycle/
+1. https://about.gitlab.com/topics/devops/
+1. https://about.gitlab.com/features/
