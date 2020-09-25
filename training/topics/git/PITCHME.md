@@ -7,6 +7,8 @@ Git agenda
 - hands on
 - Q/A
 
+---
+
 Git introduction
 
 - Distributed version control.
@@ -17,6 +19,8 @@ Git introduction
 - Fast, reliable and stable file format
 - free & opensource
   by Linus Torvalds
+
+---
 
 #### Terminology, Git Concepts
 
@@ -38,6 +42,8 @@ Git introduction
 
 ![](pictures/index1@2x.png)
 
+---
+
 #### gitlabflow
 
 A simplified branching strategy
@@ -49,6 +55,8 @@ Use merge requests to merge to master
 
 Commit often and push frequently fail fast
 
+---
+
 #### Commit message
 
 should reflect your intention
@@ -56,13 +64,19 @@ commit message should explain why
 short
 present time
 
+---
+
 #### Resources
 
 self paced git learning
 [katacoda](https://www.katacoda.com/courses/git)
 [pro git book](https://git-scm.com/book/en/v2)
 
+---
+
 ### Workshop, Hands-on
+
+---
 
 #### Configure Git
 
@@ -96,6 +110,8 @@ git push origin master                           # Push the commit to the remote
 git log                                          # View the Git log
 ```
 
+---
+
 Feature branching
 
 ```bash
@@ -107,6 +123,8 @@ git commit -m 'minor: lint'                     # Commit.
 git push origin meaningful_name                 # Push.
 ```
 
+---
+
 references
 https://docs.gitlab.com/ee/university/training/user_training.html
 https://docs.gitlab.com/ee/university/training/gitlab_flow.html
@@ -114,6 +132,8 @@ https://www.katacoda.com
 https://git-scm.com/book/en/v2
 https://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html
 https://docs.gitlab.com/ee/topics/gitlab_flow.html#commit-often-and-push-frequently
+
+---
 
 TODO
 

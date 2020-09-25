@@ -1,13 +1,29 @@
-### What is markdown(MD)
+---?color=#09868B
 
-> Markdown is a lightweight markup language with plain-text-formatting syntax
+@snap[north]
 
-text power
-generate (covert)
+#### What is markdown (MD)
 
----
+@snapend
 
-### MD flavors
+@snap[midpoint text-08 fragment]
+
+@color[orange](Markdown is a lightweight markup language with plain-text-formatting syntax)
+
+@snapend
+
+Note:
+
+text power  
+generate (convert)
+
+---?color=#09868B
+
+@snap[north]
+
+#### MD flavors
+
+@snapend
 
 1. Markdown
 2. Markdown 2
@@ -16,14 +32,16 @@ generate (covert)
 5. Pandoc
 6. ...
 
----
+---?color=#09868B
 
-### MD elements - basic
+@snap[north]
+
+#### MD elements - @color[green](basic)
+
+@snapend
 
 - table of contents - TOC
-- Superscripts / Subscripts
-- bold
-- italic
+- superscripts / subscripts
 - inline code
 - reference by e.g. username, issue, MR, ...
 - videos
@@ -34,149 +52,326 @@ Note:
 
 reference by - !, #, @
 
----
+---?color=#09868B
 
-### MD elements - advanced
+@snap[north]
+
+#### MD elements - @color[red](advanced)
+
+@snapend
 
 - footnotes
-- Math
-- Diagrams and flowcharts
-- inline HTML - advanced
+- math
+- diagrams and flowcharts
+- inline HTML
 
----
+---?color=#09868B
 
-### task lists
+#### @color[orange](MD element) examples
 
-```bash
+---?color=#09868B
+
+@snap[north]
+
+#### task lists
+
+@snapend
+
+@snap[west]
+
+```markdown
 - [x] this is complete item
 - [ ] this is incomplete item
 ```
 
----
+@snapend
 
-### links
+@snap[east fragment text-06]
 
-```bash
-Format: [Placeholder](url) OR just paste the link with http and it automatically turns into link
+- [x] this is complete item
+- [ ] this is incomplete item
+
+@snapend
+
+---?color=#09868B
+
+@snap[north]
+
+#### links
+
+@snapend
+
+@snap[west text-06]
+
+```markdown
+Format: \[Placeholder\](url) OR
+just paste the link with http and
+it automatically turns into link
+
+\[Medium\](http://medium.com)
+```
+
+@snapend
+
+@snap[east fragment text-06]
+
 [Medium](http://medium.com)
-```
 
----
+@snapend
 
-### blockquotes
+---?color=#09868B
 
-```bash
+@snap[north]
+
+#### blockquotes
+
+@snapend
+
+@snap[west]
+
+```markdown
 Format: > Words you quotes
+
 Like he said:
-> Happiness can be found even in the darkest of times,
-> if one only remembers to turn on the light.
+
+> Happiness can be found even
+> in the darkest of times,
+> if one only remembers
+> to turn on the light.
 ```
 
----
+@snapend
 
-### emphasis
+@snap[east bg-blue text-left fragment text-06]
 
-```bash
-*Italic text*
-_Italic text too_
+Like he said:
+
+> Happiness can be found even
+> in the darkest of times,
+> if one only remembers
+> to turn on the light.
+
+@snapend
+
+---?color=#09868B
+
+@snap[north]
+
+#### emphasis
+
+@snapend
+
+@snap[west]
+
+```markdown
+_Italic text_
+
 **Bold text**
-__Bold text too__
-*Of course you **can** combine them*
+
+_You **can** combine them_
 ```
 
----
+@snapend
 
-### Backslash Escapes
+@snap[east bg-blue text-left fragment text-06]
 
-```bash
-To tell markdown too not rendered the character after backslash
-\*Just asterisks, not italic\* => *Just asterisks, not italic*
-Some char that can be escaped:
-\ backslash, ` back tick, * asterisks, _ underscore, {} curly braces, [] square brackets, () parentheses, # hash mark, + plus sign, - minus sign, . dot, ! exclamation mark
+_Italic text_
+
+**Bold text**
+
+_You **can** combine them_
+
+@snapend
+
+---?color=#09868B
+
+@snap[north]
+
+#### backslash escapes
+
+```markdown
+Markdown will not rendered the character after backslash
+\*Just asterisks, not italic\* => _Just asterisks, not italic_
 ```
 
----
+@snapend
 
-### Fence code blocks
+@snap[south text-05 fragment]
 
-````bash
+<br><br><br>
+
+| symbol | name             |
+| :----: | :--------------- |
+|   \    | backslash        |
+|   `    | back tick        |
+|   \*   | asterisks        |
+|   \_   | underscore       |
+|   {}   | curly braces     |
+|   []   | square brackets  |
+|   ()   | parentheses      |
+|   \#   | hash mark        |
+|   +    | plus sign        |
+|   -    | minus sign       |
+|   .    | dot              |
+|   !    | exclamation mark |
+
+@snapend
+
+---?color=#09868B
+
+#### fence code blocks
+
 ```javascript
 const store = createStore(reducer);
 function reducer(state = [], action)
 { return 'x' };
 
-Code above will be converted into code block with javascript syntax highlighting
+Code above will be converted into code block
+with javascript syntax highlighting
 
-````
-
----
-
-### Headers
-
-```bash
-# This is header 1
-## This is header 2
-###### This in header 6, the smallest header as you know in HTML syntax as <h6>
 ```
 
----
+---?color=#09868B
 
-### images
+@snap[north]
 
-```bash
+#### headers
+
+@snapend
+
+@snap[west]
+
+```markdown
+#### This is header 4
+
+##### This is header 5
+
+###### This in header 6, in HTML <h6>
+```
+
+@snapend
+
+@snap[east text-left fragment]
+
+#### This is header 4
+
+##### This is header 5
+
+###### This in header 6
+
+@snapend
+
+---?color=#09868B
+
+#### images
+
+```markdown
 Format: ![Alt text](url)
-![Medium Logo](https://cdn-images-1.medium.com/max/400/1*QnlI8nTg-t9G3pLrxbX9-w.png)
+
+\![Medium Logo](https://cdn-images-1.medium.com/max/400/1*QnlI8nTg-t9G3pLrxbX9-w.png)
 ```
 
----
+![Medium Logo](https://cdn-images-1.medium.com/max/400/1*QnlI8nTg-t9G3pLrxbX9-w.png)
 
-### lists - ordered & unordered
+---?color=#09868B
 
-```bash
+@snap[north]
+
+#### lists
+
+@snapend
+
+@snap[midpoint fragment]
+
+```markdown
 Unordered list
-* first
-* second
-   * first in second, yes you can make nested list
-   * second in second
+
+- first
+- second
+  - first in second, yes you can make nested list
+  - second in second
+
 Ordered list
+
 1. one
 1. two
 1. three
-   * Also yes, you can combine unordered with ordered list
-   * Just give three spaces and your list will be nested
-   * How cool and easy
+   - Also yes, you can combine unordered with ordered list
+   - Just give three spaces and your list will be nested
+   - How cool and easy
 ```
 
----
+@snapend
 
-### Tables
+@snap[midpoint fragment]
 
-```bash
-|No | Name       |
-|---|------------|
-|1  | Jundi Alwan|
-|2  | John Doe   |
+Unordered list
+
+- first
+- second
+  - first in second, yes you can make nested list
+  - second in second
+
+Ordered list
+
+1. one
+2. two
+3. three
+   - Also yes, you can combine unordered with ordered list
+   - Just give three spaces and your list will be nested
+   - How cool and easy
+
+@snapend
+
+---?color=#09868B
+
+@snap[north]
+
+#### tables
+
+@snapend
+
+@snap[west text-right]
+
+```markdown
+| No  | Name        |
+| --- | ----------- |
+| 1   | Jundi Alwan |
+| 2   | John Doe    |
 ```
+
+@snapend
+
+@snap[east text-left fragment text-06]
+
+| No  | Name        |
+| --- | ----------- |
+| 1   | Jundi Alwan |
+| 2   | John Doe    |
+
+@snapend
 
 Note:
 
 limited - simple one row tables
 
----
-
-full element reference list:
-https://docs.gitlab.com/ce/user/markdown.html
+---?color=#09868B
 
 #### Resources
 
-self paced git learning
-https://www.markdowntutorial.com/
+1. full MD element reference list
+   https://docs.gitlab.com/ce/user/markdown.html
 
-https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
-https://docs.gitlab.com/ce/user/markdown.html
+1. self paced git learning
+   https://www.markdowntutorial.com/
 
-references
+1. https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+1. https://docs.gitlab.com/ce/user/markdown.html
 
-https://github.com/commonmark/commonmark-spec/wiki/markdown-flavors
-https://docs.gitlab.com/ce/user/markdown.html
-https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+---?color=#09868B
+
+#### references
+
+1. https://github.com/commonmark/commonmark-spec/wiki/markdown-flavors
+1. https://docs.gitlab.com/ce/user/markdown.html
+1. https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
