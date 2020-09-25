@@ -27,8 +27,6 @@ cultural, mindset change - crucial
 
 ![](assets/img/idea-to-production-10-steps.png)
 
-@snap[midpoint text-left text-6]
-
 1. Chat conversation
 2. Issue creation
 3. Planning board
@@ -40,8 +38,6 @@ cultural, mindset change - crucial
 9. Chatops
 10. Feedback
 
-@snapend
-
 Note:
 
 10 steps
@@ -50,26 +46,20 @@ Note:
 
 ![](assets/img/idea-to-production-10-steps-idea.png)
 
-@snap[midpoint text-left text-6]
-
 1. @color[blue](Chat conversation)
-2. <br>
-3. <br>
-4. <br>
-5. <br>
-6. <br>
-7. <br>
-8. <br>
-9. <br>
-10. <br>
-
-@snapend
+2. Issue creation
+3. Planning board
+4. IDE
+5. Version control
+6. Continuous Integration
+7. Code review
+8. Continuous Delivery
+9. Chatops
+10. Feedback
 
 ---
 
 ![](assets/img/idea-to-production-10-steps-issue.png)
-
-@snap[midpoint text-left text-6]
 
 1. Chat conversation
 2. @color[blue](Issue creation)
@@ -81,8 +71,6 @@ Note:
 8. Continuous Delivery
 9. Chatops
 10. Feedback
-
-@snapend
 
 ---
 
