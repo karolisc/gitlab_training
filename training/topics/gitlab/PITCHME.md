@@ -11,7 +11,7 @@
 
 Gitlab vs others
 
-![](pictures/gitlab_devops_tools.PNG)
+![](assets/img/gitlab_devops_tools.PNG)
 
 ---
 

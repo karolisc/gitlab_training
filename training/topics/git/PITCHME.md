@@ -40,7 +40,7 @@ Git introduction
 - ammend commits
 - undo changes
 
-![](pictures/index1@2x.png)
+![](assets/img/index1@2x.png)
 
 ---
 
@@ -51,7 +51,7 @@ All features and fixes first go to master
 Create a feature/bugfix branch to do all work
 Use merge requests to merge to master
 
-![](pictures/feature_branches.png)
+![](assets/img/feature_branches.png)
 
 Commit often and push frequently fail fast
 

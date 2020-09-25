@@ -1,6 +1,6 @@
 DevOps lifecycle
 
-![](pictures/devops-loop-and-spans-small.png)
+![](assets/img/devops-loop-and-spans-small.png)
 
 ---
 
@@ -27,7 +27,7 @@ cultural, mindset change - crucial
 
 10 steps
 
-![](pictures/10-step-dev-lifecycle-plan.png)
+![](assets/img/10-step-dev-lifecycle-plan.png)
 
 1. Chat conversation
 2. Issue creation
