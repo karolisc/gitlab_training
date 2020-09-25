@@ -10,15 +10,10 @@ DevOps lifecycle
 
 @snapend
 
-@snap[midpoint span-100 text-left text-07]
+@snap[midpoint span-100 text-center text-07]
 
-DevOps practices enable software development (@color[blue](Dev))  
-and operations (@color[green](Ops)) teams to accelerate delivery  
-through:
-
-@snapend
-
-@snap[south span-100 text-center text-07]
+DevOps practices enable software development (@color[blue](Dev)) and  
+operations (@color[green](Ops)) teams to accelerate delivery through:
 
 1. automation
 2. collaboration
