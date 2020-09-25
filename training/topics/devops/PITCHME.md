@@ -9,11 +9,7 @@
 DevOps practices enable software development (@color[blue](Dev)) and  
 operations (@color[orange](Ops)) teams to accelerate delivery through:
 
-@snapend
-
-@snap[south fragment]
-
-@ol
+@ol[list-hide-fragments]
 
 1. automation
 2. collaboration
