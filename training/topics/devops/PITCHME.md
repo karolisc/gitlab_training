@@ -27,7 +27,7 @@ cultural, mindset change - crucial
 
 ![](assets/img/idea-to-production-10-steps.png)
 
-@snap[middle text-left]
+@snap[midpoint text-left text-6]
 
 1. Chat conversation
 2. Issue creation
@@ -50,7 +50,7 @@ Note:
 
 ![](assets/img/idea-to-production-10-steps-idea.png)
 
-@snap[middle text-left]
+@snap[midpoint text-left text-6]
 
 1. @color[blue](Chat conversation)
 2. <br>
@@ -69,7 +69,7 @@ Note:
 
 ![](assets/img/idea-to-production-10-steps-issue.png)
 
-@snap[middle text-left]
+@snap[midpoint text-left text-6]
 
 1. Chat conversation
 2. @color[blue](Issue creation)
