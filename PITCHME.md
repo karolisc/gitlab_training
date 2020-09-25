@@ -1,8 +1,8 @@
-# gitlab training cource
+#### gitlab training cource
 
-[asdfsad](training/topics/devops/PITCHME.md)
+[devops](?p=training/topics/devops)
 
-[asdfsdf14546](training/topics/git/PITCHME.md)
+[gitulis](?p=training/topics/git)
 
 ---?include=training/topics/devops/PITCHME.md
 
