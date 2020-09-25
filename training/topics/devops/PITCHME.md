@@ -4,7 +4,13 @@ DevOps lifecycle
 
 ---
 
+@snap[north]
+
 #### What is devops
+
+@snapend
+
+@snap[midpoint]
 
 DevOps practices enable software development (Dev)  
 and operations (Ops) teams to accelerate delivery  
@@ -15,9 +21,11 @@ through:
 3. fast feedback
 4. iterative improvement
 
-https://about.gitlab.com/topics/devops/
+@snapend
 
 Note:
+
+https://about.gitlab.com/topics/devops/
 
 prince2 on steroids - paper vs automation
 
