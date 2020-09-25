@@ -47,15 +47,15 @@ Note:
 ![](assets/img/idea-to-production-10-steps-idea.png)
 
 1. @color[blue](Chat conversation)
-2. Issue creation
-3. Planning board
-4. IDE
-5. Version control
-6. Continuous Integration
-7. Code review
-8. Continuous Delivery
-9. Chatops
-10. Feedback
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
 
 ---
 
