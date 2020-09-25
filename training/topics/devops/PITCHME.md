@@ -38,7 +38,7 @@ cultural, mindset change - crucial
 9. Chatops
 10. Feedback
 
-Notes:
+Note:
 
 10 steps
 
