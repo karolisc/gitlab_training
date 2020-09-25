@@ -10,7 +10,7 @@ DevOps lifecycle
 
 @snapend
 
-@snap[midpoint span-100]
+@snap[midpoint span-100 text-8]
 
 DevOps practices enable software development (Dev)  
 and operations (Ops) teams to accelerate delivery  
