@@ -4,14 +4,10 @@
 
 [gitulis](?p=training/topics/git)
 
----?include=training/topics/devops/PITCHME.md
+[gitlab](?p=training/topics/gitlab)
 
----?include=training/topics/git/PITCHME.md
+[markdown](?p=training/topics/markdown)
 
----?include=training/topics/gitlab/PITCHME.md
+[markdown](?p=training/topics/vscode)
 
----?include=training/topics/markdown/PITCHME.md
-
----?include=training/topics/vscode/PITCHME.md
-
----?include=training/topics/workflow/PITCHME.md
+[markdown](?p=training/topics/workflow)
