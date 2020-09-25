@@ -1,6 +1,6 @@
 @snap[north]
 
-#### What is (@color[blue](Dev))(@color[green](Ops))
+#### What is @color[blue](Dev)@color[green](Ops)
 
 @snapend
 
