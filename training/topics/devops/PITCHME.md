@@ -47,15 +47,15 @@ Note:
 ![](assets/img/idea-to-production-10-steps-idea.png)
 
 1. @color[blue](Chat conversation)
-2.
-3.
-4.
-5.
-6.
-7.
-8.
-9.
-10.
+2. <br>
+3. <br>
+4. <br>
+5. <br>
+6. <br>
+7. <br>
+8. <br>
+9. <br>
+10. <br>
 
 ---
 
