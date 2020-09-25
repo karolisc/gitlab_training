@@ -1,6 +1,6 @@
 @snap[north]
 
-#### What is devops
+#### What is (@color[blue](Dev))(@color[green](Ops))
 
 @snapend
 
