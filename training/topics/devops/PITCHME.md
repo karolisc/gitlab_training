@@ -1,13 +1,13 @@
 @snap[north]
 
-#### What is @color[blue](Dev)@color[green](Ops)
+#### What is @color[blue](Dev)@color[orange](Ops)
 
 @snapend
 
 @snap[midpoint span-100 text-center text-07 fragment]
 
 DevOps practices enable software development (@color[blue](Dev)) and  
-operations (@color[green](Ops)) teams to accelerate delivery through:
+operations (@color[orange](Ops)) teams to accelerate delivery through:
 
 1. automation
 2. collaboration
@@ -32,7 +32,7 @@ DevOps lifecycle
 
 #### why
 
-breaking silos - (@color[blue](Dev)) vs (@color[green](Ops))
+breaking silos - (@color[blue](Dev)) vs (@color[orange](Ops))
 
 Note:
 
