@@ -253,7 +253,7 @@ with javascript syntax highlighting
 
 @divend
 
-@div[right-50 fragment]
+@div[right-50 text-left fragment]
 
 #### This is header 4
 
