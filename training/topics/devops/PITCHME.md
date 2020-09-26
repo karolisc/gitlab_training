@@ -19,7 +19,7 @@ operations (@color[orange](Ops)) teams to accelerate delivery through:
 @olend
 @snapend
 
-@ol
+@ol[text-07]
 
 1. automation
 2. collaboration
