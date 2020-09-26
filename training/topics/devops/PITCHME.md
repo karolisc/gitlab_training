@@ -34,9 +34,9 @@ prince2 on steroids - paper vs automation
 
 #### why
 
-vientisumas
-atkaartojamumas
-testinumas
+- vientisumas
+- atkaartojamumas
+- testinumas
 
 Note:
 
@@ -44,9 +44,16 @@ Note:
 
 #### how
 
+1. blend in all P's
+   @ul
+   - planning,
+   - people,
+   - process,
+   - policy
+     @ulend
 1. breaking silos - (@color[blue](Dev)) vs (@color[orange](Ops))
-1. cultural, mindset change - (@color[pink](crucial)
-1. blend in all P's (planning, people, process, and policy)
+1. cultural, mindset change - @color[pink](crucial)
+
 1. IT (tools) to the rescue
 
 Note:
