@@ -281,7 +281,7 @@ Format: ![Alt text](url)
 
 @snapend
 
-@snap[south]
+@snap[south fragment]
 
 ![Medium Logo](https://cdn-images-1.medium.com/max/400/1*QnlI8nTg-t9G3pLrxbX9-w.png)
 
