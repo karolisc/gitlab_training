@@ -23,7 +23,7 @@
 
 @ulend
 
-@snap[south-west text-center]
+@snap[south text-center]
 by Linus Torvalds
 @snapend
 
