@@ -52,7 +52,7 @@ Note:
    - policy
      @ulend
 1. breaking silos - (@color[blue](Dev)) vs (@color[orange](Ops))
-1. cultural, mindset change - @color[pink](crucial)
+1. cultural, mindset change - @color[red](crucial)
 
 1. IT (tools) to the rescue
 
