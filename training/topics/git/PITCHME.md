@@ -2,7 +2,8 @@
 
 - introduction
 - terminology
-- gitlab flow
+- github flow
+- commit message
 - resources
 - hands on
 - Q/A
@@ -82,6 +83,8 @@ Use merge requests to merge to master
 
 #### Commit message
 
+@ul
+
 - should reflect your intention
 - commit message should explain why
 - short
@@ -89,14 +92,13 @@ Use merge requests to merge to master
 - present time
 - english? vs nationalization
 
+@ulend
+
 Note:
 
-commit message - present time
 quality - look at your past commits can you understand them Yourself?
 look at others commits - are they understandable?
 
-Branch name - e.g. issue ref
-Commit message name
 @color[blue](Quality:)
 do it for others
 @color[blue](invest) some time
@@ -106,9 +108,10 @@ do it for others
 #### Resources
 
 self paced git learning
-[katacoda](https://www.katacoda.com/courses/git)
-[pro git book](https://git-scm.com/book/en/v2)
-[understanding the github flow](https://guides.github.com/introduction/flow/)
+
+1. [katacoda](https://www.katacoda.com/courses/git)
+1. [pro git book](https://git-scm.com/book/en/v2)
+1. [understanding the github flow](https://guides.github.com/introduction/flow/)
 
 ---
 
@@ -129,7 +132,9 @@ git config --global user.name "Your Name"
 git config --global user.email you@example.com
 ```
 
-Create/Initialize project
+---
+
+#### Create/Initialize project
 
 TODO perdaryti ir per explorer
 ads winexplorer picture :)
@@ -140,7 +145,7 @@ cd ~/git_projects
 git init
 ```
 
-Commands (committing)
+#### Committing
 
 ```bash
 # Edit `some_file`                               # Edit file
@@ -171,13 +176,14 @@ git push origin meaningful_name                 # Push.
 
 ---
 
-references
-<https://docs.gitlab.com/ee/university/training/user_training.html>
-<https://docs.gitlab.com/ee/university/training/gitlab_flow.html>
-<https://www.katacoda.com>
-<https://git-scm.com/book/en/v2>
-<https://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html>
-<https://docs.gitlab.com/ee/topics/gitlab_flow.html#commit-often-and-push-frequently>
+#### References
+
+1. <https://docs.gitlab.com/ee/university/training/user_training.html>
+1. <https://docs.gitlab.com/ee/university/training/gitlab_flow.html>
+1. <https://www.katacoda.com>
+1. <https://git-scm.com/book/en/v2>
+1. <https://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html>
+1. <https://docs.gitlab.com/ee/topics/gitlab_flow.html#commit-often-and-push-frequently>
 
 ---
 
