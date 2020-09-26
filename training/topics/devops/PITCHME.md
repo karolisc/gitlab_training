@@ -259,7 +259,7 @@ Note:
 
 ---
 
-References
+#### References
 
 1. https://about.gitlab.com/stages-devops-lifecycle/
 1. https://about.gitlab.com/topics/devops/
