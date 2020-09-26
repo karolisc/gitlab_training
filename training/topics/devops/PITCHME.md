@@ -44,6 +44,8 @@ Note:
 
 #### how
 
+@ul
+
 1. blend in all P's
    @ul
    - planning,
@@ -53,8 +55,8 @@ Note:
      @ulend
 1. breaking silos - (@color[blue](Dev)) vs (@color[orange](Ops))
 1. cultural, mindset change - @color[red](crucial)
-
 1. IT (tools) to the rescue
+   @ulend
 
 Note:
 
