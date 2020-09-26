@@ -5,6 +5,11 @@
 - integrated devops tool chain
 - complete devops cycle tool stack
 
+Note:
+
+framework - do it yourself:
+pencil and blank canvas
+
 ---
 
 ### Feature coverage
