@@ -44,16 +44,32 @@
 
 ---
 
-#### gitlab flow
+#### github flow - feature branch
+
+@div[left-40]
+<br/>
+![](assets/img/feature_branches.png)
+@divend
+
+@div[right-60]
+<br/>
+@ul
+
+- Short live branch
+- @color[red](Protect) mainstream work
+- Change proposals @color[blue](ONLY!)
+
+@ulend  
+@divend
+
+Note:
+
+Commit often and push frequently fail fast
 
 A simplified branching strategy
 All features and fixes first go to master
 Create a feature/bugfix branch to do all work
 Use merge requests to merge to master
-
-![](assets/img/feature_branches.png)
-
-Commit often and push frequently fail fast
 
 ---
 
@@ -65,6 +81,18 @@ Commit often and push frequently fail fast
 - start with verb
 - present time
 - english? vs nationalization
+
+Note:
+
+commit message - present time
+quality - look at your past commits can you understand them Yourself?
+look at others commits - are they understandable?
+
+Branch name - e.g. issue ref
+Commit message name
+@color[blue](Quality:)
+do it for others
+@color[blue](invest) some time
 
 ---
 
