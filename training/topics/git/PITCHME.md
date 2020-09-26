@@ -136,14 +136,19 @@ git config --global user.email you@example.com
 
 #### Create/Initialize project
 
-TODO perdaryti ir per explorer
-ads winexplorer picture :)
-
 ```bash
 mkdir ~/git_projects
 cd ~/git_projects
 git init
 ```
+
+@[1-2]
+@[3]
+
+Note:
+
+TODO perdaryti ir per explorer
+ads winexplorer picture :)
 
 ---
 
