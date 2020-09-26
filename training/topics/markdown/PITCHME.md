@@ -269,10 +269,6 @@ with javascript syntax highlighting
 
 #### images
 
-@snapend
-
-@snap[midpoint]
-
 ```markdown
 Format: \!\[Alt text\](url)
 
