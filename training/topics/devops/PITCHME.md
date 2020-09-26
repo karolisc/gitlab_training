@@ -18,9 +18,20 @@ operations (@color[orange](Ops)) teams to accelerate delivery through:
 
 @olend
 
+@ol
+
+1. automation
+2. collaboration
+3. fast feedback
+4. iterative improvement
+
+@olend
+
 @snapend
 
 Note:
+
+separate dev or ops part = agile
 
 https://about.gitlab.com/topics/devops/
 
@@ -36,22 +47,24 @@ DevOps lifecycle
 
 #### why
 
-breaking silos - (@color[blue](Dev)) vs (@color[orange](Ops))
+vientisumas
+atkaartojamumas
+testinumas
 
 Note:
-
-vs it works on my pc!!!!
 
 ---
 
 #### how
 
+1. breaking silos - (@color[blue](Dev)) vs (@color[orange](Ops))
 1. cultural, mindset change - (@color[pink](crucial)
 1. blend in all P's (planning, people, process, and policy)
 1. IT (tools) to the rescue
 
 Note:
 
+vs it works on my pc!!!!
 vs remember guys this and that
 do search, diff on paper
 
