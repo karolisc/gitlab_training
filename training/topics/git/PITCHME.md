@@ -145,6 +145,8 @@ cd ~/git_projects
 git init
 ```
 
+---
+
 #### Committing
 
 ```bash
