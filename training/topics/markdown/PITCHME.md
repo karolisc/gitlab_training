@@ -317,6 +317,8 @@ Ordered list
 
 @snapend
 
+@div
+
 Unordered list
 
 - first
@@ -332,6 +334,8 @@ Ordered list
    - Also yes, you can combine unordered with ordered list
    - Just give three spaces and your list will be nested
    - How cool and easy
+
+@divend
 
 ---?color=#09868B
 
