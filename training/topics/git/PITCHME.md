@@ -19,7 +19,7 @@
 - Fast, reliable and stable file format
 - free & opensource
 
-@snap[south-west text-left]
+@snap[south-west text-center]
 by Linus Torvalds
 @snapend
 
