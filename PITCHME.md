@@ -1,4 +1,4 @@
-#### Gitlab training cource
+#### "Gitlab" training cource
 
 @ul
 
@@ -10,3 +10,11 @@
 - [workflow](?p=training/topics/workflow)
 
 @ulend
+
+@snap[south]
+
+Slide deck
+
+https://github.com/karolisc/gitlab_training
+
+@snapend
