@@ -165,16 +165,16 @@ git push origin meaningful_name                 # Push.
 ---
 
 references
-https://docs.gitlab.com/ee/university/training/user_training.html
-https://docs.gitlab.com/ee/university/training/gitlab_flow.html
-https://www.katacoda.com
-https://git-scm.com/book/en/v2
-https://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html
-https://docs.gitlab.com/ee/topics/gitlab_flow.html#commit-often-and-push-frequently
+<https://docs.gitlab.com/ee/university/training/user_training.html>
+<https://docs.gitlab.com/ee/university/training/gitlab_flow.html>
+<https://www.katacoda.com>
+<https://git-scm.com/book/en/v2>
+<https://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html>
+<https://docs.gitlab.com/ee/topics/gitlab_flow.html#commit-often-and-push-frequently>
 
 ---
 
 TODO
 
 git commit burbulai visualizuoti
-git merge visualizavimas - https://www.youtube.com/watch?v=03wb9FvO4Ak&index=5&list=PLFGfElNsQthbQu_IWlNOxul0TbS_2JH-e - 31:43 tikrinti visa faila panasu visas workflow easy paaiskintas, det i self training
+git merge visualizavimas - <https://www.youtube.com/watch?v=03wb9FvO4Ak&index=5&list=PLFGfElNsQthbQu_IWlNOxul0TbS_2JH-e> - 31:43 tikrinti visa faila panasu visas workflow easy paaiskintas, det i self training

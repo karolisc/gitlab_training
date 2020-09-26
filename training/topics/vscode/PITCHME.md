@@ -1,6 +1,6 @@
-gui clients
+#### gui clients
 
-https://git-scm.com/downloads/guis
+<https://git-scm.com/downloads/guis>
 
 Microsoft visual studio code (vscode)
 
@@ -21,4 +21,4 @@ extension gitlab
 ---
 
 References
-https://git-scm.com/downloads/guis
+<https://git-scm.com/downloads/guis>

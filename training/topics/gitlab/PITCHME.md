@@ -210,7 +210,7 @@ Feedback is about the best work, not the person. You are not your work
 ---
 
 work review
-https://github.com/thoughtbot/guides/tree/master/code-review
+<https://github.com/thoughtbot/guides/tree/master/code-review>
 
 Explore GitLab projects
 
