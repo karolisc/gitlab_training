@@ -265,7 +265,13 @@ with javascript syntax highlighting
 
 ---?color=#09868B
 
+@snap[north]
+
 #### images
+
+@snapend
+
+@snap[midpoint]
 
 ```markdown
 Format: ![Alt text](url)
@@ -273,7 +279,13 @@ Format: ![Alt text](url)
 \![Medium Logo](https://cdn-images-1.medium.com/max/400/1*QnlI8nTg-t9G3pLrxbX9-w.png)
 ```
 
+@snapend
+
+@snap[south]
+
 ![Medium Logo](https://cdn-images-1.medium.com/max/400/1*QnlI8nTg-t9G3pLrxbX9-w.png)
+
+@snapend
 
 ---?color=#09868B
 
