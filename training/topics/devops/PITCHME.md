@@ -34,25 +34,26 @@ prince2 on steroids - paper vs automation
 
 ---
 
-#### @color[green](Transparency) of decision-making (6W's)
+#### @color[blue](Dev)@color[orange](Ops) benefits - out of the box
 
 @ul
 
-- who
-- what
-- where
-- when
-- why
-- @color[red](how!)
+- @color[green](Transparency) of decision-making (6W's)
+  - who
+  - what
+  - where
+  - when
+  - why
+  - @color[red](how!)
+- all on the same page
+- repeatable workflow
+- concise flow
+- continuation - no single point of failure
   @ulend
 
 Note:
 
 Six W`s method
-
-- vientisumas
-- atkaartojamumas
-- testinumas
 
 ---
 
