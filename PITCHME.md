@@ -1,4 +1,4 @@
-##### "Gitlab"
+##### ~~Gitlab~~
 
 #### training cource
 
@@ -18,3 +18,7 @@
 Slide deck: https://github.com/karolisc/gitlab_training
 
 @snapend
+
+Note:
+
+training is not about gitlab but about whole ecosystem
