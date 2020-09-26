@@ -321,7 +321,7 @@ Ordered list
 
 @snapend
 
-@snap[west text-06 text-left]
+@snap[west text-05 text-left]
 
 Unordered list
 
@@ -330,7 +330,8 @@ Unordered list
   - first in second, yes you can make nested list
   - second in second
 
-<br>
+<br><br>
+
 Ordered list
 
 1. one
