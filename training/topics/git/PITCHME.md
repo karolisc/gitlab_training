@@ -125,6 +125,10 @@ git push origin meaningful_name                 # Push.
 
 ---
 
+## @color[blue](Q) / @color[green](A) ?
+
+---
+
 references
 https://docs.gitlab.com/ee/university/training/user_training.html
 https://docs.gitlab.com/ee/university/training/gitlab_flow.html

@@ -356,6 +356,10 @@ limited - simple one row tables
 
 ---?color=#09868B
 
+## @color[blue](Q) / @color[green](A) ?
+
+---?color=#09868B
+
 #### references
 
 1. https://github.com/commonmark/commonmark-spec/wiki/markdown-flavors

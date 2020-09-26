@@ -255,6 +255,10 @@ Note:
 
 ---
 
+## @color[blue](Q) / @color[green](A) ?
+
+---
+
 References
 
 1. https://about.gitlab.com/stages-devops-lifecycle/
