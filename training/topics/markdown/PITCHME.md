@@ -355,7 +355,7 @@ Ordered list
 
 ```markdown
 | No  | Name        |
-| --- | ----------- |
+| :-- | ----------- |
 | 1   | Jundi Alwan |
 | 2   | John Doe    |
 ```
@@ -365,7 +365,7 @@ Ordered list
 @snap[east text-left fragment text-06]
 
 | No  | Name        |
-| --- | ----------- |
+| :-- | ----------- |
 | 1   | Jundi Alwan |
 | 2   | John Doe    |
 
