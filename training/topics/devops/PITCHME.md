@@ -26,7 +26,7 @@ prince2 on steroids - paper vs automation
 
 ---
 
-DevOps lifecycle
+#### @color[blue](Dev)@color[orange](Ops) lifecycle
 
 ![](assets/img/devops-loop-and-spans-small.png)
 
