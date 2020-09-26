@@ -142,6 +142,12 @@ Gitlab vs others
 
 ---
 
+### setup
+
+Subscribe to projects, issues, MR
+
+---
+
 ### Workflow
 
 todos feature mark jobs you have interest but not assigned to you

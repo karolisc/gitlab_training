@@ -11,7 +11,7 @@ operations (@color[orange](Ops)) teams to accelerate delivery through:
 
 1. automation
 2. collaboration
-3. fast feedback
+3. fast feedback loops
 4. iterative improvement
 
 @snapend
@@ -34,20 +34,17 @@ prince2 on steroids - paper vs automation
 
 ---
 
-#### why
+#### @color[green](Transparency) of decision-making (6W's)
 
 @ul
 
-- Collaboration
-- Fast feedback loops
-- @color[green](Transparency) of decision-making:
-  - who
-  - what
-  - where
-  - when
-  - why
-  - @color[red](how!)
-    @ulend
+- who
+- what
+- where
+- when
+- why
+- @color[red](how!)
+  @ulend
 
 Note:
 
@@ -98,7 +95,7 @@ do search, diff on paper
 
 Note:
 
-10 steps from idea to productio
+10 steps from idea to production
 
 ---
 
@@ -117,6 +114,9 @@ Note:
 
 Note:
 
+Every new proposal starts with an idea, which usually come up in a chat  
+e.g mattermost
+
 ---
 
 ![](assets/img/idea-to-production-10-steps-issue.png)
@@ -133,6 +133,10 @@ Note:
 10. Feedback
 
 Note:
+
+The most effective way to discuss an idea is creating an issue for it.  
+Your team and your collaborators can help you to polish and improve it  
+in the issue tracker.
 
 ---
 
@@ -151,6 +155,10 @@ Note:
 
 Note:
 
+Once the discussion comes to an agreement, it's time to code.  
+But wait! First, we need to prioritize and organize our workflow.  
+For this, we can use the Issue Board.
+
 ---
 
 ![](assets/img/idea-to-production-10-steps-code.png)
@@ -167,6 +175,8 @@ Note:
 10. Feedback
 
 Note:
+
+Now we're ready to write our code, once we have everything organized.
 
 ---
 
@@ -185,6 +195,9 @@ Note:
 
 Note:
 
+Once we're happy with our draft, we can commit our code to
+a feature-branch with version control.
+
 ---
 
 ![](assets/img/idea-to-production-10-steps-test.png)
@@ -201,6 +214,8 @@ Note:
 10. Feedback
 
 Note:
+
+With GitLab CI, we can run our scripts to build and test our application.
 
 ---
 
@@ -219,6 +234,9 @@ Note:
 
 Note:
 
+Once our script works and our tests and builds succeeds,  
+we are ready to get our code reviewed and approved.
+
 ---
 
 ![](assets/img/idea-to-production-10-steps-staging.png)
@@ -235,6 +253,9 @@ Note:
 10. Feedback
 
 Note:
+
+Now it's time to deploy our code to a staging environment to check  
+if everything worked as we were expecting or if we still need adjustments.
 
 ---
 
@@ -253,6 +274,9 @@ Note:
 
 Note:
 
+When we have everything working as it should,
+it's time to deploy to our production environment!
+
 ---
 
 ![](assets/img/idea-to-production-10-steps-feedback.png)
@@ -270,6 +294,9 @@ Note:
 
 Note:
 
+Now it's time to look back and check what stage of our work needs improvement.  
+We use Cycle Analytics for feedback on the time we spent on key stages of our process.
+
 ---
 
 ## @color[blue](Q) / @color[green](A) ?
@@ -281,3 +308,4 @@ Note:
 1. https://about.gitlab.com/stages-devops-lifecycle/
 1. https://about.gitlab.com/topics/devops/
 1. https://about.gitlab.com/features/
+1. https://about.gitlab.com/blog/2016/10/25/gitlab-workflow-an-overview/
