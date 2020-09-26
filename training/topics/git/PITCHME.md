@@ -1,15 +1,15 @@
-Git agenda
+#### Git agenda
 
 - introduction
 - terminology
-- gitlabflow
+- gitlab flow
 - resources
 - hands on
 - Q/A
 
 ---
 
-Git introduction
+#### Git introduction
 
 - Distributed version control.
   - Does not rely on connection to a central server.
@@ -44,7 +44,7 @@ Git introduction
 
 ---
 
-#### gitlabflow
+#### gitlab flow
 
 A simplified branching strategy
 All features and fixes first go to master
@@ -59,10 +59,12 @@ Commit often and push frequently fail fast
 
 #### Commit message
 
-should reflect your intention
-commit message should explain why
-short
-present time
+- should reflect your intention
+- commit message should explain why
+- short
+- start with verb
+- present time
+- english? vs nationalization
 
 ---
 
@@ -75,6 +77,10 @@ self paced git learning
 ---
 
 ### Workshop, Hands-on
+
+Note:
+
+TODO parusoti uzduotis
 
 ---
 
@@ -112,7 +118,7 @@ git log                                          # View the Git log
 
 ---
 
-Feature branching
+#### Feature branching
 
 ```bash
 git checkout -b meaningful_name                 # Create a new feature branch called "meaningful_name"
@@ -141,5 +147,5 @@ https://docs.gitlab.com/ee/topics/gitlab_flow.html#commit-often-and-push-frequen
 
 TODO
 
-git commit burbulai visual;izuoti
+git commit burbulai visualizuoti
 git merge visualizavimas - https://www.youtube.com/watch?v=03wb9FvO4Ak&index=5&list=PLFGfElNsQthbQu_IWlNOxul0TbS_2JH-e - 31:43 tikrinti visa faila panasu visas workflow easy paaiskintas, det i self training

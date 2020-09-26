@@ -14,8 +14,27 @@
 
 Note:
 
-text power  
-generate (convert)
+plain text power  
+generate (convert) - doc, pdf, publishers(books)
+
+---
+
+#### Real world application examples
+
+- Configs
+- Infrastructure as Code
+- Documentation + self generated
+- Documents
+- Presentations - @color[green](e.g this one)
+- Flow diagrams (mermaid)
+- CMS - e.g. grav
+- Master's thesis
+- Books
+
+Note:
+
+Master's thesis - Dissertation  
+CMS - Content management system
 
 ---?color=#09868B
 
