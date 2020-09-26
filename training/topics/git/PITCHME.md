@@ -11,6 +11,8 @@
 
 #### Git introduction
 
+@ul
+
 - Distributed version control.
   - No central server.
   - Free of charge backups.
@@ -18,6 +20,8 @@
 - Adapts to ANY workflow.
 - Fast, reliable and stable file format
 - free & opensource
+
+@ulend
 
 @snap[south-west text-center]
 by Linus Torvalds
