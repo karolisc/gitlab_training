@@ -313,7 +313,7 @@ Ordered list
 
 @snapend
 
----?color=#040000
+---?color=#202020
 
 @snap[north]
 
