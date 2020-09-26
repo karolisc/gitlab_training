@@ -13,8 +13,6 @@
 
 @snap[south text-04 text-left]
 
-Slide deck
-
-https://github.com/karolisc/gitlab_training
+Slide deck: https://github.com/karolisc/gitlab_training
 
 @snapend
