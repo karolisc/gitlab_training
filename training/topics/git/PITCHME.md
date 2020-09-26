@@ -12,13 +12,16 @@
 #### Git introduction
 
 - Distributed version control.
-  - Does not rely on connection to a central server.
+  - No central server.
   - Free of charge backups.
 - Powerful branching and merging.
 - Adapts to ANY workflow.
 - Fast, reliable and stable file format
 - free & opensource
-  by Linus Torvalds
+
+@snap[south-west text-left]
+by Linus Torvalds
+@snapend
 
 ---
 
