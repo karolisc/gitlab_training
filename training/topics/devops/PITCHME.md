@@ -17,6 +17,7 @@ operations (@color[orange](Ops)) teams to accelerate delivery through:
 4. iterative improvement
 
 @olend
+@snapend
 
 @ol
 
@@ -26,8 +27,6 @@ operations (@color[orange](Ops)) teams to accelerate delivery through:
 4. iterative improvement
 
 @olend
-
-@snapend
 
 Note:
 
