@@ -11,7 +11,7 @@
 
 @ulend
 
-@snap[south]
+@snap[south text-04 text-left]
 
 Slide deck
 
