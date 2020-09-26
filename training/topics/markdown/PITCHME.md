@@ -123,40 +123,6 @@ it automatically turns into link
 
 @snap[north]
 
-#### blockquotes
-
-@snapend
-
-@snap[west]
-
-```markdown
-Format: > Words you quotes
-
-Like he said:
-
-> Happiness can be found even
-> in the darkest of times,
-> if one only remembers
-> to turn on the light.
-```
-
-@snapend
-
-@snap[east bg-blue text-left fragment text-06]
-
-Like he said:
-
-> Happiness can be found even
-> in the darkest of times,
-> if one only remembers
-> to turn on the light.
-
-@snapend
-
----?color=#09868B
-
-@snap[north]
-
 #### emphasis
 
 @snapend
