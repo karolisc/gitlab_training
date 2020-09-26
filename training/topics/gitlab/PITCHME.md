@@ -229,7 +229,7 @@ Project settings
 TODO tikrinti
 
 self paced git learning
-https://courses.platzi.com/
+<https://courses.platzi.com/>
 
 ---
 
@@ -239,7 +239,7 @@ https://courses.platzi.com/
 
 ### References
 
-https://docs.gitlab.com/ee/university/training/user_training.html
-https://github.com/thoughtbot/guides/tree/master/code-review
-https://about.gitlab.com/features/#compare
-https://about.gitlab.com/features/
+<https://docs.gitlab.com/ee/university/training/user_training.html>
+<https://github.com/thoughtbot/guides/tree/master/code-review>
+<https://about.gitlab.com/features/#compare>
+<https://about.gitlab.com/features/>

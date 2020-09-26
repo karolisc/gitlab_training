@@ -22,7 +22,7 @@ separate dev or ops part = agile
 
 Devops building on top of Agile, lean practices, and systems theory
 
-https://about.gitlab.com/topics/devops/
+<https://about.gitlab.com/topics/devops/>
 
 prince2 on steroids - paper vs automation
 
@@ -306,7 +306,7 @@ We use Cycle Analytics for feedback on the time we spent on key stages of our pr
 
 #### References
 
-1. https://about.gitlab.com/stages-devops-lifecycle/
-1. https://about.gitlab.com/topics/devops/
-1. https://about.gitlab.com/features/
-1. https://about.gitlab.com/blog/2016/10/25/gitlab-workflow-an-overview/
+1. <https://about.gitlab.com/stages-devops-lifecycle/>
+1. <https://about.gitlab.com/topics/devops/>
+1. <https://about.gitlab.com/features/>
+1. <https://about.gitlab.com/blog/2016/10/25/gitlab-workflow-an-overview/>
