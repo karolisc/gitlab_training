@@ -44,17 +44,18 @@ Note:
 
 #### how
 
+@ol
+
 1. blend in all P's
-   @ul
+
    - planning,
    - people,
    - process,
    - policy
-     @ulend
-     @ol
-1. breaking silos - (@color[blue](Dev)) vs (@color[orange](Ops))
-1. cultural, mindset change - @color[red](crucial)
-1. IT (tools) to the rescue
+
+2. breaking silos - (@color[blue](Dev)) vs (@color[orange](Ops))
+3. cultural, mindset change - @color[red](crucial)
+4. IT (tools) to the rescue
    @olend
 
 Note:
