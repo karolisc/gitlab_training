@@ -291,6 +291,8 @@ Format: \!\[Alt text\](url)
 
 @snapend
 
+@snap[west text-06 text-left]
+
 ```markdown
 Unordered list
 
@@ -309,6 +311,8 @@ Ordered list
    - How cool and easy
 ```
 
+@snapend
+
 ---?color=#040000
 
 @snap[north]
@@ -317,7 +321,7 @@ Ordered list
 
 @snapend
 
-@snap[west text-06]
+@snap[west text-06 text-left]
 
 Unordered list
 
