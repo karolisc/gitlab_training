@@ -20,6 +20,8 @@ Note:
 
 separate dev or ops part = agile
 
+Devops building on top of Agile, lean practices, and systems theory
+
 https://about.gitlab.com/topics/devops/
 
 prince2 on steroids - paper vs automation
@@ -34,11 +36,26 @@ prince2 on steroids - paper vs automation
 
 #### why
 
+@ul
+
+- Collaboration
+- Fast feedback loops
+- @color[green](Transparency) of decision-making:
+  - who
+  - what
+  - where
+  - when
+  - why
+  - @color[red](how!)
+    @ulend
+
+Note:
+
+Six W`s method
+
 - vientisumas
 - atkaartojamumas
 - testinumas
-
-Note:
 
 ---
 
