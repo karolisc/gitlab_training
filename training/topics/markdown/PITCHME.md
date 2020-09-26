@@ -291,7 +291,7 @@ Format: \!\[Alt text\](url)
 
 @snapend
 
-@snap[midpoint fragment]
+@div
 
 ```markdown
 Unordered list
@@ -310,10 +310,15 @@ Ordered list
    - Just give three spaces and your list will be nested
    - How cool and easy
 ```
+---
+
+@snap[north]
+
+#### lists
 
 @snapend
 
-@snap[midpoint fragment]
+@divend
 
 Unordered list
 
@@ -331,7 +336,7 @@ Ordered list
    - Just give three spaces and your list will be nested
    - How cool and easy
 
-@snapend
+@divend
 
 ---?color=#09868B
 
