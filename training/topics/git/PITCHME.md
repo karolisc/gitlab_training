@@ -157,6 +157,13 @@ git push origin master                           # Push the commit to the remote
 git log                                          # View the Git log
 ```
 
+@[1]
+@[2-3]
+@[4]
+@[5]
+@[6]
+@[7]
+
 ---
 
 #### Feature branching
