@@ -317,7 +317,7 @@ Ordered list
 
 @snapend
 
-@div[text-06]
+@snap[west text-06]
 
 Unordered list
 
@@ -335,7 +335,7 @@ Ordered list
    - Just give three spaces and your list will be nested
    - How cool and easy
 
-@divend
+@snapend
 
 ---?color=#09868B
 
