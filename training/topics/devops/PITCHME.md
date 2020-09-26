@@ -4,7 +4,7 @@
 
 @snapend
 
-@snap[midpoint span-100 text-center text-07 fragment]
+@snap[midpoint span-100 text-center text-07]
 
 DevOps practices enable software development (@color[blue](Dev)) and  
 operations (@color[orange](Ops)) teams to accelerate delivery through:
