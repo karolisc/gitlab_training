@@ -1,3 +1,5 @@
+---
+
 ##### ~~Gitlab~~
 
 #### training cource
@@ -21,4 +23,5 @@ Slide deck: https://github.com/karolisc/gitlab_training
 
 Note:
 
-training is not about gitlab but about whole ecosystem
+This training is not about Gitlab but about whole ecosystem
+and Gitlab is only one piece in it
