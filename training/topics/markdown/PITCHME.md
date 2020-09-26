@@ -272,7 +272,7 @@ with javascript syntax highlighting
 ```markdown
 Format: \!\[Alt text\](url)
 
-\!\[Medium Logo\](https://cdn-images-1.medium.com/max/400/1*QnlI8nTg-t9G3pLrxbX9-w.png)
+\!\[Medium Logo\](https://cdn-medium.com/max/400/1*Q9G3pLrxbX9-w.png)
 ```
 
 @snapend
