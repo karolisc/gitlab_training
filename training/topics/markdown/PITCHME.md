@@ -223,13 +223,15 @@ Markdown will not rendered the character after backslash
 
 ```javascript
 const store = createStore(reducer);
-function reducer(state = [], action)
-{ return 'x' };
+function reducer(state = [], action) {
+  return "x";
+}
+```
+
+Note:
 
 Code above will be converted into code block
 with javascript syntax highlighting
-
-```
 
 ---?color=#09868B
 
@@ -239,27 +241,27 @@ with javascript syntax highlighting
 
 @snapend
 
-@snap[west]
+@div[left-50]
 
 ```markdown
 #### This is header 4
 
 ##### This is header 5
 
-###### This in header 6, in HTML <h6>
+###### This is header 6, in HTML <h6>
 ```
 
-@snapend
+@divend
 
-@snap[east text-left fragment]
+@div[right-50 fragment]
 
 #### This is header 4
 
 ##### This is header 5
 
-###### This in header 6
+###### This is header 6
 
-@snapend
+@divend
 
 ---?color=#09868B
 
