@@ -222,6 +222,10 @@ https://courses.platzi.com/
 
 ---
 
+## @color[blue](Q) / @color[green](A) ?
+
+---
+
 ### References
 
 https://docs.gitlab.com/ee/university/training/user_training.html
