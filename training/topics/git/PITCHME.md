@@ -184,6 +184,10 @@ git commit -m 'minor: lint'                     # Commit.
 git push origin meaningful_name                 # Push.
 ```
 
+@[1]
+@[2-4]
+@[5-6]
+
 ---
 
 ## @color[blue](Q) / @color[green](A) ?
