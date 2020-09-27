@@ -1,0 +1,4 @@
+# look & feel
+theme: night
+logo: assets/img/devops-loop-and-spans-small.png
+theme-override: css/PITCHME.css
