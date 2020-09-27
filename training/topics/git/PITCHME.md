@@ -20,9 +20,13 @@ by Linus Torvalds
 
 ---
 
-#### Concepts
+#### Concepts "trees"
 
 ![](assets/img/index1@2x.png)
+
+#### Concept "commits"
+
+![](assets/img/git_commits.png)
 
 ---
 
@@ -209,7 +213,7 @@ git push origin meaningful_name
 1. <https://git-scm.com/book/en/v2>
 1. <https://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html>
 1. <https://docs.gitlab.com/ee/topics/gitlab_flow.html#commit-often-and-push-frequently>
-
+1. <https://css-irl.info/amending-your-past-commits-with-git/>
 ---
 
 TODO
