@@ -54,7 +54,7 @@ CMS - Content management system
 
 @snap[north]
 
-#### Markdown flavors
+#### Markdown flavors (36)
 
 @snapend
 
