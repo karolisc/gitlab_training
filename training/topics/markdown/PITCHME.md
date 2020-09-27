@@ -255,9 +255,11 @@ with javascript syntax highlighting
 
 @snap[east span-50 fragment]
 
-@box[text-orange ](#### This is header 4)
-@box[text-orange ](##### This is header 5)
-@box[text-orange ](###### This is header 6)
+#### This is header 4
+
+##### This is header 5
+
+###### This is header 6
 
 @snapend
 
