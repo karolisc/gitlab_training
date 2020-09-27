@@ -24,21 +24,7 @@ by Linus Torvalds
 
 #### Concepts
 
-@snapend
-
-@snap[west]
-
-![width=400](assets/img/index1@2x.png)
-
-@snapend
-
-@snap[east]
-
-- working directory
-- staging area
-- repository
-
-@snapend
+![](assets/img/index1@2x.png)
 
 ---
 
