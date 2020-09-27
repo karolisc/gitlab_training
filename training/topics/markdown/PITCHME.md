@@ -62,7 +62,8 @@ CMS - Content management system
 2. Markdown 2
 3. GitHub Flavored Markdown
 4. GitLab Flavored Markdown (GFM)
-5. ...
+5. Pandoc
+6. ...
 
 36 Pandoc
 
