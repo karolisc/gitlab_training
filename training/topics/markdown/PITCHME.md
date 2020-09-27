@@ -432,14 +432,10 @@ limited - simple one row tables
 
 #### Resources
 
-1. full MD element reference list
-   <https://docs.gitlab.com/ce/user/markdown.html>
-
-1. self paced git learning
-   <https://www.markdowntutorial.com/>
-
-1. <https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet>
-1. <https://docs.gitlab.com/ce/user/markdown.html>
+1. [full MD element reference list](https://docs.gitlab.com/ce/user/markdown.html)
+1. [self paced git learning](https://www.markdowntutorial.com/)
+1. [Markdown-Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+1. [GFM](https://docs.gitlab.com/ce/user/markdown.html)
 
 ---
 
