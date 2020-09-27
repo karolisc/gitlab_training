@@ -34,23 +34,25 @@ Review the changes again and notice the update.
 
 #### Merge conflicts
 
-two people at the same time are modifying  
-same file in similar area  
-merge conflicts are annoying  
-can feel complicated  
-Happen all the time  
-Need to fix conflicts one by one
+- two people at the same time are modifying
+  same file in similar area
+- merge conflicts are annoying
+- can feel complicated
+- Happen all the time
+- Need to fix conflicts one by one
 
 ---
 
 #### Feedback and Collaboration
 
-Merge requests are a time for feedback and collaboration.  
-Giving feedback is hard.  
-Be as kind as possible.  
-Receiving feedback is hard.  
-Be as receptive as possible.  
-Feedback is about the best work, not the person. You are not your work
+- Merge requests are a time for feedback and collaboration.
+- Giving feedback is hard.
+- Be as kind as possible.
+- Receiving feedback is hard.
+- Be as receptive as possible.
+- Feedback is about the best work, not the person. You are not your work
+
+---
 
 #### work review
 
