@@ -141,7 +141,7 @@ reference by - !, #, @
 
 @snapend
 
-@snap[west text-06]
+@snap[west text-06 span-60]
 
 ```markdown
 Format: \[Placeholder\](url) OR
