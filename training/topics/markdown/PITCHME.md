@@ -405,8 +405,8 @@ Ordered list
 
 | No  | Name        |
 | :-- | ----------- |
-| 1   | Jundi Alwan |
-| 2   | John Doe    |
+| 1.  | Jundi Alwan |
+| 1.  | John Doe    |
 
 @snapend
 
