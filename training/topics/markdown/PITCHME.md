@@ -12,9 +12,9 @@
 
 @snapend
 
-@snap[south-west text-08 fragment]
+@snap[south text-08 span-60 fragment]
 
-.md
+\*.md
 
 @snapend
 
