@@ -1,4 +1,18 @@
 # look & feel
-theme: night
-logo: assets/img/devops-loop-and-spans-small.png
+#theme: night
+#theme: moon
+#theme: template
+#logo: assets/img/devops-loop-and-spans-small.png
 theme-override: css/PITCHME.css
+#background: assets/img/devops-loop-and-spans-small.png
+
+#theme-background: ["#808080"]
+theme-background: ["#696969"]
+theme-headline: ["Raleway", "#5289F7", "none", "#5289F7", "100", "120", "15"]
+theme-byline: ["Raleway", "#111111", "none", "#111111", "100", "110", "15"]
+theme-text: ["Ubuntu", "#1C1C1C", "none", "#1C1C1C", "100", "100", "15"]
+theme-links: ["#8b0000", "#800000"]
+theme-code: ["Source Code Pro", "100", "120"]
+theme-controls: ["#484848"]
+theme-margins: ["0", "15px"]
+# https://developer.mozilla.org/en-US/docs/Web/CSS/color_value
