@@ -4,7 +4,7 @@
 
 @ul
 
-- Distributed version control.
+- Distributed version control:
   - No central server.
   - Free of charge backups.
 - Powerful branching and merging.
@@ -43,13 +43,13 @@ hash
 
 @ul
 
-- local
+- local:
 
   - Untracked files
   - commit
   - feature branch
 
-- remote
+- remote:
   - upstream
   - remote
   - clone (download)
@@ -199,6 +199,7 @@ git status
 git add some_file
 git commit -m 'minor: lint'
 git push origin meaningful_name
+```
 
 @snap[south text-06 span-100]
 
@@ -223,10 +224,4 @@ git push origin meaningful_name
 1. <https://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html>
 1. <https://docs.gitlab.com/ee/topics/gitlab_flow.html#commit-often-and-push-frequently>
 1. <https://css-irl.info/amending-your-past-commits-with-git/>
----
-
-TODO
-
-git commit burbulai visualizuoti
-git merge visualizavimas - <https://www.youtube.com/watch?v=03wb9FvO4Ak&index=5&list=PLFGfElNsQthbQu_IWlNOxul0TbS_2JH-e> - 31:43 tikrinti visa faila panasu visas workflow easy paaiskintas, det i self training
-```
+1. <https://www.youtube.com/watch?v=03wb9FvO4Ak&index=5&list=PLFGfElNsQthbQu_IWlNOxul0TbS_2JH-e>
