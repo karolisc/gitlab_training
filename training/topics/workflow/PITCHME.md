@@ -13,6 +13,7 @@
 
 - easy way to categorize the issues or MR
 - priority
+- status
 
 ---
 
