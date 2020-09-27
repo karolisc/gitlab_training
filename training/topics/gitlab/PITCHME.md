@@ -223,12 +223,12 @@ avoid task lists
 
 #### Merge requests (MR)
 
-1. want feedback? - create a merge request
-1. assign or mention the person you would like to review
-1. add [Draft] to the title if it’s a work in progress
-1. when accepting, always delete the branch
-1. anyone can comment, not just the assignee
-1. push corrections to the same branch
+1. want feedback? - create a MR
+2. assign or mention reviewer
+3. work in progress? - add [Draft]
+4. when accepting, always delete the branch
+5. anyone can comment
+6. push corrections to the same branch
 
 Note:
 
@@ -286,15 +286,11 @@ Review the changes again and notice the update.
 
 From idea to production using a single platform:
 
-- It's **effective**, because you get your desired results
-- It's **efficient**, because you achieve maximum
-  productivity with minimum effort and expense
-- It's **productive**, because you are able to plan
-  effectively and act efficiently
-- It's **easy**, because you don't need to set up different tools
-  to accomplish what you need with just one, GitLab
-- It's **fast**, because you don't need to jump across
-  multiple platforms to get your job done
+- It's **effective**, get desired results
+- It's **efficient**, minimum effort and expense
+- It's **productive**, effective planning
+- It's **easy**, just one tool needed - GitLab
+- It's **fast**, one platform - no jumping around
 
 @snapend
 
