@@ -97,6 +97,7 @@ reference by - !, #, @
 - math
 - diagrams and flowcharts
 - inline HTML
+- ....
 
 ---?color=#09868B
 
@@ -172,7 +173,7 @@ _You **can** combine them_
 
 @snapend
 
-@snap[east bg-blue text-left fragment text-06]
+@snap[east text-left fragment text-06]
 
 _Italic text_
 
