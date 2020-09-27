@@ -41,7 +41,7 @@ easy way to categorize the issues or MR
 - create boards
 - use tempates (issue, MR)
 - interested in an issue?
-  - add to to-do list
+  - add it to Your to-do list
   - subscribe
 
 Note:
