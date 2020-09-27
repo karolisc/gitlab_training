@@ -31,12 +31,12 @@ generate (convert) - doc, pdf, publishers(books)
 - Infrastructure as Code
 - Documentation + self generated
 - Documents
+- Presentations - @color[green](e.g this one)
 
 @snapend
 
 @snap[east text-08 fragment]
 
-- Presentations - @color[green](e.g this one)
 - Flow diagrams (mermaid)
 - CMS - e.g. grav
 - Master's thesis
