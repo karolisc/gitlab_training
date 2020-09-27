@@ -328,22 +328,45 @@ Format: \!\[Alt text\](url)
 
 @snap[north]
 
-#### lists
+#### lists - unordered
 
 @snapend
 
-@snap[west text-06 text-left]
+@snap[west text-06 text-left span-100]
 
 ```markdown
-Unordered list
+- first
+- second
+  - first in second, yes you can make nested list
+  - second in second
+```
+
+@snapend
+
+@snap[south text-06 text-left span-100]
 
 - first
 - second
   - first in second, yes you can make nested list
   - second in second
 
-Ordered list
+@snapend
 
+---?color=#202020
+
+@snap[north]
+
+#### lists - ordered
+
+@snapend
+
+@snap[west text-06 text-left]
+
+@snapend
+
+@snap[west text-06 text-left span-100]
+
+```markdown
 1. one
 1. two
 1. three
@@ -354,26 +377,7 @@ Ordered list
 
 @snapend
 
----?color=#202020
-
-@snap[north]
-
-#### lists
-
-@snapend
-
-@snap[west text-06 text-left]
-
-Unordered list
-
-- first
-- second
-  - first in second, yes you can make nested list
-  - second in second
-
-<br><br>
-
-Ordered list
+@snap[south text-06 text-left span-100]
 
 1. one
 2. two
