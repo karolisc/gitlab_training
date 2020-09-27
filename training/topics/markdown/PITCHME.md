@@ -17,9 +17,15 @@ Note:
 plain text power  
 generate (convert) - doc, pdf, publishers(books)
 
----
+---?color=#09868B
+
+@snap[north]
 
 #### Real world application examples
+
+@snapend
+
+@snap[midpoint]
 
 - Configs
 - Infrastructure as Code
@@ -30,6 +36,9 @@ generate (convert) - doc, pdf, publishers(books)
 - CMS - e.g. grav
 - Master's thesis
 - Books
+- ...
+
+@snapend
 
 Note:
 
