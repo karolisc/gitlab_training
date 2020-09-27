@@ -443,7 +443,7 @@ limited - simple one row tables
 
 ---
 
-#### references
+#### References
 
 1. <https://github.com/commonmark/commonmark-spec/wiki/markdown-flavors>
 1. <https://docs.gitlab.com/ce/user/markdown.html>
