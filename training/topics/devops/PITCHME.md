@@ -69,7 +69,7 @@ Six W`s method
    - policy
 
 2. breaking silos - (@color[blue](Dev)) vs (@color[orange](Ops))
-3. @size[1.5em](@color[red](cultural, mindset change))
+3. @size[1.5em](@color[red](_cultural, mindset change_))
 4. IT (tools) to the rescue
 
 @olend
