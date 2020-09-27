@@ -429,6 +429,13 @@ limited - simple one row tables
 
 ---?color=#09868B
 
+### Workshop, Hands-on
+
+1. self paced git learning
+   <https://www.markdowntutorial.com/>
+
+---?color=#09868B
+
 #### Resources
 
 1. full MD element reference list
