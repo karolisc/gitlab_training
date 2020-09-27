@@ -308,7 +308,7 @@ with javascript syntax highlighting
 
 #### images
 
-```markdown
+```
 Format: \!\[Alt text\](url)
 
 \!\[Medium Logo\]\(https://cdn-medium.com/1*Q9G3bX9-w.png\)
