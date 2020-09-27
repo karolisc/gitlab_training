@@ -12,7 +12,7 @@
 
 @snapend
 
-@snap[south text-08 text-left span-60 fragment]
+@snap[south text-08 text-left span-60]
 
 \*.md
 
