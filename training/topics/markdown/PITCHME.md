@@ -54,16 +54,18 @@ CMS - Content management system
 
 @snap[north]
 
-#### MD flavors
+#### Markdown flavors
 
 @snapend
 
+```Markdown
 1. Markdown
 2. Markdown 2
 3. GitHub Flavored Markdown
 4. GitLab Flavored Markdown (GFM)
-5. Pandoc
-6. ...
+5. ...
+36. Pandoc
+```
 
 ---?color=#09868B
 
