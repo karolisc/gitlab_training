@@ -225,7 +225,7 @@ Markdown will not rendered character after backslash
 
 @snapend
 
-@snap[west text-05 span-50]
+@snap[west text-04 span-45]
 
 ```
 
@@ -240,7 +240,7 @@ return "x";
 
 @snapend
 
-@snap[east text-05 span-50 fragment]
+@snap[east text-04 span-45 fragment]
 
 ```javascript
 const store = createStore(reducer);
