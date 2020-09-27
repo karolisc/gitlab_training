@@ -247,7 +247,7 @@ function redu(state = [], on) {
 
 @snapend
 
-@snap[south-west span-50]
+@snap[south-west span-50 fragment]
 
 ```
 
