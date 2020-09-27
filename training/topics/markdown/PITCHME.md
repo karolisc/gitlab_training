@@ -251,6 +251,26 @@ function redu(state = [], on) {
 
 @snapend
 
+@snap[north-west span-50]
+
+```
+
+laikas bega + reikia padirbėti
+kitas ka
+
+```
+
+@snapend
+
+@snap[north-east span-50 fragment]
+
+```markdown
+laikas bega + reikia padirbėti
+kitas ka
+```
+
+@snapend
+
 Note:
 
 Code above will be converted into code block
