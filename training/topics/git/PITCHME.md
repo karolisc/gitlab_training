@@ -20,11 +20,15 @@ by Linus Torvalds
 
 ---
 
+@snap[north]
+
 #### Concepts
+
+@snapend
 
 @snap[west]
 
-![](assets/img/index1@2x.png)
+![](assets/img/index1@2x.png&size=contain)
 
 @snapend
 
