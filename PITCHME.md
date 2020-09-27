@@ -2,7 +2,7 @@
 
 ##### ~~Gitlab~~
 
-#### training cource
+#### training coure
 
 @ul
 
