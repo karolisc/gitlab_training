@@ -175,10 +175,8 @@ _You **can** combine them_
 
 @snap[east text-left text-white fragment text-06]
 
-_Italic text_
-
-**Bold text**
-
+_Italic text_  
+**Bold text**  
 _You **can** combine them_
 
 @snapend
