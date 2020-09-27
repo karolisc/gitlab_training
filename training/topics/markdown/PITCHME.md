@@ -224,14 +224,12 @@ Markdown will not rendered character after backslash
 @snap[west span-50]
 
 ```
-
 \`\`\`
 const store = crStore(redu);
 function redu(state = [], on) {
 return "x";
 }
 \`\`\`
-
 ```
 
 @snapend
@@ -248,9 +246,9 @@ function redu(state = [], on) {
 @snapend
 
 @snap[south-west span-50 fragment]
+<br><br>
 
 ```
-
 \`\`\`
 For lazy ones, who are not
 following markdown syntax rules
@@ -258,7 +256,6 @@ Sutable for:
 1. contact info input
 1. email citation
 \`\`\`
-
 ```
 
 @snapend
