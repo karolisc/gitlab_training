@@ -82,6 +82,8 @@ do search, diff on paper
 
 ---
 
+#### idea to production
+
 ![](assets/img/idea-to-production-10-steps.png)
 
 1. Chat conversation
@@ -100,6 +102,8 @@ Note:
 10 steps from idea to production
 
 ---
+
+#### idea to production
 
 ![](assets/img/idea-to-production-10-steps-idea.png)
 
@@ -120,6 +124,8 @@ Every new proposal starts with an idea, which usually come up in a chat
 e.g mattermost
 
 ---
+
+#### idea to production
 
 ![](assets/img/idea-to-production-10-steps-issue.png)
 
@@ -142,6 +148,8 @@ in the issue tracker.
 
 ---
 
+#### idea to production
+
 ![](assets/img/idea-to-production-10-steps-plan.png)
 
 1. Chat conversation
@@ -163,6 +171,8 @@ For this, we can use the Issue Board.
 
 ---
 
+#### idea to production
+
 ![](assets/img/idea-to-production-10-steps-code.png)
 
 1. Chat conversation
@@ -181,6 +191,8 @@ Note:
 Now we're ready to write our code, once we have everything organized.
 
 ---
+
+#### idea to production
 
 ![](assets/img/idea-to-production-10-steps-commit.png)
 
@@ -202,6 +214,8 @@ a feature-branch with version control.
 
 ---
 
+#### idea to production
+
 ![](assets/img/idea-to-production-10-steps-test.png)
 
 1. Chat conversation
@@ -220,6 +234,8 @@ Note:
 With GitLab CI, we can run our scripts to build and test our application.
 
 ---
+
+#### idea to production
 
 ![](assets/img/idea-to-production-10-steps-review.png)
 
@@ -241,6 +257,8 @@ we are ready to get our code reviewed and approved.
 
 ---
 
+#### idea to production
+
 ![](assets/img/idea-to-production-10-steps-staging.png)
 
 1. Chat conversation
@@ -261,6 +279,8 @@ if everything worked as we were expecting or if we still need adjustments.
 
 ---
 
+#### idea to production
+
 ![](assets/img/idea-to-production-10-steps-production.png)
 
 1. Chat conversation
@@ -280,6 +300,8 @@ When we have everything working as it should,
 it's time to deploy to our production environment!
 
 ---
+
+#### idea to production
 
 ![](assets/img/idea-to-production-10-steps-feedback.png)
 
