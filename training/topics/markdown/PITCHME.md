@@ -431,8 +431,7 @@ limited - simple one row tables
 
 ### Workshop, Hands-on
 
-1. self paced git learning
-   <https://www.markdowntutorial.com/>
+<https://www.markdowntutorial.com/>
 
 ---?color=#09868B
 
