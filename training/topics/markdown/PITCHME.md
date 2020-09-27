@@ -362,7 +362,7 @@ Ordered list
 
 @snapend
 
-@snap[west text-05 text-left]
+@snap[west text-06 text-left]
 
 Unordered list
 
