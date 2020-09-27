@@ -16,6 +16,12 @@ operations (@color[orange](Ops)) teams to accelerate delivery through:
 
 @snapend
 
+---
+
+#### @color[blue](Dev)@color[orange](Ops) lifecycle
+
+![](assets/img/devops-loop-and-spans-small.png)
+
 Note:
 
 separate dev or ops part = agile
@@ -25,12 +31,6 @@ Devops building on top of Agile, lean practices, and systems theory
 <https://about.gitlab.com/topics/devops/>
 
 prince2 on steroids - paper vs automation
-
----
-
-#### @color[blue](Dev)@color[orange](Ops) lifecycle
-
-![](assets/img/devops-loop-and-spans-small.png)
 
 ---
 
@@ -63,15 +63,16 @@ Six W`s method
 
 1. blend in all P's
 
-   - planning,
-   - people,
-   - process,
+   - planning
+   - people
+   - process
    - policy
 
 2. breaking silos - (@color[blue](Dev)) vs (@color[orange](Ops))
-3. cultural, mindset change - @color[red](crucial)
+3. @size[1.5em](@color[red](cultural, mindset change))
 4. IT (tools) to the rescue
-   @olend
+
+@olend
 
 Note:
 
