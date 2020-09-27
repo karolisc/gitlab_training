@@ -31,7 +31,8 @@ by Linus Torvalds
 ![](assets/img/git_commits.png)
 
 @snap[south span-80 text-08 text-left]
-
+<br><br>
+<br><br>
 HEAD  
 hash
 
