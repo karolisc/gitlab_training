@@ -241,7 +241,7 @@ with javascript syntax highlighting
 
 @snapend
 
-@snap[west]
+@snap[west span-50]
 
 ```markdown
 #### This is header 4
@@ -253,11 +253,11 @@ with javascript syntax highlighting
 
 @snapend
 
-@snap[east fragment]
+@snap[east span-50 fragment]
 
-@box[bg-blue text-orange span-50 ](#### This is header 4)
-@box[bg-blue text-orange span-50 ](##### This is header 5)
-@box[bg-blue text-orange span-50 ](###### This is header 6)
+@box[bg-blue text-orange ](#### This is header 4)
+@box[bg-blue text-orange ](##### This is header 5)
+@box[bg-blue text-orange ](###### This is header 6)
 
 @snapend
 
