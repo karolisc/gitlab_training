@@ -142,7 +142,7 @@ cd ~/git_projects
 git init
 ```
 
-@snap[south span-100]
+@snap[south text-06 span-100]
 
 @[1-2](create directory)
 @[3](initialize git repository)
@@ -159,38 +159,45 @@ ads winexplorer picture :)
 #### Committing
 
 ```bash
-# Edit `some_file`                               # Edit file
-git status                                       # See changed files
-git diff                                         # View the differences
-git add <file>                                   # Stage the file
-git commit -m 'Short & clear commit message'     # Commit
-git push origin master                           # Push the commit to the remote
-git log                                          # View the Git log
+# Edit `some_file`
+git status
+git diff
+git add <file>
+git commit -m 'Short & clear commit message'
+git push origin master
+git log
 ```
 
-@[1]
-@[2-3]
-@[4]
-@[5]
-@[6]
-@[7]
+@snap[south text-06 span-100]
+
+@[1](Edit file)
+@[2-3](See changed files, view the differences)
+@[4](Stage the file)
+@[5](Commit)
+@[6](Push the commit to the remote)
+@[7](View the Git log)
+
+@snapend
 
 ---
 
 #### Feature branching
 
 ```bash
-git checkout -b meaningful_name                 # Create a new feature branch called "meaningful_name"
-# Edit `some_file`                              # Edit file
-git status                                      # See changed files
-git add some_file                               # Stage the file
-git commit -m 'minor: lint'                     # Commit.
-git push origin meaningful_name                 # Push.
-```
+git checkout -b meaningful_name
+# Edit `some_file`
+git status
+git add some_file
+git commit -m 'minor: lint'
+git push origin meaningful_name
 
-@[1]
-@[2-4]
-@[5-6]
+@snap[south text-06 span-100]
+
+@[1](Create a new feature branch called "meaningful_name")
+@[2-4](Edit file, See changed files, Stage the file)
+@[5-6](Commit, push)
+
+@snapend
 
 ---
 
@@ -213,3 +220,4 @@ TODO
 
 git commit burbulai visualizuoti
 git merge visualizavimas - <https://www.youtube.com/watch?v=03wb9FvO4Ak&index=5&list=PLFGfElNsQthbQu_IWlNOxul0TbS_2JH-e> - 31:43 tikrinti visa faila panasu visas workflow easy paaiskintas, det i self training
+```
