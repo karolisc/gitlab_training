@@ -225,13 +225,13 @@ Markdown will not rendered character after backslash
 
 @snapend
 
-@snap[west text-04 span-45]
+@snap[west span-50]
 
 ```
 
 \`\`\`
-const store = crStore(reducer);
-function reducer(state = [], on) {
+const store = crStore(redu);
+function redu(state = [], on) {
 return "x";
 }
 \`\`\`
@@ -240,11 +240,11 @@ return "x";
 
 @snapend
 
-@snap[east text-04 span-45 fragment]
+@snap[east span-50 fragment]
 
 ```javascript
-const store = crStore(reducer);
-function reducer(state = [], on) {
+const store = crStore(redu);
+function redu(state = [], on) {
   return "x";
 }
 ```
