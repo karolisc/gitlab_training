@@ -1,6 +1,7 @@
 # look & feel
 #theme: night
-theme: moon
+#theme: moon
+theme: template
 #logo: assets/img/devops-loop-and-spans-small.png
 background-color: gray
 theme-override: css/PITCHME.css

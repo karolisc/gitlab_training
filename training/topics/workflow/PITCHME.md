@@ -2,7 +2,6 @@
 ### Workflow
 
 1. Create an Issue
-
 - allways start from an Isssue
 - one-to-one link to issues
 - one owner and only one per issue
