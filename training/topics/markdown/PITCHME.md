@@ -65,8 +65,6 @@ CMS - Content management system
 5. Pandoc
 6. ...
 
-36 Pandoc
-
 ---?color=#09868B
 
 @snap[north]
