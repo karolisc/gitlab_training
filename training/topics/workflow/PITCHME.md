@@ -1,15 +1,31 @@
 ---
 ### Workflow
+---
 
-- Create an Issue
-  - allways start from an Isssue
-  - one-to-one link to issues
-  - one owner and only one per issue
-  - group issues together - Milestones
+#### Create an Issue
 
-1. add labels
+- always start from an Issue
+- one-to-one link to issues
+- one owner and only one per issue
+
+#### add labels
 
 - easy way to categorize the issues or merge requests
+- priority
+
+---
+
+#### organize Our work
+
+- add Due-dates
+- add estimate time
+- group issues together - Milestones
+- create boards
+
+Note:
+
+avoid task lists
+
 ---
 
 #### Merge requests (MR)
@@ -57,6 +73,8 @@ Review the changes again and notice the update.
 #### work review
 
 <https://github.com/thoughtbot/guides/tree/master/code-review>
+
+approve
 
 ---
 
