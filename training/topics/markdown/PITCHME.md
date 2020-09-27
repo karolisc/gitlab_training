@@ -292,7 +292,7 @@ with javascript syntax highlighting
 
 @snapend
 
-@snap[midpoint span-80]
+@snap[midpoint text-center span-60]
 
 ```markdown
 #### This is header 4
