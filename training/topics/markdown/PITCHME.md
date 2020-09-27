@@ -412,6 +412,17 @@ Format: \!\[Alt text\](url)
 
 @snapend
 
+@snap[south]
+
+|       | text alignment |
+| ----- | :------------- |
+| ---   | default - left |
+| :---  | left           |
+| :---: | center         |
+| ---:  | right          |
+
+@snapend
+
 Note:
 
 limited - simple one row tables
