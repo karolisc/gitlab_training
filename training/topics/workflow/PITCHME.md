@@ -7,6 +7,17 @@
 - always start from an Issue
 - one-to-one link to issues
 
+Note:
+
+It's most useful for:
+
+Discussing ideas  
+Submitting feature proposals  
+Asking questions  
+Reporting bugs and malfunction  
+Obtaining support  
+Elaborating new code implementations
+
 ---
 
 #### add labels
@@ -19,12 +30,15 @@
 
 #### organize Our work
 
-- one owner and only one per issue
+- assignee - one owner and only one per issue
+- interested in an issue?
+  - add to to-do list
+  - subscribe
 - add Due-date
 - add estimate time
 - group issues together - Milestones
 - create boards
-- use tempates
+- use tempates (issue, MR)
 
 Note:
 
@@ -78,9 +92,28 @@ Review the changes again and notice the update.
 
 #### work review
 
+- view diff (text, img)
+- add comments
+
 <https://github.com/thoughtbot/guides/tree/master/code-review>
 
 approve
+
+---
+
+#### Conclusions
+
+GitLab helps to get from idea to production using a single platform:
+
+- It's **effective**, because you get your desired results.
+- It's **efficient**, because you achieve maximum
+  productivity with minimum effort and expense.
+- It's **productive**, because you are able to plan
+  effectively and act efficiently.
+- It's **easy**, because you don't need to set up different tools
+  to accomplish what you need with just one, GitLab.
+- It's **fast**, because you don't need to jump across
+  multiple platforms to get your job done.
 
 ---
 
