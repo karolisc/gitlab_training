@@ -230,8 +230,8 @@ Markdown will not rendered character after backslash
 ```
 
 \`\`\`
-const store = createStore(reducer);
-function reducer(state = [], action) {
+const store = crStore(reducer);
+function reducer(state = [], on) {
 return "x";
 }
 \`\`\`
@@ -243,8 +243,8 @@ return "x";
 @snap[east text-04 span-45 fragment]
 
 ```javascript
-const store = createStore(reducer);
-function reducer(state = [], action) {
+const store = crStore(reducer);
+function reducer(state = [], on) {
   return "x";
 }
 ```
