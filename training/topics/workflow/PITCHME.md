@@ -94,10 +94,9 @@ Review the changes again and notice the update.
 
 - view diff (text, img)
 - add comments
+- approve
 
 <https://github.com/thoughtbot/guides/tree/master/code-review>
-
-approve
 
 ---
 
