@@ -220,6 +220,12 @@ git push origin meaningful_name
 
 ---
 
+#### Quiz
+
+<https://kahoot.it/>
+
+---
+
 ## @color[blue](Q) / @color[green](A) ?
 
 ---
