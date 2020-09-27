@@ -163,12 +163,6 @@ Gitlab vs others
 
 ---
 
-### setup
-
-Subscribe to projects, issues, MR
-
----
-
 ### Gitlab Workflow
 
 ---

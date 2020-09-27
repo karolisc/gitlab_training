@@ -11,7 +11,7 @@
 - [git](?p=training/topics/git)
 - [vscode](?p=training/topics/vscode)
 - [gitlab](?p=training/topics/gitlab)
-- [workflow](?p=training/topics/workflow)
+- [hands-on gitlab](?p=training/topics/gitlab-hands-on)
 
 @ulend
 
