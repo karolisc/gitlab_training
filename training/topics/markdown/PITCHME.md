@@ -306,13 +306,9 @@ with javascript syntax highlighting
 
 ---?color=#09868B
 
-@snap[north]
+@snap[north text-center span-80]
 
 #### images
-
-@snapend
-
-@snap[midpoint text-center span-80]
 
 ```
 Format: \!\[Alt text\](url)
