@@ -28,7 +28,7 @@ by Linus Torvalds
 
 @snap[west]
 
-![](assets/img/index1@2x.png&size=contain)
+![width=400](assets/img/index1@2x.png)
 
 @snapend
 
@@ -46,20 +46,19 @@ by Linus Torvalds
 
 @ul
 
-local
+- local
 
-- Untracked files
-- commit
-- feature branch
+  - Untracked files
+  - commit
+  - feature branch
 
-remote
-
-- upstream
 - remote
-- clone (download)
-- fork (copy)
-- fetch vs pull
-- push
+  - upstream
+  - remote
+  - clone (download)
+  - fork (copy)
+  - fetch vs pull
+  - push
 
 @ulend
 
