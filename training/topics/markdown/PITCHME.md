@@ -256,8 +256,8 @@ function redu(state = [], on) {
 ```
 
 \`\`\`
-For lazy ones, who are not following
-makrdown syntax rules
+For lazy ones, who are not
+following markdown syntax rules
 Sutable for:
 1. contact info input
 1. email citation
@@ -270,8 +270,8 @@ Sutable for:
 @snap[south-east span-50 fragment]
 
 ```
-For lazy ones, who are not following
-makrdown syntax rules
+For lazy ones, who are not
+following markdown syntax rules
 Sutable for:
 1. contact info input
 2. email citation
