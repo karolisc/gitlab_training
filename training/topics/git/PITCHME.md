@@ -20,8 +20,6 @@ by Linus Torvalds
 
 ---
 
-@snap[north]
-
 #### Concepts
 
 ![](assets/img/index1@2x.png)
