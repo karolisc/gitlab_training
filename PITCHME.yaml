@@ -1,1 +1,2 @@
-theme-override : css/PITCHME.css
+theme-override: css/PITCHME.css
+background: assets/img/devops-loop-and-spans-small.png
