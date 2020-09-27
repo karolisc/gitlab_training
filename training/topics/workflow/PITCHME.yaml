@@ -1,6 +1,7 @@
 # look & feel
 #theme: night
 #logo: assets/img/devops-loop-and-spans-small.png
+background-color: black
 theme-override: css/PITCHME.css
 #background: assets/img/devops-loop-and-spans-small.png
-background-color: black
+
