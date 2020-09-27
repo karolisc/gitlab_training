@@ -167,8 +167,6 @@ it automatically turns into link
 
 @snapend
 
-@snap[west]
-
 ```markdown
 _Italic text_
 
@@ -176,18 +174,6 @@ _Italic text_
 
 _You **can** combine them_
 ```
-
-@snapend
-
-@snap[east bg-blue text-left text-white fragment text-06]
-
-_Italic text_
-
-**Bold text**
-
-_You **can** combine them_
-
-@snapend
 
 ---?color=#09868B
 
