@@ -30,9 +30,10 @@ by Linus Torvalds
 
 ![](assets/img/git_commits.png)
 
-@snap[south snap-80]
+@snap[south snap-80 text-08 text-left]
 
-HEAD
+HEAD  
+hash
 
 @snapend
 
