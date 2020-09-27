@@ -191,7 +191,7 @@ _You **can** combine them_
 
 ```markdown
 Markdown will not rendered the character after backslash
-\*Just asterisks, not italic\* => _Just asterisks, not italic_
+\*asterisks, not italic\* => _asterisks, not italic_
 ```
 
 @snapend
