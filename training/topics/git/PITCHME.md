@@ -47,7 +47,7 @@ hash
 
 @snap[west fragment]
 
-- local:
+- local
   - Untracked files
   - commit
   - feature branch
@@ -56,12 +56,12 @@ hash
 
 @snap[east fragment]
 
-- remote:
+- remote
   - upstream
   - remote
   - clone (download)
   - fork (copy)
-  - fetch vs pull
+  - fetch vs pull (sync)
   - push
 
 @snapend
@@ -104,7 +104,7 @@ Use merge requests to merge to master
 - should reflect your intention
 - commit message should explain why
 - short
-- start with verb
+- start with verb (minor, lint, fix, initial)
 - present time
 - english? vs nationalization
 
@@ -139,18 +139,20 @@ TODO parusoti uzduotis
 
 ---
 
-#### Configure Git
-
-TODO perkelti i gitlab presentacija?
+#### First-Time Git Setup
 
 ```bash
 git config --global user.name "Your Name"
 git config --global user.email you@example.com
 ```
 
+Note:
+
+TODO perkelti i gitlab presentacija?
+
 ---
 
-#### Create/Initialize project
+#### Create/Initialize repository
 
 ```bash
 mkdir ~/git_projects
@@ -189,7 +191,7 @@ git log
 @[1](Edit file)
 @[2-3](See changed files, view the differences)
 @[4](Stage the file)
-@[5](Commit)
+@[5](Confirm your changes)
 @[6](Push the commit to the remote)
 @[7](View the Git log)
 
