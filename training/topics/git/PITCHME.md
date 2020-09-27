@@ -30,6 +30,12 @@ by Linus Torvalds
 
 ![](assets/img/git_commits.png)
 
+@snap[south snap-80]
+
+HEAD
+
+@snapend
+
 ---
 
 #### Terminology
