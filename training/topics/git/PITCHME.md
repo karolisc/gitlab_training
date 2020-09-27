@@ -48,7 +48,6 @@ hash
 @snap[west fragment]
 
 - local:
-
   - Untracked files
   - commit
   - feature branch
