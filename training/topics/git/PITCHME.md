@@ -135,6 +135,8 @@ do it for others
 
 ### Hands-on
 
+#### 20 min
+
 ---
 
 #### First-Time Git Setup
