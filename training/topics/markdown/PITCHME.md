@@ -304,7 +304,7 @@ with javascript syntax highlighting
 
 ---?color=#09868B
 
-@snap[north]
+@snap[north test-center span-100]
 
 #### images
 
