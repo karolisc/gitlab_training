@@ -1,3 +1,4 @@
+---
 ### Workflow
 
 1. Create an Issue
@@ -10,7 +11,6 @@
 1. add labels
 
 - easy way to categorize the issues or merge requests
-
 ---
 
 #### Merge requests (MR)
@@ -69,6 +69,6 @@ Milestones and Labels
 Manage project members
 Project settings
 
----?color=#09868B
+---
 
 ## @color[blue](Q) / @color[green](A) ?
