@@ -311,7 +311,7 @@ with javascript syntax highlighting
 ```
 Format: \!\[Alt text\](url)
 
-\!\[Logo\]\(https://cdn-medium.com/1*Q9G3bX9-w.png\)
+\!\[Logo\](https://cdn-medium.com/1*Q9G3bX9-w.png)
 ```
 
 @snapend
