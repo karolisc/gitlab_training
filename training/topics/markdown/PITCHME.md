@@ -246,7 +246,7 @@ function redu(state = [], on) {
 @snapend
 
 @snap[south-west span-50 fragment]
-<br><br><br>
+<br><br><br><br>
 
 ```
 \`\`\`
