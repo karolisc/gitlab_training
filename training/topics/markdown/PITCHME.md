@@ -255,8 +255,10 @@ function redu(state = [], on) {
 
 ```
 
+\`\`\`
 laikas bega + reikia padirbėti
 kitas ka
+\`\`\`
 
 ```
 
