@@ -302,6 +302,8 @@ with javascript syntax highlighting
 ###### This is header 6
 ```
 
+@snapend
+
 ---?color=#09868B
 
 @snap[north]
