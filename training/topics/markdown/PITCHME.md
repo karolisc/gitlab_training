@@ -190,7 +190,7 @@ _You **can** combine them_
 #### backslash escapes
 
 ```markdown
-Markdown will not rendered the character after backslash
+Markdown will not rendered character after backslash
 \*asterisks, not italic\* => _asterisks, not italic_
 ```
 
