@@ -1,4 +1,4 @@
----?color=#09868B
+---
 
 @snap[north]
 
@@ -23,7 +23,7 @@ Note:
 plain text power  
 generate (convert) - doc, pdf, publishers(books)
 
----?color=#09868B
+---
 
 @snap[north]
 
@@ -56,7 +56,7 @@ Note:
 Master's thesis - Dissertation  
 CMS - Content management system
 
----?color=#09868B
+---
 
 @snap[north]
 
@@ -71,7 +71,7 @@ CMS - Content management system
 5. Pandoc
 6. ...
 
----?color=#09868B
+---
 
 @snap[north]
 
@@ -91,7 +91,7 @@ Note:
 
 reference by - !, #, @
 
----?color=#09868B
+---
 
 @snap[north]
 
@@ -105,11 +105,11 @@ reference by - !, #, @
 - inline HTML
 - ....
 
----?color=#09868B
+---
 
 #### @color[orange](MD element) examples
 
----?color=#09868B
+---
 
 @snap[north]
 
@@ -133,7 +133,7 @@ reference by - !, #, @
 
 @snapend
 
----?color=#09868B
+---
 
 @snap[north]
 
@@ -159,7 +159,7 @@ it automatically turns into link
 
 @snapend
 
----?color=#09868B
+---
 
 @snap[north]
 
@@ -179,7 +179,7 @@ _You **can** combine them_
 
 @snapend
 
----?color=#09868B
+---
 
 @snap[north]
 
@@ -213,7 +213,7 @@ Markdown will not rendered character after backslash
 
 @snapend
 
----?color=#09868B
+---
 
 @snap[north]
 
@@ -280,7 +280,7 @@ Note:
 Code above will be converted into code block
 with javascript syntax highlighting
 
----?color=#09868B
+---
 
 @snap[north]
 
@@ -300,7 +300,7 @@ with javascript syntax highlighting
 
 @snapend
 
----?color=#09868B
+---
 
 @snap[north text-center span-80]
 
@@ -320,7 +320,7 @@ Format: \!\[Alt text\](url)
 
 @snapend
 
----?color=#09868B
+---
 
 @snap[north]
 
@@ -380,7 +380,7 @@ Format: \!\[Alt text\](url)
 
 @snapend
 
----?color=#09868B
+---
 
 @snap[north]
 
@@ -423,13 +423,13 @@ Note:
 
 limited - simple one row tables
 
----?color=#09868B
+---
 
 ### Hands-on
 
 <https://www.markdowntutorial.com/>
 
----?color=#09868B
+---
 
 #### Resources
 
@@ -442,11 +442,11 @@ limited - simple one row tables
 1. <https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet>
 1. <https://docs.gitlab.com/ce/user/markdown.html>
 
----?color=#09868B
+---
 
 ## @color[blue](Q) / @color[green](A) ?
 
----?color=#09868B
+---
 
 #### references
 
