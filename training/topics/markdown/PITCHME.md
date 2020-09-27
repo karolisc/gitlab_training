@@ -12,6 +12,12 @@
 
 @snapend
 
+@snap[south-west text-08 fragment]
+
+.md
+
+@snapend
+
 Note:
 
 plain text power  
@@ -54,7 +60,7 @@ CMS - Content management system
 
 @snap[north]
 
-#### Markdown flavors (36)
+#### MD flavors (36)
 
 @snapend
 
@@ -412,7 +418,7 @@ Format: \!\[Alt text\](url)
 
 @snapend
 
-@snap[south-west fragment text-06]
+@snap[south fragment text-06]
 
 |       | text alignment |
 | ----- | :------------- |
