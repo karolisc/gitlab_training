@@ -332,7 +332,7 @@ Format: \!\[Alt text\](url)
 
 @snapend
 
-@snap[west text-06 text-left span-100]
+@snap[west text-06 text-left span-80]
 
 ```markdown
 - first
@@ -343,7 +343,7 @@ Format: \!\[Alt text\](url)
 
 @snapend
 
-@snap[south text-06 text-left span-100 fragment]
+@snap[south text-06 text-left span-80 fragment]
 
 - first
 - second
@@ -364,7 +364,7 @@ Format: \!\[Alt text\](url)
 
 @snapend
 
-@snap[west text-06 text-left span-100]
+@snap[west text-06 text-left span-80]
 
 ```markdown
 1. one
@@ -377,7 +377,7 @@ Format: \!\[Alt text\](url)
 
 @snapend
 
-@snap[south text-06 text-left span-100 fragment]
+@snap[south text-06 text-left span-80 fragment]
 
 1. one
 2. two
