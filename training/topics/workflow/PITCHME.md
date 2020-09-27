@@ -2,7 +2,7 @@
 ### Workflow
 ---
 
-#### Create an Issue
+#### create an Issue
 
 - always start from an Issue
 - one-to-one link to issues
@@ -12,14 +12,14 @@
 
 #### add labels
 
-- easy way to categorize the issues or merge requests
+- easy way to categorize the issues or MR
 - priority
 
 ---
 
 #### organize Our work
 
-- add Due-dates
+- add Due-date
 - add estimate time
 - group issues together - Milestones
 - create boards
@@ -32,13 +32,15 @@ avoid task lists
 
 #### Merge requests (MR)
 
-When you want feedback create a merge request.  
-Target is the ‘default’ branch (usually master).  
-Assign or mention the person you would like to review.  
-Add [Draft] to the title if it’s a work in progress.  
-When accepting, always delete the branch.  
-Anyone can comment, not just the assignee.  
-Push corrections to the same branch.
+1. When you want feedback create a merge request.  
+   Target is the ‘master’ branch.
+1. Assign or mention the person you would like to review.
+1. Add [Draft] to the title if it’s a work in progress.
+1. When accepting, always delete the branch.
+1. Anyone can comment, not just the assignee.
+1. Push corrections to the same branch.
+
+Note:
 
 Merge requests steps  
 Create your first merge request:
