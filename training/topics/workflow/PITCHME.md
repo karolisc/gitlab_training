@@ -8,6 +8,8 @@
 - one-to-one link to issues
 - one owner and only one per issue
 
+---
+
 #### add labels
 
 - easy way to categorize the issues or merge requests
