@@ -311,7 +311,7 @@ with javascript syntax highlighting
 ```markdown
 Format: \!\[Alt text\](url)
 
-\!\[Medium Logo\](https://cdn-medium.com/max/400/1*Q9G3pLrxbX9-w.png)
+\!\[Medium Logo\](https://cdn-medium.com/max/1*Q9G3pLrxbX9-w.png)
 ```
 
 @snapend
