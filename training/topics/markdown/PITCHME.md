@@ -310,7 +310,7 @@ with javascript syntax highlighting
 
 #### images
 
-@spanend
+@snapend
 
 @snap[midpoint text-center span-80]
 
