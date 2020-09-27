@@ -1,4 +1,4 @@
-### Why gitlab, features, compare
+### What is gitlab
 
 - framework
 - collaboration
@@ -12,6 +12,22 @@ pencil and blank canvas
 
 ---
 
+#### @color[blue](Dev)@color[orange](Ops) lifecycle
+
+![](assets/img/devops-loop-and-spans-small.png)
+
+Note:
+
+separate dev or ops part = agile
+
+Devops building on top of Agile, lean practices, and systems theory
+
+<https://about.gitlab.com/topics/devops/>
+
+prince2 on steroids - paper vs automation
+
+---
+
 ### Feature coverage
 
 Gitlab vs others
@@ -22,7 +38,7 @@ Gitlab vs others
 
 ### @color[green](Key) features - Manage
 
-- Granular user roles and flexible permissions
+- granular user roles and flexible permissions
 - multiple 3rd party integrations
 - branch, tag protection
 - Value Stream Analytics
@@ -40,7 +56,7 @@ Gitlab vs others
 - GFM
 - labels
 - label prioritization
-- Boards (project, group)
+- boards (project, group)
 - milestones
 - assignee
 - todos
@@ -69,7 +85,7 @@ Gitlab vs others
 - file search
 - squash and merge
 - Merge requests
-- Merge conflict resolution
+- merge conflict resolution
 - branching
 - MR request reviews
 - MR approvals
@@ -79,11 +95,11 @@ Gitlab vs others
 
 ### Features - Create
 
-- Merge when pipeline succeeds
+- merge when pipeline succeeds
 - GPG Signed Commits
 - S/MIME Signed Commits
-- User activity stream
-- Custom Git Hooks
+- user activity stream
+- custom Git Hooks
 - Git LFS 2.0
 - Git v2
 - web IDE
@@ -95,8 +111,8 @@ Gitlab vs others
 
 - Built-in CI/CD
 - git hooks - policy enforcer
-- Directed acylic graph mode for pipelines
-- Matrix builds
+- directed acylic graph mode for pipelines
+- matrix builds
 
 ---
 

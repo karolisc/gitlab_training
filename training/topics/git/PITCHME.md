@@ -131,11 +131,7 @@ self paced git learning
 
 ---
 
-### Workshop, Hands-on
-
-Note:
-
-TODO parusoti uzduotis
+### Hands-on
 
 ---
 
