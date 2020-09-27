@@ -173,10 +173,12 @@ _You **can** combine them_
 
 @snapend
 
-@snap[east text-left text-white fragment text-06]
+@snap[east bg-grey text-left text-white fragment text-06]
 
-_Italic text_  
-**Bold text**  
+_Italic text_
+
+**Bold text**
+
 _You **can** combine them_
 
 @snapend
