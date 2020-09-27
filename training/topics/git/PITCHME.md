@@ -1,13 +1,3 @@
-#### Git agenda
-
-- introduction
-- terminology
-- github flow
-- commit message
-- resources
-- hands on
-- Q/A
-
 ---
 
 #### Git introduction
