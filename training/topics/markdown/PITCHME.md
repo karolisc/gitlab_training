@@ -25,7 +25,7 @@ generate (convert) - doc, pdf, publishers(books)
 
 @snapend
 
-<br>
+<br><br>
 
 @snap[midpoint text-08 fragment]
 
