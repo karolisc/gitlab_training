@@ -412,7 +412,7 @@ Format: \!\[Alt text\](url)
 
 @snapend
 
-@snap[south]
+@snap[south fragment text-06]
 
 |       | text alignment |
 | ----- | :------------- |
