@@ -142,8 +142,8 @@ cd ~/git_projects
 git init
 ```
 
-@[1-2]
-@[3]
+@[1-2](create directory)
+@[3](initialize git repository)
 
 Note:
 
