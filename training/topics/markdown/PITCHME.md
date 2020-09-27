@@ -424,6 +424,8 @@ limited - simple one row tables
 
 ### Hands-on
 
+#### 15 min
+
 <https://www.markdowntutorial.com/>
 
 ---
