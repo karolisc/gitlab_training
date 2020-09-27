@@ -248,7 +248,7 @@ with javascript syntax highlighting
 
 ##### This is header 5
 
-###### This is header 6, in HTML<h6>
+###### This is header 6 (HTML <h6>)
 ```
 
 @snapend
