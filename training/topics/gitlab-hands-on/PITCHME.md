@@ -1,13 +1,75 @@
 ---
-### Hands-on Gitlab
+#### Gitlab in action (workflow)
 ---
 
 ### setup
 
-TODO iskelti i hands on
-
 Subscribe to projects, issues, MR
+
+Create token
+
+---
+
+#### create an Issue
+
+![](assets/img/new_issue_from_open_issue.png)
+
+#### add labels
+
+- priority
+- status
+- category
+
+#### organize Our work
+
+![](assets/img/issues_main_view.png)
+
+![](assets/img/project_issues_list_view.png)
+
+![](assets/img/issue_board.png)
+
+- assignee - one owner and only one per issue
+- add Due-date
+- add estimate time
+- group issues together - Milestones
+-
+- create boards
+- use tempates (issue, MR)
+- interested in an issue?
+  - add it to Your to-do list
+  - subscribe
+
+#### Merge requests (MR)
+
+1. create a MR
+2. assign or mention reviewer
+3. work in progress? - add [Draft]
+4. when accepting, always delete the branch
+5. anyone can comment
+6. push corrections to the same branch
+
+#### Merge conflicts
+
+#### Feedback and Collaboration
+
+#### work review
+
+- view diff (text, img)
+- add comments
+- approve
+
+---
+
+### Hands-on Gitlab
+
+#### 20 min
 
 ---
 
 ## @color[blue](Q) / @color[green](A) ?
+
+---
+
+#### References
+
+1. https://docs.gitlab.com/ee/user/project/issues/managing_issues.html#create-a-new-issue

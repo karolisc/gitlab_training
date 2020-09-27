@@ -12,7 +12,7 @@ adapting transparent flow
 
 #### setup
 
-extension gitlab
+extension gitlab - token
 
 ---?color=#09868B
 
