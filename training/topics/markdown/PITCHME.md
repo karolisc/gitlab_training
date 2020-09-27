@@ -248,18 +248,16 @@ with javascript syntax highlighting
 
 ##### This is header 5
 
-###### This is header 6 (HTML <h6>)
+###### This is header 6(HTML <h6>)
 ```
 
 @snapend
 
 @snap[east fragment]
 
-@box[text-orange span-50 ](#### This is header 4)
-
-@box[text-orange span-50 ](##### This is header 5)
-
-@box[text-orange span-50 ](###### This is header 6)
+@box[bg-blue text-orange span-50 ](#### This is header 4)
+@box[bg-blue text-orange span-50 ](##### This is header 5)
+@box[bg-blue text-orange span-50 ](###### This is header 6)
 
 @snapend
 
