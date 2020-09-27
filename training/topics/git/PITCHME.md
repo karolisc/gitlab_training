@@ -5,10 +5,10 @@
 @ul
 
 - Distributed version control:
-  - No central server.
-  - Free of charge backups.
-- Powerful branching and merging.
-- Adapts to ANY workflow.
+  - No central server
+  - Free of charge backups
+- Powerful branching and merging
+- Adapts to ANY workflow
 - Fast, reliable and stable file format
 - free & opensource
 
@@ -41,13 +41,17 @@ hash
 
 #### Terminology
 
-@ul
+@snap[west fragment]
 
 - local:
 
   - Untracked files
   - commit
   - feature branch
+
+@snapend
+
+@snap[east fragment]
 
 - remote:
   - upstream
@@ -57,7 +61,7 @@ hash
   - fetch vs pull
   - push
 
-@ulend
+@snapend
 
 ---
 
@@ -105,7 +109,7 @@ Use merge requests to merge to master
 
 Note:
 
-quality - look at your past commits can you understand them Yourself?
+quality - look at your past commits. can you understand them Yourself?
 look at others commits - are they understandable?
 
 @color[blue](Quality:)
