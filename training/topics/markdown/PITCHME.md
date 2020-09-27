@@ -362,7 +362,7 @@ Format: \!\[Alt text\](url)
 
 @snap[midpoint text-06 text-left span-80]
 
-```markdown
+```
 1. one
 1. two
 1. three
@@ -379,7 +379,7 @@ Format: \!\[Alt text\](url)
 1. two
 1. three
    - Also yes, you can combine unordered with ordered list
-   - Just give `three spaces` and your list will be nested
+   - Just give three spaces and your list will be nested
    - How cool and easy
 
 @snapend
