@@ -234,7 +234,7 @@ return "x";
 }
 \` \` \`
 
-@snap[east span-50 fragment]
+@snap[east text-06 span-50 fragment]
 
 ```javascript
 const store = createStore(reducer);
