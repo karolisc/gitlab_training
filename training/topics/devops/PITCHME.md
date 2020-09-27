@@ -82,7 +82,7 @@ do search, diff on paper
 
 ---
 
-#### idea to production
+#### @color[green](idea) to @color[blue](product))
 
 ![](assets/img/idea-to-production-10-steps.png)
 
@@ -103,7 +103,7 @@ Note:
 
 ---
 
-#### idea to production
+#### @color[green](idea) to @color[blue](product))
 
 ![](assets/img/idea-to-production-10-steps-idea.png)
 
@@ -125,7 +125,7 @@ e.g mattermost
 
 ---
 
-#### idea to production
+#### @color[green](idea) to @color[blue](product))
 
 ![](assets/img/idea-to-production-10-steps-issue.png)
 
@@ -148,7 +148,7 @@ in the issue tracker.
 
 ---
 
-#### idea to production
+#### @color[green](idea) to @color[blue](product))
 
 ![](assets/img/idea-to-production-10-steps-plan.png)
 
@@ -171,7 +171,7 @@ For this, we can use the Issue Board.
 
 ---
 
-#### idea to production
+#### @color[green](idea) to @color[blue](product))
 
 ![](assets/img/idea-to-production-10-steps-code.png)
 
@@ -192,7 +192,7 @@ Now we're ready to write our code, once we have everything organized.
 
 ---
 
-#### idea to production
+#### @color[green](idea) to @color[blue](product))
 
 ![](assets/img/idea-to-production-10-steps-commit.png)
 
@@ -214,7 +214,7 @@ a feature-branch with version control.
 
 ---
 
-#### idea to production
+#### @color[green](idea) to @color[blue](product))
 
 ![](assets/img/idea-to-production-10-steps-test.png)
 
@@ -235,7 +235,7 @@ With GitLab CI, we can run our scripts to build and test our application.
 
 ---
 
-#### idea to production
+#### @color[green](idea) to @color[blue](product))
 
 ![](assets/img/idea-to-production-10-steps-review.png)
 
@@ -257,7 +257,7 @@ we are ready to get our code reviewed and approved.
 
 ---
 
-#### idea to production
+#### @color[green](idea) to @color[blue](product))
 
 ![](assets/img/idea-to-production-10-steps-staging.png)
 
@@ -279,7 +279,7 @@ if everything worked as we were expecting or if we still need adjustments.
 
 ---
 
-#### idea to production
+#### @color[green](idea) to @color[blue](product))
 
 ![](assets/img/idea-to-production-10-steps-production.png)
 
@@ -301,7 +301,7 @@ it's time to deploy to our production environment!
 
 ---
 
-#### idea to production
+#### @color[green](idea) to @color[blue](product))
 
 ![](assets/img/idea-to-production-10-steps-feedback.png)
 
