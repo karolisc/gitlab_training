@@ -25,7 +25,7 @@ generate (convert) - doc, pdf, publishers(books)
 
 @snapend
 
-@snap[midpoint]
+@snap[midpoint text-08]
 
 - Configs
 - Infrastructure as Code
