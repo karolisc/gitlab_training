@@ -253,15 +253,11 @@ with javascript syntax highlighting
 
 @snapend
 
-@snap[east text-left fragment]
+@box[](#### This is header 4)
 
-#### This is header 4
+@box[](##### This is header 5)
 
-##### This is header 5
-
-###### This is header 6
-
-@snapend
+@box[](###### This is header 6)
 
 ---?color=#09868B
 
