@@ -25,14 +25,17 @@ generate (convert) - doc, pdf, publishers(books)
 
 @snapend
 
-<br><br>
-
-@snap[midpoint text-08 fragment]
+@snap[west text-08 fragment]
 
 - Configs
 - Infrastructure as Code
 - Documentation + self generated
 - Documents
+
+@snapend
+
+@snap[east text-08 fragment]
+
 - Presentations - @color[green](e.g this one)
 - Flow diagrams (mermaid)
 - CMS - e.g. grav
