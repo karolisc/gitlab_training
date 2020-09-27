@@ -241,27 +241,15 @@ with javascript syntax highlighting
 
 @snapend
 
-@snap[west span-50]
+@snap[midpoint]
 
 ```markdown
 #### This is header 4
 
 ##### This is header 5
 
-###### This is header 6(HTML <h6>)
-```
-
-@snapend
-
-@snap[east span-50 fragment]
-
-#### This is header 4
-
-##### This is header 5
-
 ###### This is header 6
-
-@snapend
+```
 
 ---?color=#09868B
 
