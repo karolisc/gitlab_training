@@ -219,7 +219,13 @@ Markdown will not rendered character after backslash
 
 ---?color=#09868B
 
+@snap[north]
+
 #### fence code blocks
+
+@snapend
+
+@snap[midpoint]
 
 ```javascript
 const store = createStore(reducer);
@@ -227,6 +233,8 @@ function reducer(state = [], action) {
   return "x";
 }
 ```
+
+@snapend
 
 Note:
 
