@@ -251,7 +251,7 @@ function redu(state = [], on) {
 
 @snapend
 
-@snap[north-west span-50]
+@snap[south-west span-50]
 
 ```
 
@@ -262,7 +262,7 @@ kitas ka
 
 @snapend
 
-@snap[north-east span-50 fragment]
+@snap[south-east span-50 fragment]
 
 ```markdown
 laikas bega + reikia padirbėti
