@@ -343,7 +343,7 @@ Format: \!\[Alt text\](url)
 
 @snapend
 
-@snap[south text-06 text-left span-100]
+@snap[south text-06 text-left span-100 fragment]
 
 - first
 - second
@@ -377,7 +377,7 @@ Format: \!\[Alt text\](url)
 
 @snapend
 
-@snap[south text-06 text-left span-100]
+@snap[south text-06 text-left span-100 fragment]
 
 1. one
 2. two
