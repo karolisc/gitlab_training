@@ -332,7 +332,7 @@ Format: \!\[Alt text\](url)
 
 @snapend
 
-@snap[west text-06 text-left span-80]
+@snap[midpoint text-06 text-left span-80]
 
 ```markdown
 - first
@@ -360,11 +360,7 @@ Format: \!\[Alt text\](url)
 
 @snapend
 
-@snap[west text-06 text-left]
-
-@snapend
-
-@snap[west text-06 text-left span-80]
+@snap[midpoint text-06 text-left span-80]
 
 ```markdown
 1. one
@@ -380,8 +376,8 @@ Format: \!\[Alt text\](url)
 @snap[south text-06 text-left span-80 fragment]
 
 1. one
-2. two
-3. three
+1. two
+1. three
    - Also yes, you can combine unordered with ordered list
    - Just give three spaces and your list will be nested
    - How cool and easy
