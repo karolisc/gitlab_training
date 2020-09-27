@@ -366,7 +366,7 @@ Format: \!\[Alt text\](url)
 1. one
 1. two
 1. three
-   - Also yes, you can combine unordered with ordered list
+   - You can combine unordered with ordered list
    - Just give three spaces and your list will be nested
    - How cool and easy
 ```
@@ -378,7 +378,7 @@ Format: \!\[Alt text\](url)
 1. one
 1. two
 1. three
-   - Also yes, you can combine unordered with ordered list
+   - You can combine unordered with ordered list
    - Just give three spaces and your list will be nested
    - How cool and easy
 
