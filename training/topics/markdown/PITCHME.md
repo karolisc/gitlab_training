@@ -256,11 +256,11 @@ function redu(state = [], on) {
 ```
 
 \`\`\`
-Kai tingime formatuoti texta
-pagal markdown taisykles
-Tinka:
-1. kontaktu informacijai ivesti
-1. citavimui
+For lazy ones, who are not following
+makrdown syntax rules
+Sutable for:
+1. contact info input
+1. email citation
 \`\`\`
 
 ```
@@ -269,13 +269,12 @@ Tinka:
 
 @snap[south-east span-50 fragment]
 
-```markdown
-Kai tingime formatuoti texta
-pagal markdown taisykles
-Tinka:
-
-1. kontaktu informacijai ivesti
-1. citavimui
+```
+For lazy ones, who are not following
+makrdown syntax rules
+Sutable for:
+1. contact info input
+2. email citation
 ```
 
 @snapend
