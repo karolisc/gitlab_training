@@ -35,14 +35,14 @@ easy way to categorize the issues or MR
 #### organize Our work
 
 - assignee - one owner and only one per issue
-- interested in an issue?
-  - add to to-do list
-  - subscribe
 - add Due-date
 - add estimate time
 - group issues together - Milestones
 - create boards
 - use tempates (issue, MR)
+- interested in an issue?
+  - add to to-do list
+  - subscribe
 
 Note:
 
@@ -52,22 +52,21 @@ avoid task lists
 
 #### Merge requests (MR)
 
-1. When you want feedback create a merge request.  
-   Target is the ‘master’ branch.
-1. Assign or mention the person you would like to review.
-1. Add [Draft] to the title if it’s a work in progress.
-1. When accepting, always delete the branch.
-1. Anyone can comment, not just the assignee.
-1. Push corrections to the same branch.
+1. want feedback? - create a merge request
+1. assign or mention the person you would like to review
+1. add [Draft] to the title if it’s a work in progress
+1. when accepting, always delete the branch
+1. anyone can comment, not just the assignee
+1. push corrections to the same branch
 
 Note:
 
 Merge requests steps  
 Create your first merge request:
 
-Use the blue button in the activity feed.  
-View the diff (changes) and leave a comment.  
-Push a new commit to the same branch.  
+Use the blue button in the activity feed  
+View the diff (changes) and leave a comment  
+Push a new commit to the same branch  
 Review the changes again and notice the update.
 
 ---
@@ -78,19 +77,21 @@ Review the changes again and notice the update.
   same file in similar area
 - merge conflicts are annoying
 - can feel complicated
-- Happen all the time
-- Need to fix conflicts one by one
+- happen all the time
+- need to fix conflicts one by one
 
 ---
 
 #### Feedback and Collaboration
 
-- Merge requests are a time for feedback and collaboration.
-- Giving feedback is hard.
-- Be as kind as possible.
-- Receiving feedback is hard.
-- Be as receptive as possible.
-- Feedback is about the best work, not the person. You are not your work
+- MR are a time for feedback and collaboration
+- giving feedback is hard
+- be as kind as possible
+- empower approval system
+- receiving feedback is hard
+- be as receptive as possible
+- feedback is about the best work, not the person
+  You are not your work
 
 ---
 
@@ -108,26 +109,22 @@ Review the changes again and notice the update.
 
 GitLab helps to get from idea to production using a single platform:
 
-- It's **effective**, because you get your desired results.
+- It's **effective**, because you get your desired results
 - It's **efficient**, because you achieve maximum
-  productivity with minimum effort and expense.
+  productivity with minimum effort and expense
 - It's **productive**, because you are able to plan
-  effectively and act efficiently.
+  effectively and act efficiently
 - It's **easy**, because you don't need to set up different tools
-  to accomplish what you need with just one, GitLab.
+  to accomplish what you need with just one, GitLab
 - It's **fast**, because you don't need to jump across
-  multiple platforms to get your job done.
+  multiple platforms to get your job done
 
 ---
 
-Explore GitLab projects
+TODO
 
-Dashboard
+Explore GitLab projects
 User Preferences
-README, Changelog, License shortcuts
-Issues
-Milestones and Labels
-Manage project members
 Project settings
 
 ---
