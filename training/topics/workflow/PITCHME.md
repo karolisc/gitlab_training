@@ -22,9 +22,13 @@ Elaborating new code implementations
 
 #### add labels
 
-- easy way to categorize the issues or MR
 - priority
 - status
+- category
+
+Note:
+
+easy way to categorize the issues or MR
 
 ---
 
