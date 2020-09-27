@@ -14,31 +14,50 @@
 
 @ulend
 
-@snap[south span-80 text-08 text-bottom text-left]
+@snap[south span-80 text-08 text-left]
 by Linus Torvalds
 @snapend
 
 ---
 
-#### Terminology, Git Concepts
+#### Concepts
+
+@snap[west]
+
+![](assets/img/index1@2x.png)
+
+@snapend
+
+@snap[east]
 
 - working directory
 - staging area
 - repository
+
+@snapend
+
+---
+
+#### Terminology
+
+@ul
+
+local
+
 - Untracked files
 - commit
-- remote
+- feature branch
+
+remote
+
 - upstream
-- feature branching
-- clone - download
-- fork - copy
+- remote
+- clone (download)
+- fork (copy)
 - fetch vs pull
 - push
-  features
-- ammend commits
-- undo changes
 
-![](assets/img/index1@2x.png)
+@ulend
 
 ---
 
