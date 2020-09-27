@@ -14,7 +14,7 @@
 
 @ulend
 
-@snap[south text-08 text-left]
+@snap[south span-100 text-08 text-left]
 by Linus Torvalds
 @snapend
 
