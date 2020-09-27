@@ -412,7 +412,7 @@ Format: \!\[Alt text\](url)
 
 @snapend
 
-@snap[south fragment text-06]
+@snap[south-west fragment text-06]
 
 |       | text alignment |
 | ----- | :------------- |
@@ -429,7 +429,7 @@ limited - simple one row tables
 
 ---?color=#09868B
 
-### Workshop, Hands-on
+### Hands-on
 
 <https://www.markdowntutorial.com/>
 
