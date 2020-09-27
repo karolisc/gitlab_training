@@ -284,7 +284,7 @@ Review the changes again and notice the update.
 
 @snap[west span-80 text-08]
 
-From idea to production using a single platform:
+From idea to product using a single platform:
 
 - It's **effective**, get desired results
 - It's **efficient**, minimum effort and expense
