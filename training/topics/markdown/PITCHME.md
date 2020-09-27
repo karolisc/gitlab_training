@@ -241,19 +241,19 @@ with javascript syntax highlighting
 
 @snapend
 
-@div[left-50]
+@snap[west]
 
 ```markdown
 #### This is header 4
 
 ##### This is header 5
 
-###### This is header 6, in HTML <h6>
+###### This is header 6, in HTML<h6>
 ```
 
-@divend
+@snapend
 
-@div[right-50 text-left fragment]
+@snap[east text-left fragment]
 
 #### This is header 4
 
@@ -261,7 +261,7 @@ with javascript syntax highlighting
 
 ###### This is header 6
 
-@divend
+@snapend
 
 ---?color=#09868B
 
