@@ -310,7 +310,7 @@ with javascript syntax highlighting
 
 @spanend
 
-@snap[midpoint test-center span-80]
+@snap[midpoint text-center span-80]
 
 ```
 Format: \!\[Alt text\](url)
