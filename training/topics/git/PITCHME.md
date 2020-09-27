@@ -39,7 +39,11 @@ hash
 
 ---
 
+@snap[north]
+
 #### Terminology
+
+@snapend
 
 @snap[west fragment]
 
