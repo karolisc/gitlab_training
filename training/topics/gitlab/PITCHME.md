@@ -276,9 +276,15 @@ Review the changes again and notice the update.
 
 ---
 
+@snap[north]
+
 #### Conclusions
 
-GitLab helps to get from idea to production using a single platform:
+@snapend
+
+@snap[west span-80 text-08]
+
+From idea to production using a single platform:
 
 - It's **effective**, because you get your desired results
 - It's **efficient**, because you achieve maximum
@@ -289,6 +295,8 @@ GitLab helps to get from idea to production using a single platform:
   to accomplish what you need with just one, GitLab
 - It's **fast**, because you don't need to jump across
   multiple platforms to get your job done
+
+@snapend
 
 ---
 
