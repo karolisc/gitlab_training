@@ -189,8 +189,8 @@ _You **can** combine them_
 
 #### backslash escapes
 
-Markdown will not rendered character after backslash
-\*asterisks, not italic\* => _asterisks, not italic_
+Markdown will not rendered character after backslash  
+\* asterisks, not italic \* => _asterisks, not italic_
 
 @snapend
 
