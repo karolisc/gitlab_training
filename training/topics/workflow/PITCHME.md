@@ -6,7 +6,6 @@
 
 - always start from an Issue
 - one-to-one link to issues
-- one owner and only one per issue
 
 ---
 
@@ -19,6 +18,7 @@
 
 #### organize Our work
 
+- one owner and only one per issue
 - add Due-date
 - add estimate time
 - group issues together - Milestones
