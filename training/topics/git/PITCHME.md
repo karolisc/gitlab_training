@@ -127,8 +127,6 @@ do it for others
 
 #### Resources
 
-self paced git learning
-
 1. [katacoda](https://www.katacoda.com/courses/git)
 1. [pro git book](https://git-scm.com/book/en/v2)
 1. [understanding the github flow](https://guides.github.com/introduction/flow/)
