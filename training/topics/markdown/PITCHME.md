@@ -185,7 +185,7 @@ _You **can** combine them_
 
 ---?color=#09868B
 
-@snap[north]
+@snap[north span-100]
 
 #### backslash escapes
 
