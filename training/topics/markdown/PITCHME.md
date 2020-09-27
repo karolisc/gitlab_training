@@ -256,8 +256,11 @@ function redu(state = [], on) {
 ```
 
 \`\`\`
-laikas bega + reikia padirbėti
-kitas ka
+Kai tingime formatuoti texta
+pagal markdown taisykles
+Tinka:
+1. kontaktu informacijai ivesti
+1. citavimui
 \`\`\`
 
 ```
@@ -267,8 +270,12 @@ kitas ka
 @snap[south-east span-50 fragment]
 
 ```markdown
-laikas bega + reikia padirbėti
-kitas ka
+Kai tingime formatuoti texta
+pagal markdown taisykles
+Tinka:
+
+1. kontaktu informacijai ivesti
+1. citavimui
 ```
 
 @snapend
