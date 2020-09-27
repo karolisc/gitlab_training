@@ -24,6 +24,8 @@ by Linus Torvalds
 
 ![](assets/img/index1@2x.png)
 
+---
+
 #### Concept "commits"
 
 ![](assets/img/git_commits.png)
