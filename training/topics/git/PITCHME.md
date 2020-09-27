@@ -142,8 +142,12 @@ cd ~/git_projects
 git init
 ```
 
+@snap[south span-100]
+
 @[1-2](create directory)
 @[3](initialize git repository)
+
+@snapend
 
 Note:
 
