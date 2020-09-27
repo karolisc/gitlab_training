@@ -225,7 +225,16 @@ Markdown will not rendered character after backslash
 
 @snapend
 
-@snap[midpoint]
+@snap[west span-50]
+
+\`\`\`javascript
+const store = createStore(reducer);
+function reducer(state = [], action) {
+return "x";
+}
+\`\`\`
+
+@snap[east span-50]
 
 ```javascript
 const store = createStore(reducer);
