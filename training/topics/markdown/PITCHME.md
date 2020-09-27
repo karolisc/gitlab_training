@@ -31,7 +31,7 @@ generate (convert) - doc, pdf, publishers(books)
 
 @snapend
 
-@snap[west text-08 fragment]
+@snap[west text-08 span-50 fragment]
 
 - Configs
 - Infrastructure as Code
@@ -41,7 +41,7 @@ generate (convert) - doc, pdf, publishers(books)
 
 @snapend
 
-@snap[east text-08 fragment]
+@snap[east text-08 span-50 fragment]
 
 - Flow diagrams (mermaid)
 - CMS - e.g. grav
