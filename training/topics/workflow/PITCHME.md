@@ -24,6 +24,7 @@
 - add estimate time
 - group issues together - Milestones
 - create boards
+- use tempates
 
 Note:
 
