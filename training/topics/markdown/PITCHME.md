@@ -234,6 +234,8 @@ return "x";
 }
 \` \` \`
 
+@snapend
+
 @snap[east text-06 span-50 fragment]
 
 ```javascript
