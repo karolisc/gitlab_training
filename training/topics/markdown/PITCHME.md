@@ -35,7 +35,7 @@ generate (convert) - doc, pdf, publishers(books)
 
 - Configs
 - Infrastructure as Code
-- Documentation + self generated
+- Documentation + generated
 - Documents
 - Presentations - @color[green](e.g this one)
 
