@@ -281,7 +281,7 @@ Note:
 
 @snap[west span-80 text-08 text-center]
 
-From idea to product using a single platform:
+From @color[green](idea) to @color[blue](product) using a single platform:
 
 - It's **effective**, get desired results
 - It's **efficient**, minimum effort and expense
