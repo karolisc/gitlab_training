@@ -41,20 +41,16 @@ by Linus Torvalds
 
 @snapend
 
-@snap[south-west text-06 text-left]
-
-<br><br>
+@snap[south-west text-06]
 
 HEAD  
 hash
 
 @snapend
 
-@snap[south-east text-06 text-left]
+@snap[south-east text-06]
 
-<br><br>
-
-text vs blob
+text vs blob  
 .git
 
 @snapend
