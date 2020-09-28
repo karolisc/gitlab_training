@@ -60,7 +60,7 @@ hash
 
 @snapend
 
-@snap[west text-06 fragment]
+@snap[west text-08 fragment]
 
 - local
   - Untracked files
@@ -69,7 +69,7 @@ hash
 
 @snapend
 
-@snap[east text-06 fragment]
+@snap[east text-08 fragment]
 
 - remote
   - upstream
