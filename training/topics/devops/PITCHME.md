@@ -86,7 +86,7 @@ do search, diff on paper
 
 #### @color[green](idea) to @color[blue](product)
 
-![filter=saturate](assets/img/idea-to-production-10-steps.png)
+![](assets/img/idea-to-production-10-steps.png)
 
 1. Chat conversation
 2. Issue creation
