@@ -14,8 +14,8 @@
 - [devops](?p=training/topics/devops)
 - [markdown](?p=training/topics/markdown)
 - [git](?p=training/topics/git)
-  - [gitlab](?p=training/topics/gitlab)
-- [hands-on gitlab](?p=training/topics/gitlab-hands-on)
+- [gitlab](?p=training/topics/gitlab)
+  - [hands-on gitlab](?p=training/topics/gitlab-hands-on)
 - [vscode](?p=training/topics/vscode)
   - [hands-on vscode](?p=training/vscode-hands-on)
 - practice - discussion
