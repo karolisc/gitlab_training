@@ -2,15 +2,6 @@
 
 ---
 
-#### Setup
-
-```
-    git config --global user.name "Vardas Pavardė"
-    git config --global user.email "pašto_adresas"
-```
-
----
-
 #### Self signed ssl errors
 
 ```
@@ -38,8 +29,7 @@
     git config --global diff.odt.textconv pandoc --to=rst
 ```
 
-Kiekvienoje `git` repositorijos šakniniame kataloge  
-sukuriame **.attributes** failą su unix `EOL`
+##### create .attributes file with unix `EOL` in root
 
 ```
     echo "*.docx diff=docx" >> ./.attributes
