@@ -18,7 +18,7 @@ adapting transparent flow
 
 #### why vscode 2
 
-![](assets/img/stackoverflow-2019-ide.PNG.PNG)
+![](assets/img/stackoverflow-2019-ide.PNG)
 
 ---
 
