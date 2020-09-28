@@ -48,7 +48,9 @@ by Linus Torvalds
 <br><br>
 
 HEAD  
-hash
+hash  
+text vs blob
+.git
 
 @snapend
 

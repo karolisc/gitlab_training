@@ -20,15 +20,17 @@ adapting transparent flow
 
 - Core Features
   - IntelliSense - intelligent completion
-  - terminal
-  - extensions
-  - git integration
+  - integrated
+    - terminal
+    - git
   - debugger
+  - extensions
   - Command Palette
   - Find & Replace
-  - Customization
-  - Workspaces
-  - Code Formatting
+  - sustomization
+  - workspaces
+  - code Formatting
+  - remote work
 
 ---
 
