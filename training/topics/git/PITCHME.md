@@ -60,7 +60,7 @@ hash
 
 @snapend
 
-@snap[west fragment]
+@snap[west text-06 fragment]
 
 - local
   - Untracked files
@@ -69,7 +69,7 @@ hash
 
 @snapend
 
-@snap[east fragment]
+@snap[east text-06 fragment]
 
 - remote
   - upstream
@@ -78,6 +78,12 @@ hash
   - fork (copy)
   - fetch vs pull (sync)
   - push
+
+@snapend
+
+@snap[south span-80]
+
+![](assets/img/git-repos-local-remote.svg)
 
 @snapend
 
