@@ -70,7 +70,8 @@ Gitlab vs others
 - auto closing (patterns)
 - file attachments
 - threaded discussions
-- create, search and view issues from mattermost
+- create, search and view issues
+  from mattermost
 - time tracking (estimated, spent)
 - move issues around the projects
 - quick actions (e.g /spend...)
@@ -80,7 +81,7 @@ Gitlab vs others
 
 ### @color[green](Key) features - Create
 
-- MR status - WIP, draft
+- MR status - draft
 - commit graph & reporting
 - file search
 - squash and merge
@@ -238,8 +239,8 @@ Review the changes again and notice the update.
 
 #### Merge conflicts
 
-- two people at the same time are modifying
-  same file in similar area
+- two people at the same time are
+  modifying same file in similar area
 - merge conflicts are annoying
 - can feel complicated
 - happen all the time
@@ -247,7 +248,7 @@ Review the changes again and notice the update.
 
 ---
 
-#### Feedback and Collaboration
+#### feedback and collaboration
 
 - MR are a time for feedback and collaboration
 - giving feedback is hard
@@ -265,6 +266,8 @@ Review the changes again and notice the update.
 - view diff (text, img)
 - add comments
 - approve
+
+Note:
 
 <https://github.com/thoughtbot/guides/tree/master/code-review>
 
@@ -300,7 +303,7 @@ Project settings
 
 #### Resources
 
-[self paced git learning](https://courses.platzi.com/)
+[self paced gitlab learning](https://courses.platzi.com/)
 
 ---
 
