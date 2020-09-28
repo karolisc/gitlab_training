@@ -1,5 +1,11 @@
 ---
 #### About me
+
+Note:
+
+all knowing  
+infallible
+
 ---
 
 @snap[north]

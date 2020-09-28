@@ -21,6 +21,10 @@
 by Linus Torvalds
 @snapend
 
+Note:
+
+git - unpleasant, silly, incompetent, annoying, senile, elderly or childish person
+
 ---
 
 #### Concepts "trees"
@@ -103,11 +107,12 @@ text vs blob
 <br/>
 @ul
 
-- Short live branch
+- @color[purple](Short live) branch
 - @color[red](Protect) mainstream work
 - Change proposals @color[blue](ONLY!)
 
-@ulend  
+@ulend
+
 @divend
 
 Note:
