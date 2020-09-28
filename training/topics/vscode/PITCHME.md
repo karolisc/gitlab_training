@@ -1,8 +1,8 @@
-#### git gui clients
+#### GUI
 
-<https://git-scm.com/downloads/guis>
-
-Microsoft visual studio code (vscode)
+- [git GUI clients](https://git-scm.com/downloads/guis)
+- ide vs text editor
+- Microsoft visual studio code (vscode)
 
 Note:
 
@@ -13,7 +13,7 @@ adapting transparent flow
 
 ![](assets/img/ide-trend.PNG)
 
-ide vs text editor
+![](assets/img/stackoverflow-2019-ide.PNG.PNG)
 
 ---
 
@@ -50,3 +50,5 @@ extension:
 
 References
 <https://git-scm.com/downloads/guis>
+<https://trends.google.com/trends/explore?q=%2Fm%2F0134xwrk,%2Fm%2F0b6h18n,%2Fm%2F0ds5dxz,%2Fm%2F03v0mn>
+<https://insights.stackoverflow.com/survey/2019>
