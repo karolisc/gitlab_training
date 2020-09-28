@@ -293,14 +293,6 @@ From @color[green](idea) to @color[blue](product) using a single platform:
 
 ---
 
-TODO
-
-Explore GitLab projects
-User Preferences
-Project settings
-
----
-
 #### Resources
 
 [self paced gitlab learning](https://courses.platzi.com/)

@@ -16,11 +16,9 @@ Create token
 
 ---
 
-
 #### organize Our work 1
 
 ![](assets/img/issues_main_view.png)
-
 
 Note:
 
@@ -29,7 +27,6 @@ Note:
 - priority
 - status
 - category
-
 
 - assignee - one owner and only one per issue
 - add Due-date
@@ -43,7 +40,6 @@ Note:
   - subscribe
 
 ---
-
 
 #### organize Our work 2
 
@@ -71,6 +67,7 @@ Note:
 6. push corrections to the same branch
 
 #### Merge conflicts
+
 #### Feedback and Collaboration
 
 #### work review
@@ -95,7 +92,11 @@ Note:
 
 @snap[midpoint]
 
-project: gitlab-training
+Test bed: project - gitlab-training
+
+- Explore
+  - GitLab projects
+  - User Preferences
 
 @snapend
 

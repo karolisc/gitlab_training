@@ -10,27 +10,32 @@ adapting transparent flow
 
 ---
 
-#### why vscode
+#### why vscode 1
 
 ![](assets/img/ide-trend.PNG)
+
+---
+
+#### why vscode 2
 
 ![](assets/img/stackoverflow-2019-ide.PNG.PNG)
 
 ---
 
-- Core Features
-  - IntelliSense - intelligent completion
-  - integrated
-    - terminal
-    - git
-  - debugger
-  - extensions
-  - Command Palette
-  - Find & Replace
-  - sustomization
-  - workspaces
-  - code Formatting
-  - remote work
+#### Core Features
+
+- IntelliSense - intelligent completion
+- integrated
+  - terminal
+  - git
+- debugger
+- extensions
+- Command Palette
+- Find & Replace
+- sustomization
+- workspaces
+- code Formatting
+- remote work
 
 ---
 
@@ -42,7 +47,8 @@ adapting transparent flow
 
 #### setup
 
-extension:
+extensions:
+
 gitlab - token
 
 ---
