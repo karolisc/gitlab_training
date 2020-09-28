@@ -22,19 +22,27 @@
 
 ---
 
-##### Setup Pandoc
+@snap[north span-100]
+
+#### Setup Pandoc
 
 ```
     git config --global diff.docx.textconv pandoc --to=rst
     git config --global diff.odt.textconv pandoc --to=rst
 ```
 
-##### create .attributes file with unix `EOL` in root
+@snapend
+
+@snap[south span-100]
+
+#### create .attributes file with unix `EOL` in root
 
 ```
     echo "*.docx diff=docx" >> ./.attributes
     echo "*.odt diff=odt" >> ./.attributes
 ```
+
+@snapend
 
 ---
 
