@@ -20,7 +20,9 @@ adapting transparent flow
 
 ![](assets/img/stackoverflow-2019-ide.PNG)
 
-## stackoverflow 2019 survey
+stackoverflow 2019 survey
+
+---
 
 #### Core Features
 
