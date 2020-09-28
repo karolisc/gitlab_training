@@ -18,7 +18,7 @@
 - [gitlab](?p=training/topics/gitlab)
   - [hands-on gitlab](?p=training/topics/gitlab-hands-on)
 - [vscode](?p=training/topics/vscode)
-  - [hands-on vscode](?p=training/vscode-hands-on)
+  - [hands-on vscode](?p=training/topics/vscode-hands-on)
 - practice - discussion
 
 @ulend
