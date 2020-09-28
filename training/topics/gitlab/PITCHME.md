@@ -279,7 +279,7 @@ Note:
 
 @snapend
 
-@snap[west span-80 text-08]
+@snap[west span-80 text-08 text-center]
 
 From idea to product using a single platform:
 
