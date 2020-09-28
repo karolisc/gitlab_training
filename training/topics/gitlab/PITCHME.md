@@ -2,8 +2,8 @@
 
 - framework
 - collaboration
-- integrated (@color[blue](Dev)) vs (@color[orange](Ops)) tool chain
-- complete (@color[blue](Dev)) vs (@color[orange](Ops)) cycle
+- integrated @color[blue](Dev)@color[orange](Ops) tool chain
+- complete @color[blue](Dev)@color[orange](Ops) cycle
 
 Note:
 
