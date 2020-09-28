@@ -85,10 +85,11 @@ Note:
 
 ---
 
-
 ### Hands-on Gitlab
 
 #### 20 min
+
+project: gitlab-training
 
 ---
 
