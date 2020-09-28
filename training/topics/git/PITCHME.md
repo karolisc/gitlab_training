@@ -41,7 +41,20 @@ by Linus Torvalds
 
 @snapend
 
-@snap[south span-80 text-06 text-left]
+@snap[south-west text-06 text-left]
+
+<br><br>
+
+<br><br>
+
+HEAD  
+hash  
+text vs blob
+.git
+
+@snapend
+
+@snap[south-east text-06 text-left]
 
 <br><br>
 
