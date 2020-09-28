@@ -1,7 +1,7 @@
 ---
 @snap[north]
 
-#### Git introduction
+#### Git intro
 
 @snapend
 
