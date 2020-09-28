@@ -11,7 +11,7 @@
 @snap[midpoint text-08]
 @ul
 
-- [outro](?p=training/common/intro)
+- [outro](?p=common/intro)
 - [devops](?p=training/topics/devops)
 - [markdown](?p=training/topics/markdown)
 - [git](?p=training/topics/git)
