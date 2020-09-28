@@ -239,7 +239,7 @@ Review the changes again and notice the update.
 
 #### Merge conflicts
 
-- two people at the same time are
+- two people at the same time are  
   modifying same file in similar area
 - merge conflicts are annoying
 - can feel complicated
