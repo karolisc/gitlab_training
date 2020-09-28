@@ -171,7 +171,7 @@ Gitlab vs others
 #### create an Issue
 
 - @color[red](allways) start from an Issue
-- one-to-one link to issues
+- @color[red](one-to-one) link to issues
 
 Note:
 
