@@ -2,7 +2,7 @@
 
 @snap[north]
 
-##### ~~Gitlab~~
+### ~~Gitlab~~
 
 #### training course
 
