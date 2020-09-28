@@ -2,6 +2,62 @@
 
 ---
 
+#### Setup
+
+```
+    git config --global user.name "Vardas Pavardė"
+    git config --global user.email "pašto_adresas"
+```
+
+Galimos `Self signed` ssl sertifikatų klaidos:
+
+```
+    fatal: unable to access .....   SSL certificate problem:
+    self signed certificate in certificate chain
+
+    git config --global http.sslVerify false
+```
+
+---
+
+#### Setup Install extensions
+
+1. [excel konverteris į markdown-lentelę](https://github.com/csholmq/vscode-excel-to-markdown-table)
+2. Table of content - [TOC](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
+3. [pdf viewer](https://github.com/tomoki1207/vscode-pdfviewer)
+4. [.md konverteris į .pdf, .docx, .html](https://github.com/dfinke/vscode-pandoc)
+
+---
+
+##### Setup Pandoc
+
+<https://www.onwebsecurity.com/configuration/diff-binary-files-docx-odt-pdf-with-git.html>
+
+```
+    git config --global diff.docx.textconv pandoc --to=rst
+    git config --global diff.odt.textconv pandoc --to=rst
+```
+
+Kiekvienoje `git` repositorijos šakniniame kataloge  
+sukuriame **.attributes** failą su unix `EOL`
+
+```
+    echo "*.docx diff=docx" >> ./.attributes
+    echo "*.odt diff=odt" >> ./.attributes
+```
+
+```
+pandoc test
+    modifikuoti repositorijoje esantį *.docx failą.
+    git diff --color-words
+    rezultatas: raudonai-žalias
+
+```
+
+---
+
+#### test full devops cycle
+
 1. start from pull - @color[red](allways)
 2. create feature branch
 3. make changes

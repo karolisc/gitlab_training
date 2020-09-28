@@ -49,9 +49,8 @@ stackoverflow 2019 survey
 
 #### setup
 
-extensions:
-
-gitlab - token
+- create gitlab - token
+- install and setup extensions
 
 ---
 
