@@ -1,6 +1,9 @@
 ---
+@snap[north]
 
 #### Git introduction
+
+@snapend
 
 @ul
 
@@ -245,8 +248,8 @@ git push origin meaningful_name
 1. <https://css-irl.info/amending-your-past-commits-with-git/>
 1. <https://www.youtube.com/watch?v=03wb9FvO4Ak&index=5&list=PLFGfElNsQthbQu_IWlNOxul0TbS_2JH-e>
 
-
 ---
+
 #### supporting slides
 
 ---
