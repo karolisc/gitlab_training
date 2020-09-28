@@ -1,4 +1,4 @@
-#### vscode hands on
+#### vscode hands-on
 
 ---
 
@@ -15,6 +15,12 @@
 11. merge - delete branch
 12. sync with remote - pull
 13. delete local branch
+
+---
+
+#### resources
+
+<https://www.katacoda.com/courses/vscode/playground>
 
 ---
 
