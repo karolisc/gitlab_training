@@ -198,7 +198,7 @@ easy way to categorize the issues or MR
 
 ---
 
-#### organize Our work
+#### organize @color[blue](Our) work
 
 - assignee - one owner and only one per issue
 - add Due-date
