@@ -3,7 +3,7 @@
 - framework
 - collaboration
 - integrated @color[blue](Dev)@color[orange](Ops) tool chain
-- complete @color[blue](Dev)@color[orange](Ops) cycle
+- complete @color[blue](Dev)@color[orange](Ops) lifecycle
 
 Note:
 
