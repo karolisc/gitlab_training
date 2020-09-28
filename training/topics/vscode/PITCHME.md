@@ -9,7 +9,8 @@ Note:
 adapting transparent flow
 
 ---
- #### why vscode
+
+#### why vscode
 
 ![](assets/img/ide-trend.PNG)
 
@@ -40,7 +41,7 @@ adapting transparent flow
 #### setup
 
 extension:
- gitlab - token
+gitlab - token
 
 ---
 
@@ -48,7 +49,8 @@ extension:
 
 ---
 
-References
-<https://git-scm.com/downloads/guis>
-<https://trends.google.com/trends/explore?q=%2Fm%2F0134xwrk,%2Fm%2F0b6h18n,%2Fm%2F0ds5dxz,%2Fm%2F03v0mn>
-<https://insights.stackoverflow.com/survey/2019>
+#### References
+
+1. <https://git-scm.com/downloads/guis>
+1. <https://trends.google.com/trends/explore?q=%2Fm%2F0134xwrk,%2Fm%2F0b6h18n,%2Fm%2F0ds5dxz,%2Fm%2F03v0mn>
+1. <https://insights.stackoverflow.com/survey/2019>
