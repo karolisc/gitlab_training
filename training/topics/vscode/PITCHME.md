@@ -11,7 +11,7 @@ adapting transparent flow
 ---
  #### why vscode
 
-![](assets/img/ide-trend.png)
+![](assets/img/ide-trend.PNG)
 
 ide vs text editor
 
