@@ -1,9 +1,14 @@
 ---
 
+@snap[north]
+
 ##### ~~Gitlab~~
 
 #### training course
 
+@snapend
+
+@snap[midpoint]
 @ul
 
 - [devops](?p=training/topics/devops)
@@ -16,6 +21,8 @@
 - practice - discussion
 
 @ulend
+
+@snapend
 
 @snap[south text-04 text-left]
 
