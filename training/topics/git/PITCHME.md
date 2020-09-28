@@ -29,9 +29,17 @@ by Linus Torvalds
 
 ---
 
+@snap[nort]
+
 #### Concept "commits"
 
+@snapend
+
+@snap[midpoint]
+
 ![](assets/img/git_commits.png)
+
+@snapend
 
 @snap[south span-80 text-06 text-left]
 
