@@ -33,7 +33,7 @@
 
 @snapend
 
-@snap[south span-100]
+@snap[midpoint span-100]
 
 #### create .attributes file with unix `EOL` in root
 
@@ -44,7 +44,7 @@
 
 @snapend
 
----
+@snap[midpoint span-100]
 
 #### pandoc test
 
@@ -55,6 +55,8 @@
     rezultatas: raudonai-žalias
 
 ```
+
+@snapend
 
 ---
 
