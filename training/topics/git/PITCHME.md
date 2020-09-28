@@ -133,9 +133,7 @@ do it for others
 
 ---
 
-### Hands-on
-
-#### 20 min
+#### git command basics
 
 ---
 
@@ -220,6 +218,12 @@ git push origin meaningful_name
 
 ---
 
+### Hands-on
+
+#### 20 min
+
+---
+
 #### Quiz
 
 <https://kahoot.it/>
@@ -240,3 +244,11 @@ git push origin meaningful_name
 1. <https://docs.gitlab.com/ee/topics/gitlab_flow.html#commit-often-and-push-frequently>
 1. <https://css-irl.info/amending-your-past-commits-with-git/>
 1. <https://www.youtube.com/watch?v=03wb9FvO4Ak&index=5&list=PLFGfElNsQthbQu_IWlNOxul0TbS_2JH-e>
+
+
+---
+#### supporting slides
+
+---
+
+![](assets/img/features-do-more-with-git.jpg)

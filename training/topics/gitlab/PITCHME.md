@@ -300,10 +300,7 @@ Project settings
 
 #### Resources
 
-TODO tikrinti
-
-self paced git learning
-<https://courses.platzi.com/>
+[self paced git learning](https://courses.platzi.com/)
 
 ---
 
@@ -313,7 +310,7 @@ self paced git learning
 
 ### References
 
-<https://docs.gitlab.com/ee/university/training/user_training.html>
-<https://github.com/thoughtbot/guides/tree/master/code-review>
-<https://about.gitlab.com/features/#compare>
-<https://about.gitlab.com/features/>
+1. <https://docs.gitlab.com/ee/university/training/user_training.html>
+1. <https://github.com/thoughtbot/guides/tree/master/code-review>
+1. <https://about.gitlab.com/features/#compare>
+1. <https://about.gitlab.com/features/>

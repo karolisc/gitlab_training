@@ -14,19 +14,35 @@ Create token
 
 ![](assets/img/new_issue_from_open_issue.png)
 
+---
+
+
+#### organize Our work 1
+
+![](assets/img/issues_main_view.png)
+
+---
+
+#### organize Our work 2
+
+![](assets/img/project_issues_list_view.png)
+
+---
+
+#### organize Our work 3
+
+![](assets/img/issue_board.png)
+
+---
+
+Note:
+
 #### add labels
 
 - priority
 - status
 - category
 
-#### organize Our work
-
-![](assets/img/issues_main_view.png)
-
-![](assets/img/project_issues_list_view.png)
-
-![](assets/img/issue_board.png)
 
 - assignee - one owner and only one per issue
 - add Due-date
@@ -39,7 +55,13 @@ Create token
   - add it to Your to-do list
   - subscribe
 
+---
+
 #### Merge requests (MR)
+
+![](assets/img/merge_request.png)
+
+Note:
 
 1. create a MR
 2. assign or mention reviewer
@@ -49,7 +71,6 @@ Create token
 6. push corrections to the same branch
 
 #### Merge conflicts
-
 #### Feedback and Collaboration
 
 #### work review
@@ -59,6 +80,11 @@ Create token
 - approve
 
 ---
+
+#### Live demo
+
+---
+
 
 ### Hands-on Gitlab
 
