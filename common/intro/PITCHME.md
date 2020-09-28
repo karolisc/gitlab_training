@@ -6,6 +6,10 @@ Note:
 all knowing  
 infallible
 
+manager  
+consultant  
+devops evangelist  
+
 ---
 
 @snap[north]
