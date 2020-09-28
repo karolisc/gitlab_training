@@ -2,7 +2,11 @@
 #### About me
 ---
 
+@snap[north]
+
 #### rules of conduct
+
+@snapend
 
 ![](assets/img/no-why-150x150.png)
 
