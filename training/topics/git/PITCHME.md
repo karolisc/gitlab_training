@@ -48,7 +48,7 @@ hash
 
 @snapend
 
-@snap[south-east text-06]
+@snap[south text-06]
 
 text vs blob  
 .git
