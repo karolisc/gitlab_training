@@ -41,7 +41,7 @@ by Linus Torvalds
 
 @snapend
 
-@snap[south-west span-30 text-06 text-right]
+@snap[south-west span-30 text-06 text-left]
 
 HEAD  
 hash
