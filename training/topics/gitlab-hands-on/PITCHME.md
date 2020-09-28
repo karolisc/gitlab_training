@@ -21,19 +21,6 @@ Create token
 
 ![](assets/img/issues_main_view.png)
 
----
-
-#### organize Our work 2
-
-![](assets/img/project_issues_list_view.png)
-
----
-
-#### organize Our work 3
-
-![](assets/img/issue_board.png)
-
----
 
 Note:
 
@@ -54,6 +41,19 @@ Note:
 - interested in an issue?
   - add it to Your to-do list
   - subscribe
+
+---
+
+
+#### organize Our work 2
+
+![](assets/img/project_issues_list_view.png)
+
+---
+
+#### organize Our work 3
+
+![](assets/img/issue_board.png)
 
 ---
 
