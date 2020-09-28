@@ -60,7 +60,7 @@ hash
 
 @snapend
 
-@snap[west text-08 fragment]
+@snap[west text-07 fragment]
 
 - local
   - Untracked files
@@ -69,7 +69,7 @@ hash
 
 @snapend
 
-@snap[east text-08 fragment]
+@snap[east text-07 fragment]
 
 - remote
   - upstream
@@ -261,6 +261,7 @@ git push origin meaningful_name
 1. <https://docs.gitlab.com/ee/topics/gitlab_flow.html#commit-often-and-push-frequently>
 1. <https://css-irl.info/amending-your-past-commits-with-git/>
 1. <https://www.youtube.com/watch?v=03wb9FvO4Ak&index=5&list=PLFGfElNsQthbQu_IWlNOxul0TbS_2JH-e>
+1. <https://www.cs.swarthmore.edu/~adanner/help/git/>
 
 ---
 
