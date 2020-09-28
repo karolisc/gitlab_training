@@ -12,7 +12,7 @@
 - [gitlab](?p=training/topics/gitlab)
 - [hands-on gitlab](?p=training/topics/gitlab-hands-on)
 - [vscode](?p=training/topics/vscode)
-- EXAM
+- Practice - discusion
 
 @ulend
 
