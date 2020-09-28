@@ -2,7 +2,7 @@
 
 ---
 
-1. start from pull - @size[1.5em fragment]<@color[red](allways))
+1. start from pull - @color[red fragment](allways)
 2. create feature branch
 3. make changes
 4. commit
