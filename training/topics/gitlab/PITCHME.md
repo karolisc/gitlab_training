@@ -53,7 +53,7 @@ Gitlab vs others
 - issue tracking
 - templates
 - task lists
-- GFM
+- GFM @color[green](?)
 - labels
 - label prioritization
 - boards (project, group)
@@ -113,7 +113,7 @@ Gitlab vs others
 - Built-in CI/CD
 - git hooks - policy enforcer
 - directed acylic graph mode for pipelines
-- matrix builds
+- matrix builds @color[green](?)
 
 ---
 
@@ -170,7 +170,7 @@ Gitlab vs others
 
 #### create an Issue
 
-- always start from an Issue
+- @color[red](allways) start from an Issue
 - one-to-one link to issues
 
 Note:
