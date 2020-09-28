@@ -35,7 +35,7 @@ by Linus Torvalds
 
 @snapend
 
-@snap[west span-80]
+@snap[midpoint span-80]
 
 ![](assets/img/git_commits.png)
 
