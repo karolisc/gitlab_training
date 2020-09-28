@@ -29,7 +29,7 @@ by Linus Torvalds
 
 ---
 
-@snap[nort]
+@snap[north]
 
 #### Concept "commits"
 
