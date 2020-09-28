@@ -14,7 +14,7 @@ pencil and blank canvas
 
 #### @color[blue](Dev)@color[orange](Ops) lifecycle
 
-![](assets/img/devops-loop-and-spans-small.png)
+![bg-color white](assets/img/devops-loop-and-spans-small.png)
 
 Note:
 
