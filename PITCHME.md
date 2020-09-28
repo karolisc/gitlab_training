@@ -2,13 +2,13 @@
 
 @snap[north]
 
-### ~~Gitlab~~
+#### ~~Gitlab~~
 
 #### training course
 
 @snapend
 
-@snap[midpoint]
+@snap[midpoint text-08]
 @ul
 
 - [devops](?p=training/topics/devops)
