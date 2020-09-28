@@ -44,7 +44,7 @@
 
 @snapend
 
-@snap[midpoint span-100]
+@snap[south span-100]
 
 #### pandoc test
 
