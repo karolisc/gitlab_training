@@ -85,11 +85,19 @@ Note:
 
 ---
 
+@snap[north]
+
 ### Hands-on Gitlab
 
 #### 20 min
 
+@snapend
+
+@snap[midpoint]
+
 project: gitlab-training
+
+@snapend
 
 ---
 
