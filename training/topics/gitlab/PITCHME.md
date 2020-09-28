@@ -2,8 +2,8 @@
 
 - framework
 - collaboration
-- integrated devops tool chain
-- complete devops cycle tool stack
+- integrated (@color[blue](Dev)) vs (@color[orange](Ops)) tool chain
+- complete (@color[blue](Dev)) vs (@color[orange](Ops)) cycle
 
 Note:
 
