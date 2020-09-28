@@ -81,7 +81,7 @@ hash
 
 @snapend
 
-@snap[south span-50]
+@snap[south]
 
 ![](assets/img/git-repos-local-remote.png)
 
