@@ -1,4 +1,4 @@
-## gitpitch presentations
+### gitpitch v3.0 presentations
 
 [Markdown](https://en.wikipedia.org/wiki/Markdown) based presentations
 
@@ -8,7 +8,7 @@ https://gitpitch.com/karolisc/gitlab_training/master
 Documentation:  
 https://gitpitch.com/docs
 
-## Contributing
+### Contributing
 
 1. Fork it (<https://github.com/yourname/yourproject/fork>)
 2. Create your feature branch (`git checkout -b feature/fooBar`)
