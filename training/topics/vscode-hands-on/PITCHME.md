@@ -19,6 +19,7 @@
 2. Table of content - [TOC](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
 3. [pdf viewer](https://github.com/tomoki1207/vscode-pdfviewer)
 4. [.md converter to .pdf, .docx, .html](https://github.com/dfinke/vscode-pandoc)
+5. [gitlab](https://marketplace.visualstudio.com/items?itemName=GitLab.gitlab-workflow)
 
 ---
 
